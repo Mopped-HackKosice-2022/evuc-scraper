@@ -1,0 +1,3122 @@
+doctor_id,info,open_hours,lat,lng,adresa,title,doctor_url,kraj_id,okres,okres_id
+65-53467744-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-53467744-A0001', 'Miesto prevádzkovania': 'Štefánikova\n217/1\n01401\nBytča', 'Email': 'centa40@gmail.com', 'Telefón': '041 2289136', 'Prevádzkovateľ': 'SK Pharmacy, s.r.o.\nŠtefánikova\n217\n81105\nBytča\nIČO: 53467744'}","Prevádzkovateľ platnosť od: 08.07.2021
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2206971,18.5589597,"Štefánikova
+217/1
+01401
+Bytča",Lekáreň CENTA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/bytca/lekaren-centa.html?page_id=141308,7,Bytča,9
+65-51949113-A0001,"{'Druh': 'Výdajňa zdravotníckych pomôcok', 'Identifikátor': '65-51949113-A0001', 'Miesto prevádzkovania': 'Sidónie Sakalovej\n161/45\n01401\nBytča', 'Mobil': '0908527154', 'Email': 'medisamel@gmail.com', 'Prevádzkovateľ': 'Medisamel, s.r.o.\nSidónie Sakalovej\n161\n01401\nBytča\nIČO: 51949113'}","Prevádzkovateľ platnosť od: 02.03.2020
+Pondelok: 7:30-14:30
+Utorok: 10:00-14:30
+Streda: 7:30-14:30
+Štvrtok: 7:30-14:30
+Piatok: 7:30-14:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2200285,18.5608164,"Sidónie Sakalovej
+161/45
+01401
+Bytča","Výdajňa zdravotníckych pomôcok Medisamel, s.r.o.",https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/bytca/vydajna-zdravotnickych-pomocok-medisamel.html?page_id=132180,7,Bytča,9
+65-50735047-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-50735047-A0001', 'Miesto prevádzkovania': 'Zdravotné stredisko\n165\n01355\nŠtiavnik', 'Mobil': '+421 918926944', 'Email': 'stiavnik@tilialekaren.sk', 'Prevádzkovateľ': 'TILIALS 2 s.r.o.\nDedovec\n1818/336\n01701\nPovažská Bystrica\nIČO: 50735047'}","Prevádzkovateľ platnosť od: 01.07.2019
+Pondelok: 8:00-13:00
+Utorok: 8:00-13:00
+Streda: 8:00-13:00
+Štvrtok: 8:00-13:00
+Piatok: 8:00-13:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2430730,18.4658647,"Zdravotné stredisko
+165
+01355
+Štiavnik",TÍLIA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/bytca/tilia.html?page_id=131350,7,Bytča,9
+65-47781106-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47781106-A0001', 'Miesto prevádzkovania': 'Hviezdoslavova\n300\n01401\nBytča', 'Mobil': '+421 901961258', 'Prevádzkovateľ': 'Dr.Max 74 s.r.o.\nMoldavská cesta\n8/A\n04011\nTurňa nad Bodvou\nIČO: 47781106'}","Prevádzkovateľ platnosť od: 11.10.2016
+Pondelok: 7:00-17:00
+Utorok: 7:00-17:00
+Streda: 7:00-17:00
+Štvrtok: 7:00-17:00
+Piatok: 7:00-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2215070,18.5641346,"Hviezdoslavova
+300
+01401
+Bytča",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/bytca/lekaren-dr.-max-2.html?page_id=105055,7,Bytča,9
+65-44222840-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44222840-A0001', 'Miesto prevádzkovania': 'Sidónie Sakalovej\n161\n01401\nBytča', 'Telefón': '+421905399316', 'Prevádzkovateľ': 'Lekáreň POLIKLINIKA BYTČA s.r.o.\nVysokoškolákov\n33/B\n82105\nŽilina\nIČO: 44222840'}","Prevádzkovateľ platnosť od: 21.03.2022
+Pondelok: 7:00-15:00
+Utorok: 7:00-15:00
+Streda: 7:00-15:00
+Štvrtok: 7:00-15:00
+Piatok: 7:00-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.22002840,18.56081630,"Sidónie Sakalovej
+161
+01401
+Bytča",Lekáreň Poliklinika Bytča,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/bytca/lekaren-poliklinika-bytca.html?page_id=89763,7,Bytča,9
+65-47685361-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47685361-A0001', 'Miesto prevádzkovania': 'Sidónie Sakalovej\n166\n01401\nBytča', 'Prevádzkovateľ': 'Dr.Max 64 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 47685361'}","Prevádzkovateľ platnosť od: 01.09.2014
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2197730,18.5606083,"Sidónie Sakalovej
+166
+01401
+Bytča",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/bytca/lekaren-dr.-max-1.html?page_id=65734,7,Bytča,9
+65-47770660-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47770660-A0001', 'Miesto prevádzkovania': 'Sidónie Sakalovej\n190\n01401\nBytča', 'Telefón': '+421 901961259', 'Prevádzkovateľ': 'Lekáreň Vitae plus, s. r. o.\nMoldavská cesta\n8/A\n01401\nTurňa nad Bodvou\nIČO: 47770660'}","Dočasná zmena od 4102022 do 4102022V čase od 1200 do 1530 hod bude otvorené pozrite pohotovostné lekárne v okrese Bytča platnosť od: 06.12.2016
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2180721,18.5636852,"Sidónie Sakalovej
+190
+01401
+Bytča",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/bytca/lekaren-dr.-max.html?page_id=65585,7,Bytča,9
+65-47610565-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47610565-A0001', 'Miesto prevádzkovania': 'Veľké Rovné\n72\n01362\nVeľké Rovné', 'Telefón': '+421 415410837', 'Web': 'lekarenusvatehomichala@gmail.com', 'Prevádzkovateľ': 'PHARMED, s.r.o.\nŠtúrova\n01001\nŽilina\nIČO: 47610565'}","Prevádzkovateľ platnosť od: 14.05.2014
+Pondelok: 7:00-15:00
+Utorok: 7:00-15:00
+Streda: 7:00-15:00
+Štvrtok: 7:00-15:00
+Piatok: 7:00-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2908939,18.5846474,"Veľké Rovné
+72
+01362
+Veľké Rovné",Lekáreň Sv. Michala,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/bytca/lekaren-sv.-michala.html?page_id=65111,7,Bytča,9
+65-43774571-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-43774571-A0001', 'Miesto prevádzkovania': 'Sidónie Sakalovej\n151\n01401\nBytča', 'Telefón': '+421 415521325', 'Prevádzkovateľ': 'HACLO, s.r.o.\nVojtecha Spanyola\n8685\n01001\nŽilina\nIČO: 43774571'}","Prevádzkovateľ platnosť od: 27.02.2012
+Pondelok: 7:30-17:00
+Utorok: 7:30-17:00
+Streda: 7:30-17:00
+Štvrtok: 7:30-17:00
+Piatok: 7:30-17:00
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.22157300,18.55939670,"Sidónie Sakalovej
+151
+01401
+Bytča",Lekáreň ZLATÝ OROL,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/bytca/lekaren-zlaty-orol.html?page_id=3523,7,Bytča,9
+65-36424838-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36424838-A0001', 'Miesto prevádzkovania': 'Nám. Slovenskej Republiky\n11\n01401\nBytča', 'Telefón': '+421 415523080', 'Prevádzkovateľ': 'PROPERTIA MEDICA, v.o.s.\nRepubliky\n1049/16\n01001\nŽilina\nIČO: 36424838'}","Prevádzkovateľ platnosť od: 17.09.2018
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.2238620,18.5580567,"Nám. Slovenskej Republiky
+11
+01401
+Bytča",Lekáreň NA NÁMESTÍ SR 11,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/bytca/lekaren-na-namesti-sr-11.html?page_id=3424,7,Bytča,9
+65-53959868-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-53959868-A0001', 'Miesto prevádzkovania': 'MEDMEDICAL KLINIK\n236\n02301\nOščadnica', 'Telefón': '0415092119', 'Prevádzkovateľ': 'MEDMEDICAL FARMACIA, s.r.o.\n141\n02334\nKysucký Lieskovec\nIČO: 53959868'}","Prevádzkovateľ platnosť od: 04.04.2022
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.43331000,18.87964700,"MEDMEDICAL KLINIK
+236
+02301
+Oščadnica",lekáreň MEDMEDICAL,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-medmedical.html?page_id=141591,7,Čadca,74
+65-53077741-A0002,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-53077741-A0002', 'Miesto prevádzkovania': '172\n02313\nČierne', 'Telefón': '041 4376279', 'Email': 'lekarensvv@gmail.com', 'Prevádzkovateľ': 'Lekáreň sv. Vavrinca, s. r. o.\nSkalité\n1149\n02314\nSkalité\nIČO: 53077741'}","Prevádzkovateľ platnosť od: 01.01.2021
+Pondelok: 7:45-14:30
+Utorok: 7:45-14:30
+Streda: 7:45-14:30
+Štvrtok: 7:45-14:30
+Piatok: 7:45-14:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4942444,18.8196585,"172
+02313
+Čierne",Lekáreň sv. Vavrinca - pobočka verejnej lekárne,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-sv.-vavrinca-pobocka-verejnej-lekarne.html?page_id=136379,7,Čadca,74
+65-53077741-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-53077741-A0001', 'Miesto prevádzkovania': '1149\n02314\nSkalité', 'Telefón': '041 4376279', 'Email': 'lekarensvv@gmail.com', 'Prevádzkovateľ': 'Lekáreň sv. Vavrinca, s. r. o.\nSkalité\n1149\n02314\nSkalité\nIČO: 53077741'}","Prevádzkovateľ platnosť od: 01.01.2021
+Pondelok: 7:30-15:00
+Utorok: 7:30-15:00
+Streda: 7:30-15:00
+Štvrtok: 7:30-15:00
+Piatok: 7:30-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4962652,18.8997903,"1149
+02314
+Skalité",Lekáreň sv. Vavrinca,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-sv.-vavrinca.html?page_id=136378,7,Čadca,74
+65-50427172-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-50427172-A0001', 'Miesto prevádzkovania': 'Oščadnica\n1797\n02301\nOščadnica', 'Telefón': '+421 414220864', 'Email': 'podkalvariou@dl.sk', 'Web': 'podkalvariou.dl.sk/', 'Prevádzkovateľ': 'Lekáreň Oščadnica\nHurbanova\n160/D\n02204\nČadca\nIČO: 50427172'}","Prevádzkovateľ platnosť od: 02.10.2017
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4373405,18.8833335,"Oščadnica
+1797
+02301
+Oščadnica",Lekáreň pod Kalváriou,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-pod-kalvariou.html?page_id=125001,7,Čadca,74
+65-45338540-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-45338540-A0001', 'Miesto prevádzkovania': 'Palárikova\n2659\n02201\nČadca', 'Telefón': '+421 414333920', 'Email': 'lekaren.prinemocnici@pharm.sk', 'Prevádzkovateľ': 'STEELKOR, s.r.o.\nBajkalská\n29F\n82105\nBratislava - mestská časť Ružinov\nIČO: 45338540'}","Prevádzkovateľ platnosť od: 12.03.2020
+Pondelok: 7:00-15:15
+Utorok: 7:00-15:15
+Streda: 7:00-15:15
+Štvrtok: 7:00-15:15
+Piatok: 7:00-15:15
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4392837,18.7725713,"Palárikova
+2659
+02201
+Čadca",Lekáreň pri nemocnici - Čadca,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-pri-nemocnici-cadca.html?page_id=124189,7,Čadca,74
+65-48137057-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-48137057-A0001', 'Miesto prevádzkovania': 'A. Hlinku\n3118/38B\n02201\nČadca', 'Telefón': '+421 903511191', 'Prevádzkovateľ': 'CA - Pharmacy, s.r.o.\nA. Hlinku\n3118\n02201\nČadca\nIČO: 48137057'}","Prevádzkovateľ platnosť od: 14.04.2016
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4349962,18.7958295,"A. Hlinku
+3118/38B
+02201
+Čadca",Lekáreň CA - Pharmacy,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-ca-pharmacy.html?page_id=93122,7,Čadca,74
+65-36361631-A0002,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-36361631-A0002', 'Miesto prevádzkovania': 'zdravotné stredisko\nVysoká nad Kysucou Ústredie\n1260\n02355\nVysoká nad Kysucou', 'Mobil': '0911491223', 'Web': 'http://www.e-lekaren.sk', 'Prevádzkovateľ': 'Palmitas, s.r.o.\nMoyzesova\n1441\n02201\nČadca\nIČO: 36361631'}","Prevádzkovateľ platnosť od: 26.11.2015
+Pondelok: 7:30-14:00
+Utorok: 7:30-14:00
+Streda: 7:30-14:00
+Štvrtok: 7:30-14:00
+Piatok: 7:30-14:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3801151,18.5464537,"zdravotné stredisko
+Vysoká nad Kysucou Ústredie
+1260
+02355
+Vysoká nad Kysucou",Pobočka verejnej lekárne Vysoká,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/pobocka-verejnej-lekarne-vysoka.html?page_id=89727,7,Čadca,74
+65-46871624-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-46871624-A0001', 'Miesto prevádzkovania': 'OD Kaufland\nSlobody\n3038/4A\n02201\nČadca', 'Mobil': '0901961141', 'Prevádzkovateľ': 'Mild Cure One, s. r. o.\nMoldavská cesta\n8/8/A\n04011\nKošice - mestská časť Západ\nIČO: 46871624'}","Prevádzkovateľ platnosť od: 04.03.2013
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00",49.44255420,18.78734890,"OD Kaufland
+Slobody
+3038/4A
+02201
+Čadca",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-dr.-max.html?page_id=56254,7,Čadca,74
+65-46906681-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-46906681-A0001', 'Miesto prevádzkovania': 'Palárikova\n1083\n02201\nČadca', 'Telefón': '+421 414386860', 'Web': 'http://www.lekarenfontana.sk', 'Prevádzkovateľ': 'Lekáreň Čadca, s.r.o.\nHurbanova\n160/D\n02201\nČadca\nIČO: 46906681'}","Prevádzkovateľ platnosť od: 03.06.2015
+Pondelok: 7:00-16:30
+Utorok: 7:00-16:30
+Streda: 7:00-16:30
+Štvrtok: 7:00-16:30
+Piatok: 7:00-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.438048,18.785927,"Palárikova
+1083
+02201
+Čadca",Lekáreň FONTÁNA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-fontana.html?page_id=55553,7,Čadca,74
+65-36616419-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36616419-A0001', 'Miesto prevádzkovania': 'Stará Bystrica\n537\n02304\nStará Bystrica', 'Telefón': '+421 414327979', 'Prevádzkovateľ': 'Lekáreň KAMILKA Čadca, s.r.o.\nStará Bystrica\n557\n02201\nStará Bystrica\nIČO: 36616419'}","Prevádzkovateľ platnosť od: 24.05.2012
+Pondelok: 8:00-14:30
+Utorok: 8:00-14:30
+Streda: 8:00-14:30
+Štvrtok: 8:00-14:30
+Piatok: 8:00-14:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3465571,18.9342148,"Stará Bystrica
+537
+02304
+Stará Bystrica",Lekáreň Na Rínku,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-na-rinku.html?page_id=51145,7,Čadca,74
+65-17335469-A0036,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-17335469-A0036', 'Miesto prevádzkovania': 'Palárikova\n2311\nČadca', 'Telefón': '+421 414604145', 'Prevádzkovateľ': 'Kysucká nemocnica s poliklinikou Čadca\nPalárikova\n2311\n02216\nČadca\nIČO: 17335469\nwww.kysuckanemocnica.sk'}","Prevádzkovateľ platnosť od: 04.04.2012
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4389582,18.7710052,"Palárikova
+2311
+Čadca",Lekáreň Kysuckej nemocnice,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-kysuckej-nemocnice.html?page_id=51125,7,Čadca,74
+65-44308825-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44308825-A0001', 'Miesto prevádzkovania': 'Palárikova\n2657\n02201\nČadca', 'Telefón': '+421 414000382', 'Web': 'http://www.e-lekaren.sk', 'Prevádzkovateľ': 'Novomedic, s.r.o.,\nMoyzesova\n1441\n022 01\nČadca\nIČO: 44308825'}","Prevádzkovateľ platnosť od: 16.09.2020
+Pondelok: 6:45-15:30
+Utorok: 6:45-15:30
+Streda: 6:45-15:30
+Štvrtok: 6:45-15:30
+Piatok: 6:45-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4388034,18.7773386,"Palárikova
+2657
+02201
+Čadca",Lekáreň  OK,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-ok.html?page_id=51121,7,Čadca,74
+65-35222751-A0001,"{'Druh': 'Výdajňa zdravotníckych pomôcok', 'Identifikátor': '65-35222751-A0001', 'Miesto prevádzkovania': 'Palárikova\n76/8\n02201\nČadca', 'Telefón': '+421 414332028', 'Prevádzkovateľ': 'Ľudmila Časnochová\nIČO: 35222751'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 8:00-16:30
+Utorok: 8:00-16:30
+Streda: 8:00-16:30
+Štvrtok: 8:00-16:30
+Piatok: 8:00-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4380742,18.7887420,"Palárikova
+76/8
+02201
+Čadca",Výdajňa TILIA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/vydajna-tilia.html?page_id=3549,7,Čadca,74
+65-31604340-A0001,"{'Druh': 'Výdajňa zdravotníckych pomôcok', 'Identifikátor': '65-31604340-A0001', 'Miesto prevádzkovania': 'Palárikova\n2311\n02201\nČadca', 'Telefón': '+421 414326588', 'Prevádzkovateľ': 'ESKULAP, spol. s r.o.\nMájová\n1115\n02201\nČadca\nIČO: 31604340'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 7:30-15:30
+Utorok: 7:30-15:30
+Streda: 7:30-15:30
+Štvrtok: 7:30-15:30
+Piatok: 7:30-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4389582,18.7710052,"Palárikova
+2311
+02201
+Čadca",Výdajňa ESKULAP spol. s r.o.,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/vydajna-eskulap-spol.-s-r.o..html?page_id=3545,7,Čadca,74
+65-31898599-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-31898599-A0001', 'Miesto prevádzkovania': 'Mierová\n1725/2\n02201\nČadca', 'Telefón': '+421 414326877', 'Prevádzkovateľ': 'PharmDr. Alena Pišteková\nIČO: 31898599'}","Prevádzkovateľ platnosť od: 27.02.2012
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4382554,18.7790549,"Mierová
+1725/2
+02201
+Čadca",Lekáreň U ANJELA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-u-anjela.html?page_id=3503,7,Čadca,74
+65-36414425-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36414425-A0001', 'Miesto prevádzkovania': 'Moyzesova\n53\n02201\nČadca', 'Web': 'http://www.pharm.sk', 'Prevádzkovateľ': 'Lekáreň TERNO, s.r.o.\nVysokoškolákov\n8556/33B\n01008\nŽilina\nIČO: 36414425'}","Prevádzkovateľ platnosť od: 18.05.2022
+Pondelok: 8:00-17:00
+Utorok: 8:00-17:00
+Streda: 8:00-17:00
+Štvrtok: 8:00-17:00
+Piatok: 8:00-17:00
+Sobota: 8:00-15:00
+Nedeľa: zatvorené",49.4392844,18.7876581,"Moyzesova
+53
+02201
+Čadca",Lekáreň TERNO,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-terno.html?page_id=3496,7,Čadca,74
+65-36616206-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36616206-A0001', 'Miesto prevádzkovania': 'Adm.budova\nSvrčinovec\n200\n02312\nSvrčinovec', 'Telefón': '+421 414371016', 'Email': 'lekaren@svrcinovec.eu', 'Prevádzkovateľ': 'Lekáreň SVRČINOVEC, s.r.o.\nSvrčinovec\n200\n02312\nSvrčinovec\nIČO: 36616206'}","Prevádzkovateľ platnosť od: 28.01.2015
+Pondelok: 7:45-15:00
+Utorok: 7:45-15:00
+Streda: 7:45-15:00
+Štvrtok: 7:45-15:00
+Piatok: 7:45-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4798721,18.7934891,"Adm.budova
+Svrčinovec
+200
+02312
+Svrčinovec",Lekáreň SVRČINOVEC,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-svrcinovec.html?page_id=3490,7,Čadca,74
+65-00622770-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-00622770-A0001', 'Miesto prevádzkovania': 'Námestie Slobody\n73/9\n02201\nČadca', 'Telefón': '+421 414333522', 'Web': 'http://www.e-lekaren.sk', 'Prevádzkovateľ': 'Mgr. Štefan Turiak\nIČO: 00622770'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 7:30-17:00
+Utorok: 7:30-17:00
+Streda: 7:30-17:00
+Štvrtok: 7:30-17:00
+Piatok: 7:30-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4384879,18.7895561,"Námestie Slobody
+73/9
+02201
+Čadca",Lekáreň SALVATOR,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-salvator.html?page_id=3472,7,Čadca,74
+65-36658839-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36658839-A0001', 'Miesto prevádzkovania': 'Nová Bystrica\n492\n02302\nNová Bystrica', 'Telefón': '+421 414385112', 'Prevádzkovateľ': 'Lekáreň pri mlyne, s.r.o.\nNová Bystrica\n492\n02305\nNová Bystrica\nIČO: 36658839'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 8:00-14:00
+Utorok: 8:00-14:00
+Streda: 8:00-14:00
+Štvrtok: 8:00-14:00
+Piatok: 8:00-14:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.34440920,19.00777580,"Nová Bystrica
+492
+02302
+Nová Bystrica",Lekáreň PRI MLYNE,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-pri-mlyne.html?page_id=3455,7,Čadca,74
+65-36442445-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36442445-A0001', 'Miesto prevádzkovania': 'Supermarket COOP Jednota\nOščadnica\n1219\n02301\nOščadnica', 'Telefón': '+421 414382340', 'Prevádzkovateľ': 'Lekáreň POD RAČOU, s.r.o.\nOščadnica\n1219\n02301\nOščadnica\nIČO: 36442445'}","Prevádzkovateľ platnosť od: 19.03.2013
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.4383342,18.8866130,"Supermarket COOP Jednota
+Oščadnica
+1219
+02301
+Oščadnica",Lekáreň POD RAČOU,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-pod-racou.html?page_id=3448,7,Čadca,74
+65-37584715-A0001,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-37584715-A0001', 'Miesto prevádzkovania': 'Klokočov\n1164\n02322\nKlokočov', 'Web': 'http://www.lekarenparacelsus.sk', 'Prevádzkovateľ': 'PharmDr. Igor Minarovič, PhD.\nIČO: 37584715'}","Prevádzkovateľ platnosť od: 07.01.2020
+Pondelok: 7:30-12:00
+Utorok: 7:30-12:00
+Streda: 7:30-12:00
+Štvrtok: 7:30-12:00
+Piatok: 7:30-12:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4527285,18.5710895,"Klokočov
+1164
+02322
+Klokočov",Lekáreň PARACELSUS pobočka,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-paracelsus-pobocka.html?page_id=3441,7,Čadca,74
+65-37584715-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-37584715-A0002', 'Miesto prevádzkovania': 'Stred\n44\n02354\nTurzovka', 'Telefón': '+421 414353011', 'Web': 'http://www.lekarenparacelsus.sk', 'Prevádzkovateľ': 'PharmDr. Igor Minarovič, PhD.\nIČO: 37584715'}","Prevádzkovateľ platnosť od: 21.03.2017
+Pondelok: 7:00-16:00
+Utorok: 7:00-16:00
+Streda: 7:00-16:00
+Štvrtok: 7:00-16:00
+Piatok: 7:00-16:00
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.40543,18.626114,"Stred
+44
+02354
+Turzovka",Lekáreň PARACELSUS,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-paracelsus.html?page_id=3439,7,Čadca,74
+52-17335469-A0001,"{'Druh': 'Nemocničná lekáreň s výdajom verejnosti', 'Identifikátor': '52-17335469-A0001', 'Miesto prevádzkovania': 'oddelenie výdaja liekov pre verejnosť\nPalárikova\n2311\n02216\nČadca', 'Telefón': '+421 414604134', 'Prevádzkovateľ': 'Kysucká nemocnica s poliklinikou Čadca\nPalárikova\n2311\n02216\nČadca\nIČO: 17335469\nwww.kysuckanemocnica.sk'}","Prevádzkovateľ platnosť od: 19.02.2022
+Pondelok: 7:00-15:00
+Utorok: 7:00-15:00
+Streda: 7:00-15:00
+Štvrtok: 7:00-15:00
+Piatok: 7:00-15:00
+Sobota: 14:00-15:00
+Nedeľa: 14:00-15:00",49.4389582,18.7710052,"oddelenie výdaja liekov pre verejnosť
+Palárikova
+2311
+02216
+Čadca",Nemocničná lekáreň s výdajom verejnosti,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/nemocnicna-lekaren-s-vydajom-verejnosti.html?page_id=3432,7,Čadca,74
+65-36426539-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36426539-A0001', 'Miesto prevádzkovania': 'MUDr. Hálka\n148\n02302\nKrásno nad Kysucou', 'Prevádzkovateľ': 'Lekáreň Krásno, s. r. o.\nVysokoškolákov\n33/B\n82105\nŽilina\nIČO: 36426539'}","Prevádzkovateľ platnosť od: 24.05.2017
+Pondelok: 7:30-14:30
+Utorok: 7:30-14:30
+Streda: 7:30-14:30
+Štvrtok: 7:30-14:30
+Piatok: 7:30-14:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3960567,18.8324337,"MUDr. Hálka
+148
+02302
+Krásno nad Kysucou",Lekáreň  KRÁSNO,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-krasno.html?page_id=3395,7,Čadca,74
+65-36433845-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36433845-A0001', 'Miesto prevádzkovania': 'Raková\n4010\n02351\nRaková', 'Telefón': '+421 414341156', 'Prevádzkovateľ': 'JUKA, s.r.o.\nRaková\n4010\n02351\nRaková\nIČO: 36433845'}","Prevádzkovateľ platnosť od: 01.07.2020
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.44227230,18.73347250,"Raková
+4010
+02351
+Raková",Lekáreň JUKA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-juka.html?page_id=3384,7,Čadca,74
+65-44078773-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44078773-A0001', 'Miesto prevádzkovania': 'HM TESCO\nSlobody\n2917/48\n02201\nČadca', 'Telefón': '+421 901961048', 'Prevádzkovateľ': 'SUN-CARE s.r.o.\nMoldavská cesta\n8/A/8/A\n04011\nKošice - mestská časť Juh\nIČO: 44078773'}","Prevádzkovateľ platnosť od: 16.06.2017
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00",49.4411146,18.7891960,"HM TESCO
+Slobody
+2917/48
+02201
+Čadca",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-dr.-max-1.html?page_id=3356,7,Čadca,74
+65-31586660-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-31586660-A0001', 'Miesto prevádzkovania': 'Stred\n215\n02354\nTurzovka', 'Prevádzkovateľ': 'FERUMI spol. s r.o.\nMoldavská cesta\n8/A/8/A\n04011\nKošice - mestská časť Západ\nIČO: 31586660'}","Prevádzkovateľ platnosť od: 01.06.2021
+Pondelok: 7:00-16:00
+Utorok: 7:00-16:00
+Streda: 7:00-16:00
+Štvrtok: 7:00-16:00
+Piatok: 7:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4047170,18.6248228,"Stred
+215
+02354
+Turzovka",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-dr.-max-2.html?page_id=3355,7,Čadca,74
+65-36754820-A0001,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-36754820-A0001', 'Miesto prevádzkovania': '224\n02303\nZborov nad Bystricou', 'Telefón': '+421 414391614', 'Prevádzkovateľ': 'Lekáreň CALENDULA, s.r.o.\nPalárikova\n2845/26A\n02201\nČadca\nIČO: 36754820'}","Prevádzkovateľ platnosť od: 27.02.2012
+Pondelok: 8:00-12:30
+Utorok: 8:00-12:30
+Streda: 8:00-12:30
+Štvrtok: 8:00-12:30
+Piatok: 8:00-12:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3802673,18.8848419,"224
+02303
+Zborov nad Bystricou",Lekáreň CALENDULA pobočka,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-calendula-pobocka.html?page_id=3344,7,Čadca,74
+65-36754820-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36754820-A0002', 'Miesto prevádzkovania': 'Palárikova\n2845/26A\n02201\nČadca', 'Telefón': '+421 41 4335496', 'Prevádzkovateľ': 'Lekáreň CALENDULA, s.r.o.\nPalárikova\n2845/26A\n02201\nČadca\nIČO: 36754820'}","Prevádzkovateľ platnosť od: 27.02.2012
+Pondelok: 7:30-16:30
+Utorok: 7:30-16:30
+Streda: 7:30-16:30
+Štvrtok: 7:30-16:30
+Piatok: 7:30-16:30
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.4382308,18.7861796,"Palárikova
+2845/26A
+02201
+Čadca",Lekáreň CALENDULA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-calendula.html?page_id=3343,7,Čadca,74
+65-36421995-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36421995-A0001', 'Miesto prevádzkovania': 'Staškov\n589\n02353\nStaškov', 'Telefón': '+421 414346224', 'Prevádzkovateľ': 'ADELA, spol. s.r.o.\nRaková\n4010\n02354\nRaková\nIČO: 36421995'}","Prevádzkovateľ platnosť od: 03.06.2020
+Pondelok: 7:00-16:30
+Utorok: 7:00-14:30
+Streda: 7:00-13:00
+Štvrtok: 7:00-13:00
+Piatok: 7:00-12:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4228274,18.6962712,"Staškov
+589
+02353
+Staškov",Lekáreň ARNIKA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-arnika.html?page_id=3324,7,Čadca,74
+65-36434213-A0001,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-36434213-A0001', 'Miesto prevádzkovania': 'Makov\n146\n02356\nMakov', 'Web': 'http://www.e-lekaren.sk', 'Prevádzkovateľ': 'Argentum, s.r.o,\nMoyzesova\n1441\n02201\nČadca\nIČO: 36434213'}","Prevádzkovateľ platnosť od: 12.05.2022
+Pondelok: 7:30-13:30
+Utorok: 7:30-13:30
+Streda: 7:30-13:30
+Štvrtok: 7:30-13:30
+Piatok: 7:30-13:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3549620,18.4500860,"Makov
+146
+02356
+Makov",Lekáreň ARGENTUM pobočka,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-argentum-pobocka.html?page_id=3322,7,Čadca,74
+65-36434213-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36434213-A0002', 'Miesto prevádzkovania': 'Moyzesova\n1441\n02201\nČadca', 'Telefón': '+421 414327115', 'Web': 'http://www.e-lekaren.sk', 'Prevádzkovateľ': 'Argentum, s.r.o,\nMoyzesova\n1441\n02201\nČadca\nIČO: 36434213'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 7:00-17:30
+Utorok: 7:00-17:30
+Streda: 7:00-17:30
+Štvrtok: 7:00-17:30
+Piatok: 7:00-17:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4398642,18.7875238,"Moyzesova
+1441
+02201
+Čadca",Lekáreň ARGENTUM,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-argentum.html?page_id=3321,7,Čadca,74
+65-36816591-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36816591-A0002', 'Miesto prevádzkovania': '1. mája\n1638\n02302\nKrásno nad Kysucou', 'Telefón': '+421 414385111', 'Prevádzkovateľ': 'Lekáreň ANNA MÁRIA, s.r.o.\nKalinov\n347\n02302\nKrásno nad Kysucou\nIČO: 36816591'}","Dočasná zmena od 592022 do 3092022Od 592022 do 3092022 Lekáreň Anna Mária sroKrásno nad Kysucou otvorená PondelokPiatok od 730 do 1600hod Sobota od 800 do 1200hodpozrite pohotovostné lekárne v okrese Čadca platnosť od: 08.06.2015
+Pondelok: 7:30-17:00
+Utorok: 7:30-17:00
+Streda: 7:30-17:00
+Štvrtok: 7:30-17:00
+Piatok: 7:30-17:00
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.3963893,18.8339487,"1. mája
+1638
+02302
+Krásno nad Kysucou",Lekáreň ANNA MÁRIA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-anna-maria.html?page_id=3319,7,Čadca,74
+65-31897916-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-31897916-A0001', 'Miesto prevádzkovania': 'Jašíkova\n565\n02354\nTurzovka', 'Telefón': '+421 414353125', 'Prevádzkovateľ': 'Mgr. Mária Michalinová\nIČO: 31897916'}","Prevádzkovateľ platnosť od: 27.02.2012
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4043894,18.6320679,"Jašíkova
+565
+02354
+Turzovka",Lekáreň ALTHEA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/cadca/lekaren-althea.html?page_id=3312,7,Čadca,74
+65-54210534-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-54210534-A0001', 'Miesto prevádzkovania': 'Radlinského\n1710/30\n02601\nDolný Kubín', 'Mobil': '0948188070', 'Email': 'lekaren.nikadk@gmail.com', 'Prevádzkovateľ': 'Lekáreň DK s. r. o.\nMiletičova\n1\n82108\nBratislava - mestská časť Ružinov\nIČO: 54210534'}","Prevádzkovateľ platnosť od: 01.01.2022
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2093785,19.2954388,"Radlinského
+1710/30
+02601
+Dolný Kubín",Lekáreň NIKA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/lekaren-nika-1.html?page_id=142027,7,Dolný,12
+65-53045203-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-53045203-A0001', 'Miesto prevádzkovania': 'Stred\n138\n02705\nZázrivá', 'Telefón': '043 5896212', 'Email': 'lekarenlucas@gmail.com', 'Prevádzkovateľ': 'HULAPHARM s. r. o.\n431\n02304\nStará Bystrica\nIČO: 53045203'}","Prevádzkovateľ platnosť od: 02.03.2021
+Pondelok: 7:45-15:30
+Utorok: 7:45-15:30
+Streda: 7:45-15:30
+Štvrtok: zatvorené
+Piatok: 7:45-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2702071,19.1496158,"Stred
+138
+02705
+Zázrivá",Lekáreň LUCAS,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/lekaren-lucas.html?page_id=140086,7,Dolný,12
+65-53369696-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-53369696-A0001', 'Miesto prevádzkovania': 'Samuela Nováka\n1764/4\n02601\nDolný Kubín', 'Prevádzkovateľ': 'Lekáreň U Anjela, s. r. o.\nNábrežná\n5\n97101\nPrievidza\nIČO: 53369696'}","Prevádzkovateľ platnosť od: 17.12.2020
+Pondelok: 8:00-17:00
+Utorok: 8:00-17:00
+Streda: 8:00-17:00
+Štvrtok: 8:00-17:00
+Piatok: 8:00-17:00
+Sobota: 8:00-12:00
+Nedeľa: zatvorené
+Nedeľa: platnosť od: 01.09.2021
+Pondelok: 8:00-17:00
+Utorok: 8:00-17:00
+Streda: 8:00-17:00
+Štvrtok: 8:00-17:00
+Piatok: 8:00-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.20898274,19.29627785,"Samuela Nováka
+1764/4
+02601
+Dolný Kubín",Lekáreň U Anjela,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/lekaren-u-anjela.html?page_id=136159,7,Dolný,12
+65-52152740-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-52152740-A0001', 'Miesto prevádzkovania': 'Lucenkova\n3477/17\n02601\nDolný Kubín', 'Mobil': '+421 910525185', 'Email': 'bysterec.lekaren@pedag.sk', 'Prevádzkovateľ': 'PEDAG DK s. r. o.\nĽudovíta Štúra\n2044/3\n02601\nDolný Kubín\nIČO: 52152740'}","Prevádzkovateľ platnosť od: 02.05.2019
+Pondelok: 7:30-15:30
+Utorok: 7:30-15:30
+Streda: 7:30-15:30
+Štvrtok: 7:30-15:30
+Piatok: 7:30-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2120562,19.2874230,"Lucenkova
+3477/17
+02601
+Dolný Kubín",Lekáreň PEDAG Bysterec,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/lekaren-pedag-bysterec.html?page_id=130940,7,Dolný,12
+65-51870193-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-51870193-A0001', 'Miesto prevádzkovania': 'Dlhá nad Oravou\n193\n02755\nDlhá nad Oravou', 'Telefón': '0434510150', 'Email': 'lekarenslamka@gmail.com', 'Prevádzkovateľ': 'Lekáreň Slamka s.r.o.\nDlhá nad Oravou\n193\n02755\nDlhá nad Oravou\nIČO: 51870193'}","Prevádzkovateľ platnosť od: 12.07.2021
+Pondelok: 7:00-14:30
+Utorok: 7:00-14:30
+Streda: 7:00-14:30
+Štvrtok: 7:00-14:30
+Piatok: 7:00-14:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2663041,19.4468589,"Dlhá nad Oravou
+193
+02755
+Dlhá nad Oravou",Lekáreň Slamka,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/lekaren-slamka.html?page_id=129343,7,Dolný,12
+65-46309021-A0002,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-46309021-A0002', 'Miesto prevádzkovania': 'Istebné\n152\n02753\nIstebné', 'Mobil': '+421 904525186', 'Email': 'istebne.lekaren@pedag.sk', 'Prevádzkovateľ': 'PEDAG, s.r.o.\nĽudovíta Štúra\n2044/3\n02601\nDolný Kubín\nIČO: 46309021'}","Prevádzkovateľ platnosť od: 01.11.2020
+Pondelok: 8:00-12:00  ||12:30-15:00
+Utorok: 8:00-12:00  ||12:30-13:30
+Streda: 8:00-12:00  ||12:30-15:00
+Štvrtok: 8:00-12:00  ||12:30-13:30
+Piatok: 8:00-12:00  ||12:30-13:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.21017000,19.22331680,"Istebné
+152
+02753
+Istebné",Pobočka verejnej lekárne PEDAG Istebné,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/pobocka-verejnej-lekarne-pedag-istebne.html?page_id=126025,7,Dolný,12
+65-50784650-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-50784650-A0001', 'Miesto prevádzkovania': 'Nemocničná\n2904/4A\n02601\nDolný Kubín\nNajlepšia lekáreň Dolný Kubín', 'Telefón': '+421 433812578', 'Web': 'http://www.najlepsialekaren.sk', 'Prevádzkovateľ': 'RAVAPHARM DK s.r.o.\nNa Sihoti\n1159/21\n96901\nDolný Kubín\nIČO: 50784650'}","Prevádzkovateľ platnosť od: 01.01.2022
+Pondelok: 7:00-16:00
+Utorok: 7:00-16:00
+Streda: 7:00-16:00
+Štvrtok: 7:00-16:00
+Piatok: 7:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené
+Nedeľa: Od 01.01.2022 budú prevádzkové hodiny lekárne nasledovné: 7:00 hod. - 16:00 hod.",49.2142415,19.303152,"Nemocničná
+2904/4A
+02601
+Dolný Kubín
+Najlepšia lekáreň Dolný Kubín",Najlepšia lekáreň,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/najlepsia-lekaren.html?page_id=123653,7,Dolný,12
+65-48084760-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-48084760-A0001', 'Miesto prevádzkovania': 'OD Tesco\nAleja Slobody\n2686/13A\n02601\nDolný Kubín', 'Email': 'dolnykubin@schneider-lekaren.sk', 'Mobil': '+421 903790950', 'Web': 'http://www.schneider-lekaren.sk', 'Prevádzkovateľ': 'Dk-pharm, s.r.o.\nČapajevova\n23\n08001\nPrešov\nIČO: 48084760'}","Prevádzkovateľ platnosť od: 01.04.2022
+Pondelok: 8:15-20:00
+Utorok: 8:15-20:00
+Streda: 8:15-20:00
+Štvrtok: 8:15-20:00
+Piatok: 8:15-20:00
+Sobota: 8:15-20:00
+Nedeľa: 8:15-20:00",49.21494573,19.29771263,"OD Tesco
+Aleja Slobody
+2686/13A
+02601
+Dolný Kubín",Lekáreň Schneider,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/lekaren-schneider.html?page_id=105069,7,Dolný,12
+65-50201611-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-50201611-A0001', 'Miesto prevádzkovania': 'Nemocničná\n2068\n02601\nDolný Kubín', 'Mobil': '+421 903998190', 'Prevádzkovateľ': 'BENU SK 58, s.r.o.\nPribylinská\n2/A\n83104\nBratislava - mestská časť Rača\nIČO: 50201611'}","Prevádzkovateľ platnosť od: 06.04.2018
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2126358,19.3044969,"Nemocničná
+2068
+02601
+Dolný Kubín",Lekáreň BENU,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/lekaren-benu.html?page_id=103406,7,Dolný,12
+65-47875143-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47875143-A0001', 'Miesto prevádzkovania': 'OD Kaufland\nAleja slobody\n3057/15\n02601\nDolný Kubín', 'Email': 'dr.max212@dr-max.global', 'Mobil': '+421 901961212', 'Prevádzkovateľ': 'Dr.Max 81 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Staré Mesto\nIČO: 47875143'}","Prevádzkovateľ platnosť od: 24.02.2016
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00",49.21306680,19.29686350,"OD Kaufland
+Aleja slobody
+3057/15
+02601
+Dolný Kubín",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/lekaren-dr.-max.html?page_id=92383,7,Dolný,12
+65-50060791-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-50060791-A0001', 'Miesto prevádzkovania': 'Nemocničná\n1987/24\n02601\nDolný Kubín', 'Email': 'lekaren.anna@gmail.com', 'Telefón': '+421948171721', 'Prevádzkovateľ': 's Pharm, s.r.o.\nNemocničná\n1987/24\n02601\nDolný Kubín\nIČO: 50060791'}","Prevádzkovateľ platnosť od: 01.01.2016
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.21336350,19.30374370,"Nemocničná
+1987/24
+02601
+Dolný Kubín",Lekáreň ANNA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/lekaren-anna.html?page_id=89955,7,Dolný,12
+65-48222381-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-48222381-A0001', 'Miesto prevádzkovania': 'A. Sládkoviča\n14\n02601\nDolný Kubín', 'Mobil': '+421 902813139', 'Email': 'lekaren@lekarenvianatura.sk', 'Prevádzkovateľ': 'ViaNatura s.r.o.\nA. Sládkoviča\n14\n02601\nDolný Kubín\nIČO: 48222381'}","Prevádzkovateľ platnosť od: 09.05.2022
+Pondelok: 9:00-15:00
+Utorok: 9:00-15:00
+Streda: 9:00-15:00
+Štvrtok: 9:00-15:00
+Piatok: 9:00-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2121728,19.2964060,"A. Sládkoviča
+14
+02601
+Dolný Kubín",Lekáreň VIA NATURA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/lekaren-via-natura.html?page_id=84355,7,Dolný,12
+65-36136115-A0002,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-36136115-A0002', 'Miesto prevádzkovania': '61\n02741\nOravský Podzámok', 'Telefón': '+421 435893255', 'Prevádzkovateľ': 'PharmDr. Božena Novocká\nIČO: 36136115'}","Prevádzkovateľ platnosť od: 08.09.2015
+Pondelok: 7:30-14:45
+Utorok: 7:30-14:45
+Streda: 7:30-14:45
+Štvrtok: 7:30-14:45
+Piatok: 7:30-14:45
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2621899,19.3565995,"61
+02741
+Oravský Podzámok",Lekáreň Pod Hradom,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/lekaren-pod-hradom.html?page_id=77884,7,Dolný,12
+65-46717544-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-46717544-A0001', 'Miesto prevádzkovania': 'Odbojárov\n1959\n02601\nDolný Kubín', 'Telefón': '+421 433709033', 'Web': 'http://www.azitea.sk', 'Prevádzkovateľ': 'Azitea s.r.o.\nHradská\n261/17\n02951\nLokca\nIČO: 46717544'}","Prevádzkovateľ platnosť od: 01.05.2021
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2132866,19.3059883,"Odbojárov
+1959
+02601
+Dolný Kubín",Lekáreň AZITEA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/lekaren-azitea.html?page_id=51217,7,Dolný,12
+65-46309021-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-46309021-A0001', 'Miesto prevádzkovania': 'Párnica\n127\nPárnica', 'Email': 'lekaren@pedag.sk', 'Mobil': '+421 903525186', 'Prevádzkovateľ': 'PEDAG, s.r.o.\nĽudovíta Štúra\n2044/3\n02601\nDolný Kubín\nIČO: 46309021'}","Zatvorená od 2692022 do 3102022Z technických príčin zatvorené pozrite pohotovostné lekárne v okrese Dolný Kubín platnosť od: 28.03.2012
+Pondelok: 8:00-13:00
+Utorok: 8:00-13:00
+Streda: 8:00-13:00
+Štvrtok: 8:00-13:00
+Piatok: 8:00-13:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.194313,19.197758,"Párnica
+127
+Párnica",Lekáreň PEDAG,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/lekaren-pedag.html?page_id=51123,7,Dolný,12
+65-36724424-A0002,"{'Druh': 'Výdajňa zdravotníckych pomôcok', 'Identifikátor': '65-36724424-A0002', 'Miesto prevádzkovania': 'Nemocničná\n2317\n02601\nDolný Kubín', 'Telefón': '+421 917 432462', 'Prevádzkovateľ': 'MEDIPO plus, s.r.o.\nNemocničná\n2317\n02601\nDolný Kubín\nIČO: 36724424'}","Prevádzkovateľ platnosť od: 02.05.2022
+Pondelok: 7:30-12:00  ||12:30-15:30
+Utorok: 7:30-12:00  ||12:30-15:30
+Streda: 7:30-12:00  ||12:30-15:30
+Štvrtok: 7:30-12:00  ||12:30-15:30
+Piatok: 7:30-12:00  ||12:30-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2115218,19.3013368,"Nemocničná
+2317
+02601
+Dolný Kubín",Výdajňa MEDIPO plus s.r.o.,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/vydajna-medipo-plus.html?page_id=3547,7,Dolný,12
+65-44882581-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44882581-A0001', 'Miesto prevádzkovania': 'Nemocničná\n1944\n02601\nDolný Kubín', 'Mobil': '+421 901961518', 'Web': 'http://www.dr.max.sk', 'Prevádzkovateľ': 'EKSEN s. r. o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Západ\nIČO: 44882581'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.21377450,19.30216850,"Nemocničná
+1944
+02601
+Dolný Kubín",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/lekaren-dr.-max-1.html?page_id=3357,7,Dolný,12
+65-00625582-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-00625582-A0001', 'Miesto prevádzkovania': 'SNP\n1203/10\n02601\nDolný Kubín', 'Telefón': '+421 435885953', 'Web': 'http://www.lekarenalfa.sk', 'Prevádzkovateľ': 'Mgr. Miroslava Ištvánová\nIČO: 00625582'}","Prevádzkovateľ platnosť od: 01.06.2022
+Pondelok: 8:00-17:00
+Utorok: 8:00-17:00
+Streda: 8:00-17:00
+Štvrtok: 8:00-17:00
+Piatok: 8:00-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2115646,19.2878963,"SNP
+1203/10
+02601
+Dolný Kubín",Lekáreň ALFA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/dolny-kubin/lekaren-alfa.html?page_id=3310,7,Dolný,12
+65-36660086-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36660086-A0001', 'Miesto prevádzkovania': 'Murgašova\n2722/9\n02401\nKysucké Nové Mesto', 'Mobil': '0918504222', 'Email': 'knm.murgasova@benulekaren.sk', 'Prevádzkovateľ': 'NIKA NÁBYT-OK, s. r. o.\nMatúškova\n1\n02601\nDolný Kubín\nIČO: 36660086'}","Prevádzkovateľ platnosť od: 07.09.2021
+Pondelok: 7:30-17:00
+Utorok: 7:30-17:00
+Streda: 7:30-17:00
+Štvrtok: 7:30-17:00
+Piatok: 7:30-17:00
+Sobota: 7:30-12:00
+Nedeľa: zatvorené",49.3000194,18.7819341,"Murgašova
+2722/9
+02401
+Kysucké Nové Mesto",Lekáreň BENU,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/kysucke-nove-mesto/lekaren-benu.html?page_id=141374,7,Kysucké,27
+65-52041379-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-52041379-A0001', 'Miesto prevádzkovania': 'Námestie Slobody\n184\n02401\nKysucké Nové Mesto', 'Telefón': '0901961351', 'Email': 'drmax351@drmax.sk', 'Prevádzkovateľ': 'Dr.Max 166 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 52041379'}","Prevádzkovateľ platnosť od: 14.01.2022
+Pondelok: 7:30-17:00
+Utorok: 7:30-17:00
+Streda: 7:30-17:00
+Štvrtok: 7:30-17:00
+Piatok: 7:30-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3043785,18.7883409,"Námestie Slobody
+184
+02401
+Kysucké Nové Mesto",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/kysucke-nove-mesto/lekaren-dr.-max.html?page_id=135791,7,Kysucké,27
+65-44308825-A0002,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-44308825-A0002', 'Miesto prevádzkovania': 'Rudina\n438\n02331\nRudina', 'Prevádzkovateľ': 'Novomedic, s.r.o.,\nMoyzesova\n1441\n022 01\nČadca\nIČO: 44308825'}","Prevádzkovateľ platnosť od: 11.09.2018
+Pondelok: 7:30-14:00
+Utorok: 7:30-14:00
+Streda: 7:30-14:00
+Štvrtok: 7:30-14:00
+Piatok: 7:30-14:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2871243,18.7435423,"Rudina
+438
+02331
+Rudina",Pobočka verejnej lekárne Rudina,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/kysucke-nove-mesto/pobocka-verejnej-lekarne-rudina.html?page_id=129344,7,Kysucké,27
+65-44663200-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44663200-A0001', 'Miesto prevádzkovania': 'Kysucký Lieskovec\n141\n02334\nKysucký Lieskovec', 'Telefón': '+421 4000369', 'Prevádzkovateľ': 'KURATÍVA MEDIKA, s. r. o.\nKysucký Lieskovec\n141\n02334\nKysucký Lieskovec\nIČO: 44663200'}","Prevádzkovateľ platnosť od: 28.06.2012
+Pondelok: 7:00-15:00
+Utorok: 7:00-15:00
+Streda: 7:00-15:00
+Štvrtok: 7:00-15:00
+Piatok: 7:00-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3374646,18.8113886,"Kysucký Lieskovec
+141
+02334
+Kysucký Lieskovec",Lekáreň KAMILKA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/kysucke-nove-mesto/lekaren-kamilka.html?page_id=51164,7,Kysucké,27
+65-37808575-A0001,"{'Druh': 'Výdajňa zdravotníckych pomôcok', 'Identifikátor': '65-37808575-A0001', 'Miesto prevádzkovania': 'Belanského\n773/81\n02401\nKysucké Nové Mesto', 'Telefón': '+421 414220201', 'Prevádzkovateľ': 'Mgr. Soňa Čuláková\nIČO: 37808575'}","Prevádzkovateľ platnosť od: 17.08.2006
+Pondelok: 8:00-16:00
+Utorok: 8:00-16:00
+Streda: 8:00-16:00
+Štvrtok: 8:00-16:00
+Piatok: 8:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3003509,18.7860837,"Belanského
+773/81
+02401
+Kysucké Nové Mesto",Výdajňa zdravotníckych pomôcok,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/kysucke-nove-mesto/vydajna-zdravotnickych-pomocok.html?page_id=3553,7,Kysucké,27
+65-36717410-A0001,"{'Druh': 'Výdajňa zdravotníckych pomôcok', 'Identifikátor': '65-36717410-A0001', 'Miesto prevádzkovania': 'Belanského\n217\n02401\nKysucké Nové Mesto', 'Telefón': '+421 4386870', 'Prevádzkovateľ': 'Kysucká lekárenská,s.r.o.\nBelanského\n297\n02401\nKysucké Nové Mesto\nIČO: 36717410'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 8:00-16:00
+Utorok: 8:00-16:00
+Streda: 8:00-16:00
+Štvrtok: 8:00-16:00
+Piatok: 8:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3012665,18.7853559,"Belanského
+217
+02401
+Kysucké Nové Mesto",Výdajňa zdravotníckych pomôcok Sv. Lukáša,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/kysucke-nove-mesto/vydajna-zdravotnickych-pomocok-sv.-lukasa.html?page_id=3561,7,Kysucké,27
+65-36816591-A0001,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-36816591-A0001', 'Miesto prevádzkovania': 'Kysucký Lieskovec\n72\n02334\nKysucký Lieskovec', 'Telefón': '+421 414231001', 'Prevádzkovateľ': 'Lekáreň ANNA MÁRIA, s.r.o.\nKalinov\n347\n02302\nKrásno nad Kysucou\nIČO: 36816591'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 7:30-15:30
+Utorok: 7:30-15:30
+Streda: 7:30-15:30
+Štvrtok: 7:30-15:30
+Piatok: 7:30-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3374646,18.8113886,"Kysucký Lieskovec
+72
+02334
+Kysucký Lieskovec",Lekáreň ANNA - MÁRIA - pobočka,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/kysucke-nove-mesto/lekaren-anna-maria-pobocka.html?page_id=3525,7,Kysucké,27
+65-36717410-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36717410-A0002', 'Miesto prevádzkovania': 'Belanského\n297\n02401\nKysucké Nové Mesto', 'Telefón': '+421 414214598  (lek-lukas@dllekaren.sk)', 'Prevádzkovateľ': 'Kysucká lekárenská,s.r.o.\nBelanského\n297\n02401\nKysucké Nové Mesto\nIČO: 36717410'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 7:30-16:30
+Utorok: 7:30-16:30
+Streda: 7:30-16:30
+Štvrtok: 7:30-16:30
+Piatok: 7:30-16:30
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.3024942,18.7865201,"Belanského
+297
+02401
+Kysucké Nové Mesto",Lekáreň Sv. LUKÁŠA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/kysucke-nove-mesto/lekaren-sv.-lukasa.html?page_id=3492,7,Kysucké,27
+65-36733741-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36733741-A0002', 'Miesto prevádzkovania': 'Kukučinova\n2739\n02401\nKysucké Nové Mesto', 'Telefón': '+421 414214908', 'Prevádzkovateľ': 'ABBAX, s.r.o.\nKysucký Lieskovec\n266\n02334\nKysucký Lieskovec\nIČO: 36733741'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3045305,18.7793551,"Kukučinova
+2739
+02401
+Kysucké Nové Mesto",Lekáreň REGIA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/kysucke-nove-mesto/lekaren-regia.html?page_id=3466,7,Kysucké,27
+65-36361631-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36361631-A0001', 'Miesto prevádzkovania': 'Belanského\n1356\n02401\nKysucké Nové Mesto', 'Telefón': '+421 414220544', 'Web': 'http://www.e-lekaren.sk', 'Prevádzkovateľ': 'Palmitas, s.r.o.\nMoyzesova\n1441\n02201\nČadca\nIČO: 36361631'}","Prevádzkovateľ platnosť od: 15.11.2021
+Pondelok: 7:30-16:30
+Utorok: 7:30-16:30
+Streda: 7:30-16:30
+Štvrtok: 7:30-16:30
+Piatok: 7:30-16:30
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.3006110,18.7846200,"Belanského
+1356
+02401
+Kysucké Nové Mesto",Lekáreň NA ROHU,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/kysucke-nove-mesto/lekaren-na-rohu.html?page_id=3425,7,Kysucké,27
+65-31634061-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-31634061-A0001', 'Miesto prevádzkovania': 'Belanského\n1345/79\n02401\nKysucké Nové Mesto', 'Telefón': '+421 414212246', 'Prevádzkovateľ': 'LAURIN MEDICA, s.r.o.\nBelanského\n1345\n02404\nKysucké Nové Mesto\nIČO: 31634061'}","Prevádzkovateľ platnosť od: 22.01.2020
+Pondelok: 7:00-15:15
+Utorok: 7:00-15:15
+Streda: 7:00-15:15
+Štvrtok: 7:00-15:15
+Piatok: 7:00-15:15
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3005347,18.7852590,"Belanského
+1345/79
+02401
+Kysucké Nové Mesto",MESTSKÁ LEKÁREŇ,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/kysucke-nove-mesto/mestska-lekaren.html?page_id=3417,7,Kysucké,27
+65-52880061-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-52880061-A0001', 'Miesto prevádzkovania': 'Štúrova\n1643/36\n03101\nLiptovský Mikuláš', 'Mobil': '0919218732', 'Email': 'lekarenujakuba@gmail.com', 'Prevádzkovateľ': 'ATM Medic, s.r.o.\n1. mája\n1207\n03101\nLiptovský Mikuláš\nIČO: 52880061'}","Prevádzkovateľ platnosť od: 01.09.2022
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0863154,19.6059157,"Štúrova
+1643/36
+03101
+Liptovský Mikuláš",Lekáreň u Jakuba,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-u-jakuba.html?page_id=143659,7,Liptovský,30
+65-48115789-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-48115789-A0001', 'Miesto prevádzkovania': 'Kamenné pole\n4449/3\n03101\nLiptovský Mikuláš', 'Mobil': '901961229', 'Email': 'drmax229@drmax.sk', 'Prevádzkovateľ': 'Dr.Max 96 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice\nIČO: 48115789'}","Prevádzkovateľ platnosť od: 30.11.2020
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00",49.07742680,19.60395910,"Kamenné pole
+4449/3
+03101
+Liptovský Mikuláš",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-dr.-max.html?page_id=135965,7,Liptovský,30
+65-52031004-A0001,"{'Druh': 'Výdajňa zdravotníckych pomôcok', 'Identifikátor': '65-52031004-A0001', 'Miesto prevádzkovania': 'OC CENTRAL\nNámestie mieru\n1\n03101\nLiptovský Mikuláš', 'Mobil': '+421 905 846 306', 'Email': 'zdravicko@zdravicko.shop', 'Prevádzkovateľ': 'MEDIZDRAV, s.r.o.\nBrezová\n497/11\n03104\nLiptovský Mikuláš\nIČO: 52031004'}","Prevádzkovateľ platnosť od: 08.07.2022
+Pondelok: 8:00-16:00
+Utorok: 8:00-16:00
+Streda: 8:00-16:00
+Štvrtok: 8:00-16:00
+Piatok: 8:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.08588780,19.61162200,"OC CENTRAL
+Námestie mieru
+1
+03101
+Liptovský Mikuláš",Výdajňa zdravotníckych pomôcok ZDRAVÍČKO,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/vydajna-zdravotnickych-pomocok-zdravicko.html?page_id=130839,7,Liptovský,30
+65-51757541-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-51757541-A0001', 'Miesto prevádzkovania': 'Smrečianska\n664\n03104\nLiptovský Mikuláš', 'Mobil': '0944899982', 'Email': 'lekaren.slnieckolm1@gmail.com', 'Prevádzkovateľ': 'Pharmaceutiques s.r.o.\nHorná Strieborná\n22\n97401\nBanská Bystrica\nIČO: 51757541'}","Prevádzkovateľ platnosť od: 28.06.2021
+Pondelok: 8:30-17:30
+Utorok: 8:30-17:30
+Streda: 8:30-17:30
+Štvrtok: 8:30-17:30
+Piatok: 8:30-17:30
+Sobota: 8:30-12:00
+Nedeľa: zatvorené",49.0782403,19.6512955,"Smrečianska
+664
+03104
+Liptovský Mikuláš",Lekáreň Slniečko,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-slniecko.html?page_id=129718,7,Liptovský,30
+65-44276478-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44276478-A0001', 'Miesto prevádzkovania': 'SNP\n226\n03301\nLiptovský Hrádok', 'Telefón': '+421 445221133', 'Email': 'lekaren.vcielka@gmail.com', 'Prevádzkovateľ': 'TEXEL, s.r.o.\nKapitána Nálepku\n511\n03301\nLiptovský Hrádok\nIČO: 44276478'}","Prevádzkovateľ platnosť od: 02.11.2017
+Pondelok: 8:00-16:30
+Utorok: 8:00-16:30
+Streda: 8:00-16:30
+Štvrtok: 8:00-16:30
+Piatok: 8:00-16:30
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.0376421,19.7206170,"SNP
+226
+03301
+Liptovský Hrádok",Lekáreň VČIELKA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-vcielka.html?page_id=125410,7,Liptovský,30
+65-17336163-A0058,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-17336163-A0058', 'Miesto prevádzkovania': 'Palúčanská\n25\n03123\nLiptovský Mikuláš', 'Telefón': '+421 445563262', 'Prevádzkovateľ': 'Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš\nPalúčanská\n214/25\n03101\nLiptovský Mikuláš\nIČO: 17336163\nwww.nsplm.sk'}","Dočasná zmena od 162021 do 3092022Sanitačná prestávka 12001230 pozrite pohotovostné lekárne v okrese Liptovský Mikuláš platnosť od: 11.03.2016
+Pondelok: 7:30-15:30
+Utorok: 7:30-15:30
+Streda: 7:30-15:30
+Štvrtok: 7:30-15:30
+Piatok: 7:30-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0847466,19.5979604,"Palúčanská
+25
+03123
+Liptovský Mikuláš",Lekáreň Liptovskej nemocnice,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-liptovskej-nemocnice.html?page_id=92785,7,Liptovský,30
+65-48134023-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-48134023-A0001', 'Miesto prevádzkovania': 'Jánošíkovo nábrežie\n1212/2\n03101\nLiptovský Mikuláš', 'Prevádzkovateľ': 'LM pharm spol. s r.o.\nČapajevova\n23\n08001\nPrešov\nIČO: 48134023'}","Prevádzkovateľ platnosť od: 04.02.2016
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0871566,19.6048889,"Jánošíkovo nábrežie
+1212/2
+03101
+Liptovský Mikuláš",Lekáreň Schneider,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-schneider.html?page_id=92209,7,Liptovský,30
+65-47106352-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47106352-A0001', 'Miesto prevádzkovania': 'Námestie mieru\n1\n03101\nLiptovský Mikuláš', 'Telefón': '+421 905713833', 'Prevádzkovateľ': 'EkoMedica s.r.o.\nBudatínska\n18\n83154\nBratislava-Petržalka\nIČO: 47106352'}","Prevádzkovateľ platnosť od: 01.01.2020
+Pondelok: 8:00-19:00
+Utorok: 8:00-19:00
+Streda: 8:00-19:00
+Štvrtok: 8:00-19:00
+Piatok: 8:00-19:00
+Sobota: 8:00-19:00
+Nedeľa: 9:00-19:00",49.0858878,19.6116220,"Námestie mieru
+1
+03101
+Liptovský Mikuláš",Lekáreň APOTHEKE,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-apotheke.html?page_id=84357,7,Liptovský,30
+65-47728434-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47728434-A0001', 'Miesto prevádzkovania': 'Jánošíkovo nábrežie\n2\n03101\nLiptovský Mikuláš', 'Prevádzkovateľ': 'PHARMACY-PR, spol. s r.o.\nČapajevova\n23\n08001\nPrešov\nIČO: 47728434'}","Prevádzkovateľ platnosť od: 01.07.2015
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0873113,19.6038551,"Jánošíkovo nábrežie
+2
+03101
+Liptovský Mikuláš",Lekáreň Schneider,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-schneider-1.html?page_id=76464,7,Liptovský,30
+65-47403420-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47403420-A0001', 'Miesto prevádzkovania': 'Zdravotné stredisko\nĽubeľa\n462\n03214\nĽubeľa', 'Telefón': '+421 445514166', 'Web': 'http://www.pharmateam.sk', 'Prevádzkovateľ': 'PharmaTeam s.r.o.\nTatranské námestie\n4582/5\n05801\nPoprad\nIČO: 47403420'}","Prevádzkovateľ platnosť od: 08.01.2018
+Pondelok: 7:00-15:00
+Utorok: 7:00-15:00
+Streda: 7:00-15:00
+Štvrtok: 7:00-15:00
+Piatok: 7:00-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0498734,19.4830806,"Zdravotné stredisko
+Ľubeľa
+462
+03214
+Ľubeľa",Lekáreň ĽUBEĽA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-lubela.html?page_id=66561,7,Liptovský,30
+65-47684992-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47684992-A0001', 'Miesto prevádzkovania': 'Demänovská cesta\n745\n03101\nLiptovský Mikuláš', 'Prevádzkovateľ': 'Dr.Max 43 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Západ\nIČO: 47684992'}","Prevádzkovateľ platnosť od: 01.11.2014
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00",49.0808029,19.6016508,"Demänovská cesta
+745
+03101
+Liptovský Mikuláš",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-dr.-max-1.html?page_id=66247,7,Liptovský,30
+65-47468351-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47468351-A0001', 'Miesto prevádzkovania': 'OC STOP SHOP\n1. mája\n41\n03601\nLiptovský Mikuláš', 'Prevádzkovateľ': 'BENU SK 32, s.r.o.\nPribylinská\n2/A\n83104\nBratislava - mestská časť Rača\nIČO: 47468351'}","Prevádzkovateľ platnosť od: 01.04.2014
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00
+Nedeľa: od 16.03.2020 do odvolania prevádzkové hodiny lekárne:
+pondelok - piatok od 08.00 - 19.00 hod.
+sobota, nedeľaod 08.00 - 15.00 hod.",49.0812381,19.6193906,"OC STOP SHOP
+1. mája
+41
+03601
+Liptovský Mikuláš",Lekáreň BENU,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-benu.html?page_id=64470,7,Liptovský,30
+65-44739991-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44739991-A0001', 'Miesto prevádzkovania': 'Garbiarska\n4614\n03101\nLiptovský Mikuláš', 'Prevádzkovateľ': 'RD Medical Trade, s. r. o.\nOndrašovská\n104/627\n03105\nLiptovský Mikuláš\nIČO: 44739991'}","Prevádzkovateľ platnosť od: 16.04.2014
+Pondelok: 8:00-17:00
+Utorok: 8:00-17:00
+Streda: 8:00-17:00
+Štvrtok: 8:00-17:00
+Piatok: 8:00-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0821895,19.6122710,"Garbiarska
+4614
+03101
+Liptovský Mikuláš",Lekáreň KAMILKA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-kamilka.html?page_id=59959,7,Liptovský,30
+65-46043667-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-46043667-A0001', 'Miesto prevádzkovania': 'Námestie osloboditeľov\n87\n03101\nLiptovský Mikuláš', 'Prevádzkovateľ': 'Dr.Max 17 s.r.o.\nMoldavská cesta\n8/8/A\n04001\nKošice - mestská časť Juh\nIČO: 46043667'}","Prevádzkovateľ platnosť od: 25.11.2014
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: 7:30-16:00
+Nedeľa: 7:30-16:00",49.0831819,19.6131114,"Námestie osloboditeľov
+87
+03101
+Liptovský Mikuláš",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-dr.-max-3.html?page_id=59674,7,Liptovský,30
+65-46381741-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-46381741-A0001', 'Miesto prevádzkovania': 'Pri železnici\n1737\nLiptovský Hrádok', 'Telefón': '+421 445222095\n+421 445209427', 'Prevádzkovateľ': 'PHARMLIPTOV, s.r.o.\nPri železnici\n1737\n03301\nLiptovský Hrádok\nIČO: 46381741'}","Prevádzkovateľ platnosť od: 01.01.2020
+Pondelok: 7:00-16:00
+Utorok: 7:00-16:00
+Streda: 7:00-16:00
+Štvrtok: 7:00-16:00
+Piatok: 7:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0387673,19.7209412,"Pri železnici
+1737
+Liptovský Hrádok",Lekáreň PHARMACIA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-pharmacia.html?page_id=25947,7,Liptovský,30
+65-31929834-A0001,"{'Druh': 'Výdajňa zdravotníckych pomôcok', 'Identifikátor': '65-31929834-A0001', 'Miesto prevádzkovania': 'Jánošíkovo nábr.\n1212/2\n03101\nLiptovský Mikuláš', 'Telefón': '+421 445525444', 'Prevádzkovateľ': 'Soňa Vrabcová\nIČO: 31929834'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0868491,19.6048928,"Jánošíkovo nábr.
+1212/2
+03101
+Liptovský Mikuláš",Výdajňa zdravotníckych  pomôcok S.V.,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/vydajna-zdravotnickych-pomocok-s.v..html?page_id=3552,7,Liptovský,30
+65-42067154-A0001,"{'Druh': 'Výdajňa ortopedicko-protetických zdravotníckych pomôcok', 'Identifikátor': '65-42067154-A0001', 'Miesto prevádzkovania': '1.mája\n113/19\n03101\nLiptovský Mikuláš', 'Telefón': '+421 445526971', 'Prevádzkovateľ': 'Jana Šúryová\nIČO: 42067154'}","Prevádzkovateľ platnosť od: 28.02.2018
+Pondelok: 8:30-12:00  ||12:45-16:00
+Utorok: 8:30-12:00  ||12:45-16:00
+Streda: 8:30-12:00  ||12:45-16:00
+Štvrtok: 8:30-12:00  ||12:45-16:00
+Piatok: 8:30-12:00  ||12:45-16:00
+Sobota: 9:00-11:30
+Nedeľa: zatvorené",49.0821187,19.6158658,"1.mája
+113/19
+03101
+Liptovský Mikuláš",Výdajňa zdravotníckych pomôcok,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/vydajna-zdravotnickych-pomocok.html?page_id=3554,7,Liptovský,30
+65-00622931-A0001,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-00622931-A0001', 'Miesto prevádzkovania': 'Hlavná\n506/0\n03261\nVažec', 'Telefón': '+421 445294129', 'Prevádzkovateľ': 'PharmDr. Mária Feriancová\nIČO: 00622931'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 12:30-16:00
+Utorok: 12:30-16:00
+Streda: 12:30-16:00
+Štvrtok: 12:30-16:00
+Piatok: 12:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.05798874,19.98288807,"Hlavná
+506/0
+03261
+Važec",Lekáreň VÝCHODNÁ - pobočka,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-vychodna-pobocka.html?page_id=3517,7,Liptovský,30
+65-00622931-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-00622931-A0002', 'Miesto prevádzkovania': 'ObZS\n191\n03232\nVýchodná', 'Telefón': '+421 445295329 ,445294129', 'Prevádzkovateľ': 'PharmDr. Mária Feriancová\nIČO: 00622931'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 8:30-12:00
+Utorok: 8:30-12:00
+Streda: 8:30-12:00
+Štvrtok: 8:30-12:00
+Piatok: 8:30-12:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0583315,19.8954234,"ObZS
+191
+03232
+Východná",Lekáreň VÝCHODNÁ,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-vychodna.html?page_id=3516,7,Liptovský,30
+65-00622877-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-00622877-A0001', 'Miesto prevádzkovania': 'Smrečianska\n677/16\n03104\nLiptovský Mikuláš', 'Telefón': '+421 445534254', 'Prevádzkovateľ': 'Mgr. Viera Mokrišová\nIČO: 00622877'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 8:00-17:00
+Utorok: 8:00-17:00
+Streda: 8:00-17:00
+Štvrtok: 8:00-17:00
+Piatok: 8:00-17:00
+Sobota: 8:00-11:00
+Nedeľa: zatvorené",49.07876670,19.65133840,"Smrečianska
+677/16
+03104
+Liptovský Mikuláš",Lekáreň PODBREZINY,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-podbreziny.html?page_id=3449,7,Liptovský,30
+65-31642632-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-31642632-A0001', 'Miesto prevádzkovania': 'Hradná\n529\n03301\nLiptovský Hrádok', 'Telefón': '+421 445223776', 'Email': 'gogolova@lm.psg.sk', 'Prevádzkovateľ': 'Lekáreň na Hradnej, spol. s.r.o.\nRačianska\n153\n03301\nBratislava - mestská časť Rača\nIČO: 31642632'}","Prevádzkovateľ platnosť od: 03.10.2018
+Pondelok: 6:30-17:00
+Utorok: 6:30-17:00
+Streda: 6:30-17:00
+Štvrtok: 6:30-17:00
+Piatok: 6:30-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0395066,19.7271388,"Hradná
+529
+03301
+Liptovský Hrádok",Lekáreň NA HRADNEJ,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-na-hradnej.html?page_id=3422,7,Liptovský,30
+65-44030461-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44030461-A0001', 'Miesto prevádzkovania': 'Kamenné pole\n4447/2\n03101\nLiptovský Mikuláš', 'Prevádzkovateľ': 'VitalPharm, spol. s r. o.\nČapajevova\n23\n08001\nPrešov\nIČO: 44030461'}","Prevádzkovateľ platnosť od: 06.06.2018
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00",49.0776975,19.6051304,"Kamenné pole
+4447/2
+03101
+Liptovský Mikuláš",Lekáreň Schneider,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-schneider-2.html?page_id=3406,7,Liptovský,30
+65-44882645-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44882645-A0001', 'Miesto prevádzkovania': 'J. D. Matejovie\n542/21\n03301\nLiptovský Hrádok', 'Mobil': '+421 901961516', 'Prevádzkovateľ': 'BUTYKS s. r. o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 44882645'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 7:00-17:00
+Utorok: 7:00-17:00
+Streda: 7:00-17:00
+Štvrtok: 7:00-17:00
+Piatok: 7:00-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.03985131,19.72515670,"J. D. Matejovie
+542/21
+03301
+Liptovský Hrádok",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-dr.-max-2.html?page_id=3360,7,Liptovský,30
+65-36602965-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36602965-A0001', 'Miesto prevádzkovania': 'Garbiarska\n905\n03101\nLiptovský Mikuláš', 'Telefón': '+421 901961019', 'Prevádzkovateľ': 'MEDISELL s.r.o.\nMoldavská cesta\n8/A/8/A\n04001\nKošice - mestská časť Juh\nIČO: 36602965'}","Prevádzkovateľ platnosť od: 01.09.2020
+Pondelok: 8:00-18:00
+Utorok: 8:00-18:00
+Streda: 8:00-18:00
+Štvrtok: 8:00-18:00
+Piatok: 8:00-18:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0808571,19.6143936,"Garbiarska
+905
+03101
+Liptovský Mikuláš",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-dr.-max-4.html?page_id=3358,7,Liptovský,30
+65-00622826-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-00622826-A0001', 'Miesto prevádzkovania': 'Námestie osloboditeľov\n79/18\n03101\nLiptovský Mikuláš', 'Telefón': '+421 445522201', 'Prevádzkovateľ': 'PharmDr. Soňa Hubková\nIČO: 00622826'}","Prevádzkovateľ platnosť od: 06.09.2021
+Pondelok: 8:00-11:30  ||11:30-16:30
+Utorok: 8:00-11:30  ||11:30-16:30
+Streda: 8:30-11:30  ||11:30-16:30
+Štvrtok: 8:00-11:30  ||11:30-16:30
+Piatok: 8:00-11:30  ||11:30-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0836406,19.6132987,"Námestie osloboditeľov
+79/18
+03101
+Liptovský Mikuláš",Lekáreň APIA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-apia.html?page_id=3320,7,Liptovský,30
+65-31595944-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-31595944-A0001', 'Miesto prevádzkovania': 'Jilemnického\n22\n03101\nLiptovský Mikuláš', 'Telefón': '+421 445524931', 'Mobil': '+421908747613', 'Email': 'lekambra@lekambra.sk', 'Web': 'lekáreň ambra liptovský mikuláš', 'Prevádzkovateľ': 'VITALIS spol. s.r.o.\nJilemnického\n22\n03101\nLiptovský Mikuláš\nIČO: 31595944'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.08733700,19.60528520,"Jilemnického
+22
+03101
+Liptovský Mikuláš",Lekáreň AMBRA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/liptovsky-mikulas/lekaren-ambra.html?page_id=3318,7,Liptovský,30
+65-31560083-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-31560083-A0002', 'Miesto prevádzkovania': 'Sklabinská\n153/20\n03601\nMartin', 'Mobil': '0905408334', 'Email': 'farmavet@farmavet.sk', 'Prevádzkovateľ': 'FARMAVET s.r.o.\nSklabinská\n20\n03601\nMartin\nIČO: 31560083'}","Prevádzkovateľ platnosť od: 25.04.2022
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0573744,18.9299191,"Sklabinská
+153/20
+03601
+Martin",Lekáreň FARMAVET s.r.o.,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-farmavet.html?page_id=142737,7,Martin,33
+65-36610704-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36610704-A0002', 'Miesto prevádzkovania': 'Zdravotné stredisko VIDA\nA. Medňanského\n11701/16C\n03861\nMartin', 'Telefón': '043/4012665', 'Email': 'martin.priekopa@benulekaren.sk', 'Prevádzkovateľ': 'UVEA DÚHOVKA, s.r.o.\nZelená\n10888/1A\n03601\nMartin\nIČO: 36610704'}","Prevádzkovateľ platnosť od: 13.12.2021
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.10593490,18.92926230,"Zdravotné stredisko VIDA
+A. Medňanského
+11701/16C
+03861
+Martin",BENU LEKÁREŇ,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/benu-lekaren.html?page_id=141932,7,Martin,33
+65-52924751-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-52924751-A0001', 'Miesto prevádzkovania': 'Námestie SNP\n11376/2\n03601\nMartin', 'Mobil': '0910459707', 'Email': 'benu110@benulekaren.sk', 'Prevádzkovateľ': 'BENU SK 110, s. r. o.\nPribylinská\n2A\n83104\nBratislava - mestská časť Rača\nIČO: 52924751'}","Prevádzkovateľ platnosť od: 14.04.2021
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00",49.0624202,18.9205416,"Námestie SNP
+11376/2
+03601
+Martin",Lekáreň BENU,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-benu-1.html?page_id=140465,7,Martin,33
+65-51789680-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-51789680-A0001', 'Miesto prevádzkovania': 'Bottova\n11630/21\n03601\nMartin', 'Mobil': '0907352532', 'Email': 'info@profilekaren.sk', 'Prevádzkovateľ': 'EMPELU, s.r.o.\nE. B. Lukáča\n407/2\n03601\nMartin\nIČO: 51789680'}","Prevádzkovateľ platnosť od: 01.07.2021
+Pondelok: 7:00-16:30
+Utorok: 7:00-16:30
+Streda: 7:00-16:30
+Štvrtok: 7:00-16:30
+Piatok: 7:00-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0561508,18.9134533,"Bottova
+11630/21
+03601
+Martin",PROFI Lekáreň,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/profi-lekaren.html?page_id=136381,7,Martin,33
+65-52797384-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-52797384-A0001', 'Miesto prevádzkovania': 'A. Stodolu\n5285/28\n03601\nMartin', 'Mobil': '0951329629', 'Email': 'lekarenirismartin@gmail.com', 'Prevádzkovateľ': 'Lekáreň Iris Martin, s.r.o.\nKolónia Hviezda\n2476/43\n03861\nMartin\nIČO: 52797384'}","Prevádzkovateľ platnosť od: 27.02.2020
+Pondelok: 8:00-16:00
+Utorok: 8:00-16:00
+Streda: 8:00-16:00
+Štvrtok: 8:00-16:00
+Piatok: 8:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0950678,18.9187439,"A. Stodolu
+5285/28
+03601
+Martin",Lekáreň Iris,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-iris.html?page_id=133135,7,Martin,33
+65-51482568-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-51482568-A0001', 'Miesto prevádzkovania': 'A. Kmeťa\n591/42\n03601\nMartin', 'Telefón': '0901961332', 'Email': 'drmax332@drmax.sk', 'Prevádzkovateľ': 'Dr.Max 152 s.r.o.\nMoldavská cesta\n2423/8/A\n04011\nKošice - mestská časť Juh\nIČO: 51482568'}","Prevádzkovateľ platnosť od: 21.05.2020
+Pondelok: 7:00-17:00
+Utorok: 7:00-17:00
+Streda: 7:00-17:00
+Štvrtok: 7:00-17:00
+Piatok: 7:00-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0655433,18.9165254,"A. Kmeťa
+591/42
+03601
+Martin",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-dr.-max-7.html?page_id=129645,7,Martin,33
+65-51221926-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-51221926-A0001', 'Miesto prevádzkovania': 'Jilemnického\n10809/63A\n03601\nMartin', 'Mobil': '910753717', 'Email': 'lmt@najlepsialekaren.sk', 'Web': 'http://www.najlepsialekaren.sk', 'Prevádzkovateľ': 'RAVAPHARM MT s.r.o.\nDrotárska cesta\n1182/19B\n96901\nBratislava-Staré Mesto\nIČO: 51221926'}","Prevádzkovateľ platnosť od: 28.03.2020
+Pondelok: 9:00-12:30  ||13:00-20:0012:30 - 13:00 hod. dezinfekcia lekárne
+Utorok: 9:00-12:30  ||13:00-20:0012:30 - 13:00 hod. dezinfekcia lekárne
+Streda: 9:00-12:30  ||13:00-20:0012:30 - 13:00 hod. dezinfekcia lekárne
+Štvrtok: 9:00-12:30  ||13:00-20:0012:30 - 13:00 hod. dezinfekcia lekárne
+Piatok: 9:00-12:30  ||13:00-20:0012:30 - 13:00 hod. dezinfekcia lekárne
+Sobota: 9:00-12:30  ||13:00-20:0012:30 - 13:00 hod. dezinfekcia lekárne
+Nedeľa: 9:00-20:00Nedeľa Zatvorené - Nariadenie vlády SR",49.0889589,18.9312726,"Jilemnického
+10809/63A
+03601
+Martin",Najlepšia lekáreň Martin,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/najlepsia-lekaren-martin.html?page_id=129568,7,Martin,33
+65-47875330-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47875330-A0001', 'Miesto prevádzkovania': 'Republikánska\n6\n03861\nVrútky', 'Email': 'drmax218@drmax.sk', 'Prevádzkovateľ': 'Dr.Max 87 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 47875330'}","Prevádzkovateľ platnosť od: 18.09.2017
+Pondelok: 7:30-17:00
+Utorok: 7:30-17:00
+Streda: 7:30-17:00
+Štvrtok: 7:30-17:00
+Piatok: 7:30-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.1123517,18.9252663,"Republikánska
+6
+03861
+Vrútky",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-dr.-max-2.html?page_id=124815,7,Martin,33
+65-50446550-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-50446550-A0001', 'Miesto prevádzkovania': 'Hodžova\n1\n03601\nMartin', 'Prevádzkovateľ': 'MI pharma s.r.o.\nČapajevova\n23\n08001\nPrešov\nIČO: 50446550'}","Prevádzkovateľ platnosť od: 12.03.2020
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0864545,18.9331249,"Hodžova
+1
+03601
+Martin",Lekáreň Schneider,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-schneider.html?page_id=123594,7,Martin,33
+65-47781394-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47781394-A0001', 'Miesto prevádzkovania': 'Krížna\n251/2\n03853\nTurany', 'Prevádzkovateľ': 'Dr.Max 70 s.r.o.\nMoldavská cesta\n8/a\n04011\nTurňa nad Bodvou\nIČO: 47781394'}","Prevádzkovateľ platnosť od: 10.04.2017
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.1152960,19.0393588,"Krížna
+251/2
+03853
+Turany",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-dr.-max-3.html?page_id=103404,7,Martin,33
+65-48217158-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-48217158-A0001', 'Miesto prevádzkovania': 'Zvolenská\n10169\n03601\nMartin', 'Prevádzkovateľ': 'Apotheke06 s.r.o.\nBudatínska\n18\n83104\nBratislava-Petržalka\nIČO: 48217158'}","Dočasná zmena od 122022 do 31122022Zmena otváracej doby otvorené 7301530 pozrite pohotovostné lekárne v okrese Martin platnosť od: 04.01.2016
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.07838890,18.92660640,"Zvolenská
+10169
+03601
+Martin",Lekáreň ŠARLOTKA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-sarlotka.html?page_id=90133,7,Martin,33
+65-47774517-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47774517-A0001', 'Miesto prevádzkovania': 'Hodžova\n1\n03601\nMartin', 'Telefón': '+421 434132567', 'Prevádzkovateľ': 'Lekáreń Košúty s.r.o.\nHodžova\n1\n03601\nMartin\nIČO: 47774517'}","Prevádzkovateľ platnosť od: 13.10.2015
+Pondelok: 7:30-16:30
+Utorok: 7:30-16:30
+Streda: 7:30-16:30
+Štvrtok: 7:30-16:30
+Piatok: 7:30-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0864545,18.9331249,"Hodžova
+1
+03601
+Martin",Lekáreň Košúty s.r.o.,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-kosuty.html?page_id=87077,7,Martin,33
+65-47347988-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47347988-A0001', 'Miesto prevádzkovania': 'M. R. Štefánika\n27\n03601\nMartin', 'Telefón': '+421 433260160', 'Prevádzkovateľ': 'SLOVAP5, s. r. o.\nHorná Strieborná\n18\n97401\nBanská Bystrica\nIČO: 47347988'}","Prevádzkovateľ platnosť od: 20.09.2021
+Pondelok: 8:00-17:00
+Utorok: 8:00-17:00
+Streda: 8:00-17:00
+Štvrtok: 8:00-17:00
+Piatok: 8:00-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0720260,18.9249822,"M. R. Štefánika
+27
+03601
+Martin",Lekáreň apoteka,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-apoteka.html?page_id=74464,7,Martin,33
+65-47387441-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47387441-A0001', 'Miesto prevádzkovania': 'Sv. Cyrila a Metoda\n10/A\n03861\nVrútky', 'Prevádzkovateľ': 'Dr.Max 35 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 47387441'}","Prevádzkovateľ platnosť od: 10.04.2017
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.1131109,18.9239109,"Sv. Cyrila a Metoda
+10/A
+03861
+Vrútky",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-dr.-max-4.html?page_id=65383,7,Martin,33
+65-44720505-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44720505-A0001', 'Miesto prevádzkovania': 'Kollárova\n49\n03601\nMartin', 'Telefón': '+421 919418787', 'Prevádzkovateľ': 'DSD Pharma s.r.o.\nJanka Kráľa\n1\n97401\nBanská Bystrica\nIČO: 44720505'}","Prevádzkovateľ platnosť od: 03.06.2014
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0563357,18.9158709,"Kollárova
+49
+03601
+Martin",Lekáreň APIS,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-apis.html?page_id=65242,7,Martin,33
+65-47521414-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47521414-A0001', 'Miesto prevádzkovania': 'HM TESCO\nTuriec\n1\n03601\nMartin', 'Prevádzkovateľ': 'BENU SK 30  s.r.o.\nPribylinská\n2/A\n83104\nBratislava - mestská časť Rača\nIČO: 47521414'}","Prevádzkovateľ platnosť od: 01.04.2014
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00",49.0526617,18.9085530,"HM TESCO
+Turiec
+1
+03601
+Martin",Lekáreň BENU,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-benu.html?page_id=64469,7,Martin,33
+65-47546344-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47546344-A0001', 'Miesto prevádzkovania': 'Partizánska\n25\n03852\nSučany', 'Telefón': '+421 434293896', 'Prevádzkovateľ': 'Lekáreň U Dobrého Pastiera s.r.o\nPartizánska\n25\n03852\nSučany\nIČO: 47546344'}","Prevádzkovateľ platnosť od: 16.09.2019
+Pondelok: 7:00-14:30
+Utorok: 7:00-14:30
+Streda: 7:00-14:30
+Štvrtok: 7:00-14:30
+Piatok: 7:00-14:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0991447,18.9984095,"Partizánska
+25
+03852
+Sučany",Lekáreň U Dobrého Pastiera s.r.o.,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-u-dobreho-pastiera.html?page_id=60092,7,Martin,33
+65-47512946-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47512946-A0001', 'Miesto prevádzkovania': 'Martinská poliklinika\nČeskoslovenskej armády\n1697/3\n03601\nMartin\nV budove Martinskej polikliniky', 'Telefón': '+421 434241121', 'Prevádzkovateľ': 'Melissa Martin, s. r. o.\nČeskoslovenskej armády\n3\n03601\nMartin\nIČO: 47512946'}","Zatvorená od 31102022 do 2112022DOVOLENKA pozrite pohotovostné lekárne v okrese Martin platnosť od: 11.12.2013
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.070201,18.911389,"Martinská poliklinika
+Československej armády
+1697/3
+03601
+Martin
+V budove Martinskej polikliniky",Lekáreň Melissa,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-melissa.html?page_id=59753,7,Martin,33
+65-47353015-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47353015-A0001', 'Miesto prevádzkovania': 'OC TULIP\nPltníky\n8/A\n03601\nMartin', 'Prevádzkovateľ': 'Dr.Max 616 s.r.o.\nMoldavská cesta\n8/8/A\n04011\nKošice - mestská časť Západ\nIČO: 47353015'}","Prevádzkovateľ platnosť od: 25.11.2013
+Pondelok: 9:00-21:00
+Utorok: 9:00-21:00
+Streda: 9:00-21:00
+Štvrtok: 9:00-21:00
+Piatok: 9:00-21:00
+Sobota: 9:00-21:00
+Nedeľa: 9:00-21:00",49.0864123,18.9264149,"OC TULIP
+Pltníky
+8/A
+03601
+Martin",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-dr.-max-1.html?page_id=59308,7,Martin,33
+65-47133121-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47133121-A0001', 'Miesto prevádzkovania': 'M. R. Štefánika\n40\n03601\nMartin', 'Prevádzkovateľ': 'Lekáreň Bella Donna s. r. o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 47133121'}","Prevádzkovateľ platnosť od: 31.12.2018
+Pondelok: 7:30-17:00
+Utorok: 7:30-17:00
+Streda: 7:30-17:00
+Štvrtok: 7:30-17:00
+Piatok: 7:30-17:00
+Sobota: zatvorené ZATVORENÉ
+Nedeľa: zatvorené",49.0646038,18.9219983,"M. R. Štefánika
+40
+03601
+Martin",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-dr.-max-8.html?page_id=59130,7,Martin,33
+65-36394360-A0001,"{'Druh': 'Výdajňa ortopedicko-protetických zdravotníckych pomôcok', 'Identifikátor': '65-36394360-A0001', 'Miesto prevádzkovania': 'Kollárova\n21\n03601\nMartin', 'Telefón': '+421 434221498', 'Prevádzkovateľ': 'ORTO - PROTETIKA, s.r.o.\nKollárova\n21\n03601\nMartin\nIČO: 36394360'}","Prevádzkovateľ platnosť od: 22.01.2013
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.05903920,18.91840220,"Kollárova
+21
+03601
+Martin","Výdajňa ortopedicko-protetických zdravotníckych pomôcok ORTO-PROTETIKA, s.r.o.",https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/vydajna-ortopedicko-protetickych-zdravotnickych-pomocok-orto-protetika.html?page_id=56025,7,Martin,33
+65-44483643-A0001,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-44483643-A0001', 'Miesto prevádzkovania': 'Komenského\n1120\n03853\nTurany', 'Telefón': '+421 434131476', 'Prevádzkovateľ': 'Lekáreň Cyrila a Metoda s.r.o.\nBagarova\n10307/10307/32A\n03601\nMartin\nIČO: 44483643'}","Prevádzkovateľ platnosť od: 01.03.2016
+Pondelok: 8:00-12:00  ||12:30-16:30
+Utorok: 8:00-12:00  ||12:30-16:30
+Streda: 8:00-12:00  ||12:30-16:30
+Štvrtok: 8:00-12:00  ||12:30-16:30
+Piatok: 8:00-12:00  ||12:30-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.1129737,19.0361657,"Komenského
+1120
+03853
+Turany","Lekáreň  Cyrila a Metoda, s.r.o. - pobočka Turany",https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-cyrila-a-metoda-pobocka-turany.html?page_id=56024,7,Martin,33
+65-45470987-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-45470987-A0002', 'Miesto prevádzkovania': 'Zelená\n10888/1A\n03608\nMartin', 'Telefón': '+421 434012605', 'Web': 'http://www.uvea.sk', 'Prevádzkovateľ': 'UVEA MEDIKLINIK, s. r. o.\nČsl. armády\n3/10223\n03601\nMartin\nIČO: 45470987'}","Prevádzkovateľ platnosť od: 01.04.2016
+Pondelok: 7:00-18:00
+Utorok: 7:00-18:00
+Streda: 7:00-18:00
+Štvrtok: 7:00-18:00
+Piatok: 7:00-18:00
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.1062078,18.9235820,"Zelená
+10888/1A
+03608
+Martin",UVEA LEKÁREŇ,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/uvea-lekaren.html?page_id=55551,7,Martin,33
+65-46377573-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-46377573-A0001', 'Miesto prevádzkovania': 'Kollárova\n5585/37\n03601\nMartin', 'Telefón': '+421 434303850', 'Prevádzkovateľ': 'Lekáreň CENTRUM, s.r.o.\nKollárova\n5585/37\n03601\nMartin\nIČO: 46377573'}","Prevádzkovateľ platnosť od: 19.09.2016
+Pondelok: 7:00-16:30
+Utorok: 7:00-16:30
+Streda: 7:00-16:30
+Štvrtok: 7:00-16:30
+Piatok: 7:00-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0598545,18.9202180,"Kollárova
+5585/37
+03601
+Martin",Lekáreň CENTRUM,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-centrum.html?page_id=51090,7,Martin,33
+65-31322859-A0003,"{'Druh': 'Výdajňa zdravotníckych pomôcok', 'Identifikátor': '65-31322859-A0003', 'Miesto prevádzkovania': 'Jesenského\n8/4848\n03601\nMartin', 'Prevádzkovateľ': 'PROTETIKA, a.s.\nBojnická\n10\n82365\nBratislava - mestská časť Rača\nIČO: 31322859'}","Prevádzkovateľ platnosť od: 08.06.2018
+Pondelok: 8:00-15:30
+Utorok: 8:00-15:30
+Streda: 8:00-15:30
+Štvrtok: 8:00-15:30
+Piatok: 8:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené
+Nedeľa: prestávka na obed od 12.30 - 13.00 hod.",49.0597316,18.9212280,"Jesenského
+8/4848
+03601
+Martin",Výdajňa zdravotníckych pomôcok,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/vydajna-zdravotnickych-pomocok.html?page_id=3556,7,Martin,33
+65-31322859-A0002,"{'Druh': 'Výdajňa ortopedicko-protetických zdravotníckych pomôcok', 'Identifikátor': '65-31322859-A0002', 'Miesto prevádzkovania': 'Škultétyho\n1/467\n03601\nMartin', 'Telefón': '+421 434222252', 'Prevádzkovateľ': 'PROTETIKA, a.s.\nBojnická\n10\n82365\nBratislava - mestská časť Rača\nIČO: 31322859'}","Prevádzkovateľ platnosť od: 26.08.2013
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0689610,18.9209291,"Škultétyho
+1/467
+03601
+Martin",Výdajňa ortopedicko-protetických zdravotníckych pomôcok,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/vydajna-ortopedicko-protetickych-zdravotnickych-pomocok.html?page_id=3550,7,Martin,33
+65-00627291-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-00627291-A0001', 'Miesto prevádzkovania': 'Daniela Michaelliho\n3932/2\n03601\nMartin', 'Telefón': '+421 434135972', 'Prevádzkovateľ': 'Mgr. Jana Korcová\nIČO: 00627291'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0506415,18.9228480,"Daniela Michaelliho
+3932/2
+03601
+Martin",Lekáreň ĽADOVEŇ,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-ladoven.html?page_id=3530,7,Martin,33
+65-36729159-A0001,"{'Druh': 'Výdajňa ortopedicko-protetických zdravotníckych pomôcok', 'Identifikátor': '65-36729159-A0001', 'Miesto prevádzkovania': 'Kollárova\n10821/21\n03601\nMartin', 'Telefón': '+421 434221498, +421 905336902', 'Prevádzkovateľ': 'MAXIM MARTIN, s.r.o.\nJesenského\n4349/9\n03601\nMartin\nIČO: 36729159'}","Prevádzkovateľ platnosť od: 01.05.2020
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené
+Nedeľa: platnosť od: 12.06.2020
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.05928150,18.92049280,"Kollárova
+10821/21
+03601
+Martin",Výdajňa MAXIM MARTIN s.r.o.,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/vydajna-maxim-martin.html?page_id=3518,7,Martin,33
+65-36677396-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36677396-A0001', 'Miesto prevádzkovania': 'Kollárova\n7\n03601\nMartin', 'Telefón': '+421 434223834', 'Prevádzkovateľ': 'BAPHARM spol. s r.o.\nJána Hollého\n3\n08001\nPrešov\nIČO: 36677396'}","Prevádzkovateľ platnosť od: 21.01.2019
+Pondelok: 7:45-12:00  ||12:15-15:30
+Utorok: 7:45-12:00  ||12:15-15:30
+Streda: 7:45-12:00  ||12:15-15:30
+Štvrtok: 7:45-12:00  ||12:15-15:30
+Piatok: 7:45-12:00  ||12:15-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.06019660,18.92002370,"Kollárova
+7
+03601
+Martin",Lekáreň VERBENA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-verbena.html?page_id=3511,7,Martin,33
+65-36437948-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36437948-A0001', 'Miesto prevádzkovania': 'Rakovo\n94\n03842\nRakovo', 'Telefón': '+421 434302876', 'Prevádzkovateľ': 'Lekáreň U RAKA + s.r.o.\nValča\n501\n03835\nValča\nIČO: 36437948'}","Prevádzkovateľ platnosť od: 14.06.2021
+Pondelok: 7:30-12:15  ||12:45-15:00
+Utorok: 7:30-12:15  ||12:45-15:00
+Streda: 7:30-12:15  ||12:45-15:00
+Štvrtok: 7:30-12:15  ||12:45-15:00
+Piatok: 7:30-12:15  ||12:45-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené
+Nedeľa: Prestávka na obed od 12.15 - 12.45 hod.",48.9890164,18.8798878,"Rakovo
+94
+03842
+Rakovo",Lekáreň U RAKA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-u-raka.html?page_id=3510,7,Martin,33
+65-36275883-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36275883-A0001', 'Miesto prevádzkovania': 'Mudroňova\n16\n03601\nMartin', 'Telefón': '+421 434007311', 'Prevádzkovateľ': 'MT Pharm, s.r.o.\nKapitulská\n1\n97405\nBanská Bystrica\nIČO: 36275883'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 7:00-18:00
+Utorok: 7:00-18:00
+Streda: 7:00-18:00
+Štvrtok: 7:00-18:00
+Piatok: 7:00-18:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.06696900,18.92019250,"Mudroňova
+16
+03601
+Martin",Lekáreň SV.MARTINA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-sv.martina.html?page_id=3489,7,Martin,33
+65-36436461-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36436461-A0001', 'Miesto prevádzkovania': 'Pavla Mudroňa\n19\n03601\nMartin', 'Telefón': '+421 434241210', 'Prevádzkovateľ': 'SILOE, s.r.o.\nPavla Mudroňa\n19\n03601\nMartin\nIČO: 36436461'}","Prevádzkovateľ platnosť od: 01.09.2016
+Pondelok: 8:00-16:30
+Utorok: 8:00-16:30
+Streda: 8:00-16:30
+Štvrtok: 8:00-16:30
+Piatok: 8:00-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0665395,18.9200475,"Pavla Mudroňa
+19
+03601
+Martin",Lekáreň SILOE,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-siloe.html?page_id=3477,7,Martin,33
+65-44170360-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44170360-A0001', 'Miesto prevádzkovania': 'Zvolenská\n10\n03601\nMartin', 'Telefón': '+421 905917499', 'Prevádzkovateľ': 'PHARMCROSS s.r.o.\nBudatínska\n18\n83154\nBratislava-Petržalka\nIČO: 44170360'}","Prevádzkovateľ platnosť od: 30.07.2018
+Pondelok: 7:30-15:30
+Utorok: 7:30-15:30
+Streda: 7:30-15:30
+Štvrtok: 7:30-15:30
+Piatok: 7:30-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0776726,18.9266791,"Zvolenská
+10
+03601
+Martin",Lekáreň SEVER,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-sever.html?page_id=3476,7,Martin,33
+65-36849383-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36849383-A0001', 'Miesto prevádzkovania': 'Prieložtek\n1\n03601\nMartin', 'Telefón': '+421 434223567', 'Email': 'lekaren-medica@senium.sk', 'Prevádzkovateľ': 'Senium Medica, s.r.o.\nPrieložtek\n1\n03601\nMartin\nIČO: 36849383'}","Prevádzkovateľ platnosť od: 29.02.2012
+Pondelok: 7:00-16:30
+Utorok: 7:00-16:30
+Streda: 7:00-16:30
+Štvrtok: 7:00-16:30
+Piatok: 7:00-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0563790,18.9171803,"Prieložtek
+1
+03601
+Martin",Lekáreň SENIUM MEDICA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-senium-medica.html?page_id=3475,7,Martin,33
+65-43913865-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-43913865-A0001', 'Miesto prevádzkovania': 'Uzlovská\n4\n03601\nMartin', 'Telefón': '+421 434281500', 'Email': 'lekarenremedia@bpharm.sk', 'Prevádzkovateľ': 'REMEDIA MT, s.r.o.\nŠtefánikova\n80\n94101\nBánov\nIČO: 43913865'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 7:00-16:00
+Utorok: 7:00-16:00
+Streda: 7:00-16:00
+Štvrtok: 7:00-16:00
+Piatok: 7:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.1043774,18.9255378,"Uzlovská
+4
+03601
+Martin",Lekáreň REMEDIA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-remedia.html?page_id=3467,7,Martin,33
+65-36376281-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36376281-A0001', 'Miesto prevádzkovania': 'J. Goliána\n38\n03601\nMartin', 'Telefón': '+421 434230038', 'Prevádzkovateľ': 'LEKÁREŇ PODHÁJ s.r.o.\nJ. Goliána\n38\n03601\nMartin\nIČO: 36376281'}","Prevádzkovateľ platnosť od: 21.11.2020
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené zatvorene
+Nedeľa: zatvorené zatvorene",49.0810817,18.9063992,"J. Goliána
+38
+03601
+Martin",Lekáreň PODHÁJ,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-podhaj.html?page_id=3450,7,Martin,33
+65-36849413-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36849413-A0001', 'Miesto prevádzkovania': 'Škultétyho\n7\n03601\nMartin', 'Prevádzkovateľ': 'Lekáreň MARTIN, s.r.o\nBajkalská\n29F\n82105\nBratislava - mestská časť Ružinov\nIČO: 36849413'}","Prevádzkovateľ platnosť od: 29.02.2012
+Pondelok: 7:00-14:00
+Utorok: 7:00-14:00
+Streda: 7:00-14:00
+Štvrtok: 7:00-14:00
+Piatok: 7:00-14:00
+Sobota: zatvorené
+Nedeľa: zatvorené
+Nedeľa: platnosť od: 18.08.2020
+Pondelok: 7:00-14:30
+Utorok: 7:00-14:30
+Streda: 7:00-14:30
+Štvrtok: 7:00-14:30
+Piatok: 7:00-14:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.06917540,18.91918380,"Škultétyho
+7
+03601
+Martin",Lekáreň POLIKLINIKA I.,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-poliklinika-i..html?page_id=3453,7,Martin,33
+65-35948639-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-35948639-A0001', 'Miesto prevádzkovania': 'Jesenského\n21\n03601\nMartin', 'Prevádzkovateľ': 'Lekáreň PRED NEMOCNICOU MT, s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 35948639'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0601987,18.9207252,"Jesenského
+21
+03601
+Martin",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-dr.-max.html?page_id=3454,7,Martin,33
+65-43928111-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-43928111-A0001', 'Miesto prevádzkovania': 'K. Kalocsaya\n8\n03861\nVrútky', 'Telefón': '+421 433240276', 'Prevádzkovateľ': 'Lekáreň pri stanici Vrútky, s.r.o.\nK. Kalocsaya\n8\n03861\nVrútky\nIČO: 43928111'}","Prevádzkovateľ platnosť od: 01.11.2016
+Pondelok: 7:00-16:00
+Utorok: 7:00-16:00
+Streda: 7:00-16:00
+Štvrtok: 7:00-16:00
+Piatok: 7:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.1139198,18.9225022,"K. Kalocsaya
+8
+03861
+Vrútky",Lekáreň PRI STANICI,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-pri-stanici.html?page_id=3394,7,Martin,33
+65-45915768-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-45915768-A0001', 'Miesto prevádzkovania': 'Košťany nad Turcom\n132\n03841\nKošťany nad Turcom', 'Telefón': '+421 434388303', 'Prevádzkovateľ': 'LEKÁREŇ KOŠŤANY s.r.o.\nKošťany nad Turcom\n03841\nKošťany nad Turcom\nIČO: 45915768'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 8:00-15:00
+Utorok: 8:00-15:00
+Streda: 8:00-15:00
+Štvrtok: 8:00-15:00
+Piatok: 8:00-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0283904,18.9031113,"Košťany nad Turcom
+132
+03841
+Košťany nad Turcom",Lekáreň KOŠŤANY s.r.o.,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-kostany.html?page_id=3391,7,Martin,33
+65-36810487-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36810487-A0001', 'Miesto prevádzkovania': 'Železničná\n2275\n03861\nVrútky', 'Telefón': '+421 434282011', 'Prevádzkovateľ': 'LEKÁREŇ JANKA s.r.o.\nKarvaša a Bláhovca\n17\n03861\nVrútky\nIČO: 36810487'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.11317950,18.92716950,"Železničná
+2275
+03861
+Vrútky",Lekáreň JANKA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-janka.html?page_id=3382,7,Martin,33
+65-37906071-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-37906071-A0001', 'Miesto prevádzkovania': 'P. Mudroňa\n490/10\n03601\nMartin', 'Telefón': '+421 434302770', 'Email': 'lekarenidamt@gmail.com', 'Prevádzkovateľ': 'PharmDr. Ida Krupinská\nIČO: 37906071'}","Dočasná zmena od 172022 do 3092022Z prevádzkových dôvodov lekáreň otvorená do 1300 hod pozrite pohotovostné lekárne v okrese Martin platnosť od: 01.12.2021
+Pondelok: 7:00-15:00
+Utorok: 7:00-15:00
+Streda: 7:00-15:00
+Štvrtok: 7:00-15:00
+Piatok: 7:00-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.06732120,18.92016730,"P. Mudroňa
+490/10
+03601
+Martin",Lekáreň IDA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-ida.html?page_id=3378,7,Martin,33
+65-41526279-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-41526279-A0001', 'Miesto prevádzkovania': 'Ďurka Langsfelda\n612/47\n03852\nSučany', 'Telefón': '+421 434290928', 'Email': 'lekarenevasucany@gmail.com', 'Prevádzkovateľ': 'PharmDr. Eva Roziaková\nIČO: 41526279'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 7:30-15:30
+Utorok: 7:30-15:30
+Streda: 7:30-15:30
+Štvrtok: 7:30-15:30
+Piatok: 7:30-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.1033503,18.9871296,"Ďurka Langsfelda
+612/47
+03852
+Sučany",Lekáreň EVA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-eva.html?page_id=3370,7,Martin,33
+65-44327501-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44327501-A0001', 'Miesto prevádzkovania': 'Kaufland\nDúbravca\n3A\n03601\nMartin', 'Web': 'drmax-mt2@drmax.sk', 'Prevádzkovateľ': 'RED-STORE s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 44327501'}","Dočasná zmena od 2792022 do 2792022Dňa 2792022 bude lekáreň z technických príčin zatvorená od 930 do 1330 hod z dôvodu výpadku elektrickej energie pozrite pohotovostné lekárne v okrese Martin platnosť od: 29.02.2012
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00",49.0892736,18.9342012,"Kaufland
+Dúbravca
+3A
+03601
+Martin",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-dr.-max-6.html?page_id=3362,7,Martin,33
+65-46070001-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-46070001-A0001', 'Miesto prevádzkovania': 'Riadok\n1\n03601\nMartin', 'Prevádzkovateľ': 'SD33 s. r. o.\nMoldavská cesta\n8/8/A\n04011\nKošice - mestská časť Juh\nIČO: 46070001'}","Prevádzkovateľ platnosť od: 19.05.2018
+Pondelok: 7:30-17:00
+Utorok: 7:30-17:00
+Streda: 7:30-17:00
+Štvrtok: 7:30-17:00
+Piatok: 7:30-17:00
+Sobota: zatvorené Sobota -zatvorené
+Nedeľa: zatvorené",49.0616613,18.9190235,"Riadok
+1
+03601
+Martin",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-dr.-max-5.html?page_id=3361,7,Martin,33
+65-44483643-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44483643-A0002', 'Miesto prevádzkovania': '1. Československej brigády\n3231\n03861\nVrútky', 'Telefón': '+421 434281386', 'Prevádzkovateľ': 'Lekáreň Cyrila a Metoda s.r.o.\nBagarova\n10307/10307/32A\n03601\nMartin\nIČO: 44483643'}","Prevádzkovateľ platnosť od: 20.06.2022
+Pondelok: 8:00-16:30
+Utorok: 8:00-16:30
+Streda: 8:00-16:30
+Štvrtok: 8:00-16:30
+Piatok: 8:00-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené
+Nedeľa: prestávka na obed od 12.00 - 12.30 hod.",49.1122351,18.9243858,"1. Československej brigády
+3231
+03861
+Vrútky",Lekáreň CYRILA A METODA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-cyrila-a-metoda.html?page_id=3350,7,Martin,33
+65-44127731-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44127731-A0001', 'Miesto prevádzkovania': 'V. P. Tótha\n11/2712\n03601\nMartin', 'Telefón': '+421 434134015', 'Prevádzkovateľ': 'CARITAS, s.r.o.\nV. P. Tótha\n11/2712\n03601\nMartin\nIČO: 44127731'}","Prevádzkovateľ platnosť od: 04.11.2019
+Pondelok: 8:00-16:30
+Utorok: 8:00-16:30
+Streda: 8:00-16:30
+Štvrtok: 8:00-16:30
+Piatok: 8:00-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0676310,18.9251108,"V. P. Tótha
+11/2712
+03601
+Martin",Lekáreň CARITAS,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-caritas.html?page_id=3345,7,Martin,33
+65-31589936-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-31589936-A0001', 'Miesto prevádzkovania': 'Kollárova\n4250/17\n03601\nMartin', 'Telefón': '+421915924232', 'Email': 'lekaren.beatrix@apothekeslovakia.sk', 'Prevádzkovateľ': 'BEATRIX s.r.o.\nBudatínska\n18\n83154\nBratislava-Petržalka\nIČO: 31589936'}","Prevádzkovateľ platnosť od: 16.02.2017
+Pondelok: 7:00-17:00
+Utorok: 7:00-17:00
+Streda: 7:00-17:00
+Štvrtok: 7:00-17:00
+Piatok: 7:00-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.05944350,18.91894720,"Kollárova
+4250/17
+03601
+Martin",Lekáreň BEATRIX,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-beatrix.html?page_id=3339,7,Martin,33
+65-36854867-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36854867-A0001', 'Miesto prevádzkovania': 'Dr. M. Korauša\n209\n03843\nKláštor pod Znievom', 'Telefón': '+421 434933008', 'Prevádzkovateľ': 'KATEMA, s.r.o.\nDr. M. Korauša\n209\n03843\nKláštor pod Znievom\nIČO: 36854867'}","Prevádzkovateľ platnosť od: 28.02.2012
+Pondelok: 7:30-13:00
+Utorok: 7:30-13:00
+Streda: 7:30-13:00
+Štvrtok: 7:30-15:00
+Piatok: 7:30-13:00
+Sobota: zatvorené
+Nedeľa: zatvorené",48.9732298,18.8073775,"Dr. M. Korauša
+209
+03843
+Kláštor pod Znievom",Lekáreň ARNICA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/martin/lekaren-arnica.html?page_id=3323,7,Martin,33
+65-52041719-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-52041719-A0001', 'Miesto prevádzkovania': 'OC SLANICA\n1311\n02901\nNámestovo', 'Mobil': '0901961356', 'Email': 'drmax356@drmax.sk', 'Prevádzkovateľ': 'Dr.Max 171 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 52041719'}","Prevádzkovateľ platnosť od: 08.04.2021
+Pondelok: 8:00-18:00
+Utorok: 8:00-18:00
+Streda: 8:00-18:00
+Štvrtok: 8:00-18:00
+Piatok: 8:00-18:00
+Sobota: 8:00-14:00
+Nedeľa: zatvorené",49.4218881,19.4975444,"OC SLANICA
+1311
+02901
+Námestovo",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/lekaren-dr.-max-1.html?page_id=140442,7,Námestovo,40
+65-51400324-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-51400324-A0001', 'Miesto prevádzkovania': 'budova Ornext\nHviezdoslavova\n45/24\n02901\nNámestovo', 'Mobil': '0904737444', 'Email': 'info@lekarensvmichal.sk', 'Web': 'http://www.facebook.com/lekarensvmichal', 'Prevádzkovateľ': 'A&M Pharm s.r.o.\nMiklošicova\n903/9\n02901\nNámestovo\nIČO: 51400324'}","Prevádzkovateľ platnosť od: 11.12.2019
+Pondelok: 7:00-20:00
+Utorok: 7:00-20:00
+Streda: 7:00-20:00
+Štvrtok: 7:00-20:00
+Piatok: 7:00-20:00
+Sobota: 7:00-13:00
+Nedeľa: zatvorené",49.40395572,19.47725098,"budova Ornext
+Hviezdoslavova
+45/24
+02901
+Námestovo",Lekáreň Sv. Michala,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/lekaren-sv.-michala.html?page_id=132591,7,Námestovo,40
+65-51915073-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-51915073-A0001', 'Miesto prevádzkovania': '39\n02956\nZákamenné', 'Mobil': '0915332376', 'Email': 'lekaren.zakamenne@gmail.com', 'Web': 'http://www.facebook.com/lekarenanezka/', 'Prevádzkovateľ': 'NOVÁ LEKÁREŇ s.r.o.\n703\n02963\nMútne\nIČO: 51915073'}","Prevádzkovateľ platnosť od: 09.11.2020
+Pondelok: 7:30-17:00
+Utorok: 7:30-17:00
+Streda: 7:30-17:00
+Štvrtok: 7:30-17:00
+Piatok: 7:30-17:00
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.3853203,19.3044227,"39
+02956
+Zákamenné",lekáreň Anežka,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/lekaren-anezka.html?page_id=130661,7,Námestovo,40
+65-51400391-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-51400391-A0001', 'Miesto prevádzkovania': 'Nábrežie\n765/1\n02901\nNámestovo', 'Telefón': '43 5524626', 'Email': 'lekarenagape@lekarenagape.sk', 'Prevádzkovateľ': 'Lekáreň Agapé s.r.o.\nNábrežie\n765/1\n02901\nNámestovo\nIČO: 51400391'}","Prevádzkovateľ platnosť od: 01.05.2018
+Pondelok: 8:00-17:00
+Utorok: 8:00-17:00
+Streda: 8:00-17:00
+Štvrtok: 8:00-17:00
+Piatok: 8:00-17:00
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.4038556,19.4812516,"Nábrežie
+765/1
+02901
+Námestovo",Lekáreň AGAPÉ,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/lekaren-agape.html?page_id=126523,7,Námestovo,40
+65-46070672-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-46070672-A0001', 'Miesto prevádzkovania': 'Hviezdoslavovo námestie\n2504/4\n02901\nNámestovo', 'Prevádzkovateľ': 'SD28 s. r. o.\nMoldavská cesta\n2423/8/A\n04011\nKošice - mestská časť Juh\nIČO: 46070672'}","Prevádzkovateľ platnosť od: 15.12.2017
+Pondelok: 8:00-17:00
+Utorok: 8:00-17:00
+Streda: 8:00-17:00
+Štvrtok: 8:00-17:00
+Piatok: 8:00-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4048897,19.4802515,"Hviezdoslavovo námestie
+2504/4
+02901
+Námestovo",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/lekaren-dr.-max.html?page_id=125762,7,Námestovo,40
+65-00634875-A0021,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-00634875-A0021', 'Miesto prevádzkovania': 'Červeného kríža\n62/30\n02901\nNámestovo', 'Telefón': '+421 435503293', 'Prevádzkovateľ': 'Oravská poliklinika Námestovo\nČerveného kríža\n62/30\n02901\nNámestovo\nIČO: 00634875\nwww.opnam.sk'}","Prevádzkovateľ platnosť od: 19.08.2015
+Pondelok: 7:00-17:00
+Utorok: 7:00-17:00
+Streda: 7:00-17:00
+Štvrtok: 7:00-17:00
+Piatok: 7:00-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4058244,19.4760923,"Červeného kríža
+62/30
+02901
+Námestovo",Lekáreň Poliklinika,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/lekaren-poliklinika.html?page_id=65243,7,Námestovo,40
+65-46692355-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-46692355-A0001', 'Miesto prevádzkovania': 'Mláka\n1258\n02901\nNámestovo', 'Telefón': '+421 435320011', 'Prevádzkovateľ': 'Tableta, spol. s r. o.\nMláka\n1258\n02901\nNámestovo\nIČO: 46692355'}","Prevádzkovateľ platnosť od: 15.10.2012
+Pondelok: 6:30-16:00
+Utorok: 6:30-16:00
+Streda: 6:30-16:00
+Štvrtok: 6:30-16:00
+Piatok: 6:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4037180,19.4792740,"Mláka
+1258
+02901
+Námestovo",Lekáreň TABLETA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/lekaren-tableta.html?page_id=52306,7,Námestovo,40
+65-30232783-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-30232783-A0002', 'Miesto prevádzkovania': 'Červeného kríža\n130/29\n02901\nNámestovo', 'Telefón': '+421 435522220', 'Prevádzkovateľ': 'PharmDr. Helena Harmatová\nIČO: 30232783'}","Prevádzkovateľ platnosť od: 01.12.2021
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: 7:00-13:00
+Nedeľa: zatvorené",49.4048106,19.4754731,"Červeného kríža
+130/29
+02901
+Námestovo",ZELENÁ LEKÁREŇ,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/zelena-lekaren.html?page_id=3520,7,Námestovo,40
+65-30232783-A0001,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-30232783-A0001', 'Miesto prevádzkovania': 'Oravská Lesná\n300\n02957\nOravská Lesná', 'Telefón': '+421 435593711', 'Prevádzkovateľ': 'PharmDr. Helena Harmatová\nIČO: 30232783'}","Prevádzkovateľ platnosť od: 29.02.2012
+Pondelok: 8:30-14:00
+Utorok: 8:30-14:00
+Streda: 8:30-14:00
+Štvrtok: 8:30-14:00
+Piatok: 8:30-14:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.36888940,19.18534010,"Oravská Lesná
+300
+02957
+Oravská Lesná",ZELENÁ LEKÁREŇ pobočka,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/zelena-lekaren-pobocka.html?page_id=3522,7,Námestovo,40
+65-36430463-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36430463-A0002', 'Miesto prevádzkovania': 'Obecný úrad\nMútne\n02963\nMútne', 'Telefón': '+421 435597105', 'Prevádzkovateľ': 'Zelená lekáreň, s.r.o.\nČerveného kríža\n130/29\n02901\nNámestovo\nIČO: 36430463'}","Prevádzkovateľ platnosť od: 29.02.2012
+Pondelok: 8:00-14:00
+Utorok: 8:00-14:00
+Streda: 8:00-14:00
+Štvrtok: 8:00-14:00
+Piatok: 8:00-14:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4607018,19.3391666,"Obecný úrad
+Mútne
+02963
+Mútne",ZELENÁ LEKÁREŇ,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/zelena-lekaren-1.html?page_id=3521,7,Námestovo,40
+65-00623024-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-00623024-A0001', 'Miesto prevádzkovania': 'Rabčická\n329/10\n02944\nRabča', 'Telefón': '+421 435594183', 'Email': 'lekarenviola329@gmail.com', 'Prevádzkovateľ': 'Mgr. Oľga Strýčková\nIČO: 00623024'}","Prevádzkovateľ platnosť od: 29.02.2012
+Pondelok: 7:00-15:00
+Utorok: 7:00-15:00
+Streda: 7:00-15:00
+Štvrtok: 7:00-15:00
+Piatok: 7:00-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4810401,19.4819692,"Rabčická
+329/10
+02944
+Rabča",Lekáreň VIOLA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/lekaren-viola.html?page_id=3512,7,Námestovo,40
+65-44693702-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44693702-A0001', 'Miesto prevádzkovania': 'ZS\nNovoť\n300\n02955\nNovoť', 'Telefón': '+421 435590125', 'Prevádzkovateľ': 'Lekáreň pod Kameným, s.r.o.\nNovoť\n300\n02955\nNovoť\nIČO: 44693702'}","Prevádzkovateľ platnosť od: 29.02.2012
+Pondelok: 6:30-14:30
+Utorok: 6:30-14:30
+Streda: 6:30-14:30
+Štvrtok: 6:30-14:30
+Piatok: 6:30-14:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4279398,19.2690629,"ZS
+Novoť
+300
+02955
+Novoť","Lekáreň POD KAMENYM, s.r.o.",https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/lekaren-pod-kamenym.html?page_id=3447,7,Námestovo,40
+65-36136115-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36136115-A0001', 'Miesto prevádzkovania': 'ObZS\nZákamenné\n55\n02956\nZákamenné', 'Telefón': '+421 435592324', 'Prevádzkovateľ': 'PharmDr. Božena Novocká\nIČO: 36136115'}","Prevádzkovateľ platnosť od: 29.02.2012
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3893871,19.2045839,"ObZS
+Zákamenné
+55
+02956
+Zákamenné",Lekáreň POD KALVÁRIOU,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/lekaren-pod-kalvariou.html?page_id=3446,7,Námestovo,40
+65-36432687-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36432687-A0001', 'Miesto prevádzkovania': 'Hviezdoslavovo námestie\n213\n02901\nNámestovo', 'Telefón': '+421 435524193', 'Email': 'lekarenvklinci@gmail.com', 'Prevádzkovateľ': 'FARMACIA PLUS spol. s.r.o.\nHviezdoslavovo námestie\n213\n02901\nNámestovo\nIČO: 36432687'}","Prevádzkovateľ platnosť od: 17.02.2014
+Pondelok: 7:00-16:30
+Utorok: 7:00-16:30
+Streda: 7:00-16:30
+Štvrtok: 7:00-16:30
+Piatok: 7:00-16:30
+Sobota: 9:00-12:00
+Nedeľa: zatvorené",49.40624110,19.47773050,"Hviezdoslavovo námestie
+213
+02901
+Námestovo",Lekáreň V KLINCI,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/lekaren-v-klinci.html?page_id=3438,7,Námestovo,40
+65-00622974-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-00622974-A0001', 'Miesto prevádzkovania': 'ObZS\n193\n02962\nOravské Veselé', 'Telefón': '+421 435596201', 'Prevádzkovateľ': 'Mgr. Anna Čierniková\nIČO: 00622974'}","Prevádzkovateľ platnosť od: 01.09.2022
+Pondelok: 7:00-14:30
+Utorok: 7:00-14:30
+Streda: 7:00-12:00
+Štvrtok: 7:00-14:30
+Piatok: 7:00-12:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4617178,19.3820773,"ObZS
+193
+02962
+Oravské Veselé",Lekáreň NA STREDISKU,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/lekaren-na-stredisku.html?page_id=3427,7,Námestovo,40
+65-36439100-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36439100-A0001', 'Miesto prevádzkovania': 'Štefánikova\n210\n02901\nNámestovo', 'Telefón': '+421 432388128', 'Prevádzkovateľ': 'ANA, s.r.o.\nKlinec II.\n215\n02943\nZubrohlava\nIČO: 36439100'}","Prevádzkovateľ platnosť od: 01.03.2022
+Pondelok: 8:00-16:30
+Utorok: 8:00-16:30
+Streda: 8:00-16:30
+Štvrtok: 8:00-16:30
+Piatok: 8:00-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4079944,19.4778519,"Štefánikova
+210
+02901
+Námestovo",Lekáreň MATKY TEREZY,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/lekaren-matky-terezy.html?page_id=3409,7,Námestovo,40
+65-44067852-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44067852-A0001', 'Miesto prevádzkovania': 'Hlavná\n427\n02944\nRabča', 'Telefón': '+421 432388353', 'Prevádzkovateľ': 'Bea, s.r.o.,\nHlavná\n427\n02944\nRabča\nIČO: 44067852'}","Prevádzkovateľ platnosť od: 29.02.2012
+Pondelok: 7:30-15:30
+Utorok: 7:30-15:30
+Streda: 7:30-15:30
+Štvrtok: 7:30-15:30
+Piatok: 7:30-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4812684,19.4800206,"Hlavná
+427
+02944
+Rabča",Lekáreň KAMILKA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/lekaren-kamilka.html?page_id=3386,7,Námestovo,40
+65-31643141-A0001,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-31643141-A0001', 'Miesto prevádzkovania': 'Črchľa\n309/9\n02952\nHruštín', 'Telefón': '+421 435577303', 'Prevádzkovateľ': 'FARMACIA spol. s.r.o.\nČerveného kríža\n1602/35\n02901\nNámestovo\nIČO: 31643141'}","Prevádzkovateľ platnosť od: 29.02.2012
+Pondelok: 8:00-14:00
+Utorok: 8:00-14:00
+Streda: 8:00-14:00
+Štvrtok: 8:00-14:00
+Piatok: 8:00-14:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3246524,19.3474275,"Črchľa
+309/9
+02952
+Hruštín",Lekáreň FARMÁCIA pobočka,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/lekaren-farmacia-pobocka.html?page_id=3374,7,Námestovo,40
+65-31643141-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-31643141-A0002', 'Miesto prevádzkovania': 'Červeného kríža\n1602/35\n02901\nNámestovo', 'Telefón': '+421 435522214', 'Prevádzkovateľ': 'FARMACIA spol. s.r.o.\nČerveného kríža\n1602/35\n02901\nNámestovo\nIČO: 31643141'}","Prevádzkovateľ platnosť od: 01.06.2019
+Pondelok: 6:30-15:00
+Utorok: 6:30-15:00
+Streda: 6:30-15:00
+Štvrtok: 6:30-15:00
+Piatok: 6:30-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.4051423,19.4762580,"Červeného kríža
+1602/35
+02901
+Námestovo",Lekáreň FARMÁCIA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/lekaren-farmacia.html?page_id=3372,7,Námestovo,40
+65-44612303-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44612303-A0001', 'Miesto prevádzkovania': 'ObZS\nLokca\n02951\nLokca', 'Telefón': '+421 435591273', 'Prevádzkovateľ': 'Lekáreň ASTER, s.r.o.\nLokca\n265\n02951\nLokca\nIČO: 44612303'}","Prevádzkovateľ platnosť od: 29.02.2012
+Pondelok: 7:00-15:00
+Utorok: 7:00-15:00
+Streda: 7:00-15:00
+Štvrtok: 7:00-15:00
+Piatok: 7:00-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.36617890,19.41069000,"ObZS
+Lokca
+02951
+Lokca",Lekáreň ASTER,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/namestovo/lekaren-aster.html?page_id=3328,7,Námestovo,40
+65-36644838-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36644838-A0001', 'Miesto prevádzkovania': 'Zarevúca\n5677/3A\n03401\nRužomberok', 'Mobil': '0918500822', 'Email': 'lekaren.rozanka@omegalekaren.sk', 'Prevádzkovateľ': 'Lekáreň - VAŠE ZDRAVIE s.r.o.\nKapitulská\n1\n97401\nBanská Bystrica\nIČO: 36644838'}","Prevádzkovateľ platnosť od: 01.09.2022
+Pondelok: 6:00-16:00
+Utorok: 6:00-16:00
+Streda: 6:00-16:00
+Štvrtok: 6:00-16:00
+Piatok: 6:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0800363,19.3074088,"Zarevúca
+5677/3A
+03401
+Ružomberok",Lekáreň Rozanka,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-rozanka.html?page_id=143660,7,Ružomberok,53
+65-51947838-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-51947838-A0001', 'Miesto prevádzkovania': 'Antona Bernoláka\n5231/4A\n03401\nRužomberok', 'Mobil': '0902701696', 'Email': 'benu97@benulekaren.sk', 'Prevádzkovateľ': 'BENU SK 97, s.r.o.\nPribylinská\n2/A\n83104\nBratislava\nIČO: 51947838'}","Dočasná zmena od 152022 do 30112022od 01052022 do 30112022 skrátený prevádzkový čas PoPi od 730 do 1530 hod z personálnych dôvodov pozrite pohotovostné lekárne v okrese Ružomberok platnosť od: 18.08.2020
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.08326502,19.30247480,"Antona Bernoláka
+5231/4A
+03401
+Ružomberok",BENU,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/benu.html?page_id=135391,7,Ružomberok,53
+65-31936415-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-31936415-A0001', 'Miesto prevádzkovania': 'Ústredná vojenská nemocnica SNP Ružomberok - fakultná nemocnica\nGen. Miloša Vesela\n21\n03426\nRužomberok', 'Telefón': '0444382940', 'Email': 'lekaren.verejna@uvn.sk', 'Prevádzkovateľ': 'Ústredná vojenská nemocnica SNP Ružomberok - FN\nGen. Miloša Vesela\n88/21\n03401\nRužomberok\nIČO: 31936415\nwww.uvn.sk'}","Dočasná zmena od 162022 do 3092022Lekáreň bude v danom termíne otvorená v čase 7001500hod pozrite pohotovostné lekárne v okrese Ružomberok platnosť od: 01.08.2018
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0770659,19.3110104,"Ústredná vojenská nemocnica SNP Ružomberok - fakultná nemocnica
+Gen. Miloša Vesela
+21
+03426
+Ružomberok",Verejná lekáreň Ústrednej vojenskej nemocnice SNP Ružomberok - fakultná nemocnica,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/verejna-lekaren-ustrednej-vojenskej-nemocnice-snp-ruzomberok-fakultna-nemocnica.html?page_id=128235,7,Ružomberok,53
+65-44104553-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44104553-A0001', 'Miesto prevádzkovania': 'J. Kačku\n28\n03495\nLikavka', 'Email': 'drmax663@drmax.sk', 'Mobil': '901 961 663', 'Prevádzkovateľ': 'PHARMACY-MARKET s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 44104553'}","Prevádzkovateľ platnosť od: 01.02.2022
+Pondelok: 7:30-15:00
+Utorok: 7:30-15:00
+Streda: 7:30-15:00
+Štvrtok: 7:30-15:00
+Piatok: 7:30-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0846182,19.3056833,"J. Kačku
+28
+03495
+Likavka",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-dr.-max.html?page_id=125778,7,Ružomberok,53
+65-50408585-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-50408585-A0001', 'Miesto prevádzkovania': 'Podhora\n2229/55\n03401\nRužomberok', 'Mobil': '+421 918578709', 'Email': 'lekarenaronia@gmail.com', 'Web': 'http://www.lekarenaronia.sk', 'Prevádzkovateľ': 'Diagnostic Medicína s.r.o.\nViestova\n7B\n97401\nBanská Bystrica\nIČO: 50408585'}","Prevádzkovateľ platnosť od: 01.01.2018
+Pondelok: 8:00-16:00
+Utorok: 8:00-16:00
+Streda: 8:00-16:00
+Štvrtok: 8:00-16:00
+Piatok: 8:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.08007009,19.30500260,"Podhora
+2229/55
+03401
+Ružomberok",Lekáreň ARONIA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-aronia.html?page_id=125738,7,Ružomberok,53
+65-50552066-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-50552066-A0001', 'Miesto prevádzkovania': 'Mostová\n17\n03401\nRužomberok', 'Mobil': '+421 901961275', 'Email': 'drmax275@drmax.sk', 'Prevádzkovateľ': 'Dr. Max 115 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 50552066'}","Dočasná zmena od 192022 do 3092022Ponpiat7301600Sobnedzatvorenépozrite pohotovostné lekárne v okrese Ružomberok platnosť od: 01.10.2020
+Pondelok: 7:30-17:00
+Utorok: 7:30-17:00
+Streda: 7:30-17:00
+Štvrtok: 7:30-17:00
+Piatok: 7:30-17:00
+Sobota: 0:00-0:00
+Nedeľa: zatvorené",49.0824958,19.3030151,"Mostová
+17
+03401
+Ružomberok",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-dr.-max-1.html?page_id=125374,7,Ružomberok,53
+65-50552341-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-50552341-A0001', 'Miesto prevádzkovania': 'Podhora\n1304/47\n03401\nRužomberok', 'Mobil': '+421 901961274', 'Email': 'drmax274@drmax.sk', 'Prevádzkovateľ': 'Dr. Max 114 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 50552341'}","Prevádzkovateľ platnosť od: 15.01.2018
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0809942,19.3049477,"Podhora
+1304/47
+03401
+Ružomberok",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-dr.-max-2.html?page_id=125372,7,Ružomberok,53
+65-50551965-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-50551965-A0001', 'Miesto prevádzkovania': 'Karola Salvu\n1\n03401\nRužomberok', 'Prevádzkovateľ': 'Dr. Max 113 s.r.o.\nMoldavská cesta\n8/A\n04001\nKošice - mestská časť Juh\nIČO: 50551965'}","Prevádzkovateľ platnosť od: 30.10.2017
+Pondelok: 7:30-17:00
+Utorok: 7:30-17:00
+Streda: 7:30-17:00
+Štvrtok: 7:30-17:00
+Piatok: 7:30-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0825103,19.2986525,"Karola Salvu
+1
+03401
+Ružomberok",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-dr.-max-3.html?page_id=125370,7,Ružomberok,53
+65-50732251-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-50732251-A0001', 'Miesto prevádzkovania': 'OC Adria\nPodhora\n1306/51\n03401\nRužomberok', 'Mobil': '+421 910828815', 'Email': 'benu27@benulekaren.sk', 'Web': 'http://www.benulekaren.sk', 'Prevádzkovateľ': 'BENU SK 27, s.r.o\nPribylinská\n2/A\n83104\nBratislava - mestská časť Rača\nIČO: 50732251'}","Prevádzkovateľ platnosť od: 01.04.2020
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00",49.0805618,19.3050394,"OC Adria
+Podhora
+1306/51
+03401
+Ružomberok",Lekáreň BENU,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-benu.html?page_id=124578,7,Ružomberok,53
+65-36050512-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36050512-A0001', 'Miesto prevádzkovania': 'Dončova\n1455/2\n03401\nRužomberok', 'Telefón': '044 4332200', 'Prevádzkovateľ': 'DASelect, s.r.o.\nKapitulská\n1\n97401\nBanská Bystrica\nIČO: 36050512'}","Prevádzkovateľ platnosť od: 01.07.2019
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.08501944,19.30173657,"Dončova
+1455/2
+03401
+Ružomberok",Lekáreň Ruža,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-ruza.html?page_id=123242,7,Ružomberok,53
+65-35907738-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-35907738-A0001', 'Miesto prevádzkovania': 'Textilná\n23\n03405\nRužomberok', 'Telefón': '+421 903605077', 'Prevádzkovateľ': 'ADUSJUH s.r.o.\nDr. Daniela Fischera\n2231\n06001\nKežmarok\nIČO: 35907738'}","Prevádzkovateľ platnosť od: 01.06.2016
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0851474,19.2808341,"Textilná
+23
+03405
+Ružomberok",Lekáreň TEXICOM,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-texicom.html?page_id=103164,7,Ružomberok,53
+65-47781122-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47781122-A0001', 'Miesto prevádzkovania': 'Štiavnická\n2018/7\n03401\nRužomberok', 'Prevádzkovateľ': 'Dr.Max 79 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 47781122'}","Prevádzkovateľ platnosť od: 14.03.2022
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0763029,19.3132221,"Štiavnická
+2018/7
+03401
+Ružomberok",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-dr.-max-6.html?page_id=92639,7,Ružomberok,53
+65-47200154-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47200154-A0001', 'Miesto prevádzkovania': 'I. Houdeka\n17B\n03401\nRužomberok', 'Prevádzkovateľ': 'CARTAXO s.r.o.\nZelená\n2C/X3\n97404\nBanská Bystrica\nIČO: 47200154'}","Prevádzkovateľ platnosť od: 10.01.2018
+Pondelok: 8:00-16:30
+Utorok: 8:00-16:30
+Streda: 8:00-16:30
+Štvrtok: 8:00-16:30
+Piatok: 8:00-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené
+Nedeľa: od 12.00 do 12.30. hod. obedná prestávka",49.0674221,19.2996951,"I. Houdeka
+17B
+03401
+Ružomberok",Lekáreň ZUZANA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-zuzana.html?page_id=89637,7,Ružomberok,53
+65-47334479-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47334479-A0001', 'Miesto prevádzkovania': 'Vysoké Brehy\n30\n03483\nLiptovská Teplá', 'Telefón': '+421 445630852', 'Prevádzkovateľ': 'Viamar, s.r.o.\nJamník\n203\n03301\nJamník\nIČO: 47334479'}","Prevádzkovateľ platnosť od: 14.05.2014
+Pondelok: 8:00-16:00
+Utorok: 8:00-16:00
+Streda: 8:00-16:00
+Štvrtok: 8:00-16:00
+Piatok: 8:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0989541,19.4197597,"Vysoké Brehy
+30
+03483
+Liptovská Teplá",Lekáreň Liptovská Teplá,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-liptovska-tepla.html?page_id=65110,7,Ružomberok,53
+65-47190655-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47190655-A0001', 'Miesto prevádzkovania': 'Ľ. Nováka\n140/8\n03491\nĽubochňa', 'Telefón': '+421 44 4306211', 'Prevádzkovateľ': 'LK1 s. r. o.\nČernyševského\n26\n85101\nBratislava - mestská časť Petržalka\nIČO: 47190655'}","Prevádzkovateľ platnosť od: 05.10.2015
+Pondelok: 7:30-14:00
+Utorok: 7:30-14:00
+Streda: 7:30-14:00
+Štvrtok: 7:30-14:00
+Piatok: 7:30-14:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.1202755,19.1674914,"Ľ. Nováka
+140/8
+03491
+Ľubochňa",Lekáreň DIANA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-diana.html?page_id=62137,7,Ružomberok,53
+65-36434396-A0001,"{'Druh': 'Výdajňa zdravotníckych pomôcok', 'Identifikátor': '65-36434396-A0001', 'Miesto prevádzkovania': 'Plavisko\n390/107\n03401\nRužomberok', 'Prevádzkovateľ': 'ORTOSPINE, s.r.o.\nKomárnická\n16955/11\n82103\nBratislava - mestská časť Ružinov\nIČO: 36434396'}","Prevádzkovateľ platnosť od: 20.07.2016
+Pondelok: 7:00-15:30  ||12:00-12:30
+Utorok: 7:00-15:30  ||12:00-12:30
+Streda: 7:00-15:30  ||12:00-12:30
+Štvrtok: 7:00-15:30  ||12:00-12:30
+Piatok: 7:00-15:30  ||12:00-12:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0676785,19.3020402,"Plavisko
+390/107
+03401
+Ružomberok",Výdajňa zdravotníckych pomôcok Ružomberok,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/vydajna-zdravotnickych-pomocok-ruzomberok.html?page_id=61763,7,Ružomberok,53
+65-47124237-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47124237-A0001', 'Miesto prevádzkovania': 'HM TESCO\nHrabovská cesta\n5270\n03401\nRužomberok', 'Prevádzkovateľ': 'PHARMACY-RK, spol. s r.o.\nČapajevova\n23\n08001\nPrešov\nIČO: 47124237'}","Prevádzkovateľ platnosť od: 06.06.2018
+Pondelok: 8:30-20:30
+Utorok: 8:30-20:30
+Streda: 8:30-20:30
+Štvrtok: 8:30-20:30
+Piatok: 8:30-20:30
+Sobota: 8:30-20:30
+Nedeľa: 8:30-20:30",49.0796472,19.2797270,"HM TESCO
+Hrabovská cesta
+5270
+03401
+Ružomberok",Lekáreň Schneider,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-schneider.html?page_id=59958,7,Ružomberok,53
+65-46043381-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-46043381-A0001', 'Miesto prevádzkovania': 'Ľubochňa\n143\n03491\nĽubochňa', 'Prevádzkovateľ': 'Dr.Max 21 s.r.o.\nMoldavská cesta\n2423/8/A\n04011\nKošice - mestská časť Juh\nIČO: 46043381'}","Prevádzkovateľ platnosť od: 02.11.2021
+Pondelok: 6:45-15:15
+Utorok: 6:45-15:15
+Streda: 6:45-15:15
+Štvrtok: 6:45-15:15
+Piatok: 6:45-15:15
+Sobota: zatvorené
+Nedeľa: zatvorené",49.1201726,19.1679073,"Ľubochňa
+143
+03491
+Ľubochňa",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-dr.-max-4.html?page_id=58821,7,Ružomberok,53
+65-46789499-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-46789499-A0001', 'Miesto prevádzkovania': 'Plavisko\n7\n03401\nRužomberok', 'Telefón': '+421 443811270', 'Prevádzkovateľ': 'VIA SOPHIA, s.r.o.\nPlavisko\n7\n03401\nRužomberok\nIČO: 46789499'}","Prevádzkovateľ platnosť od: 07.02.2016
+Pondelok: 8:00-16:00
+Utorok: 8:00-16:00
+Streda: 8:00-16:00
+Štvrtok: 8:00-16:00
+Piatok: 8:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0771963,19.3040275,"Plavisko
+7
+03401
+Ružomberok",Lekáreň SOPHIA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-sophia.html?page_id=55835,7,Ružomberok,53
+65-36553573-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36553573-A0001', 'Miesto prevádzkovania': 'Gen. Miloša Vesela\n83\n03401\nRužomberok', 'Telefón': '+421 907869054', 'Prevádzkovateľ': 'PharmReal s.r.o.\nGen. Miloša Vesela\n83/12\n03401\nRužomberok\nIČO: 36553573'}","Prevádzkovateľ platnosť od: 01.04.2022
+Pondelok: 7:00-15:00
+Utorok: 7:00-15:00
+Streda: 7:00-15:00
+Štvrtok: 7:00-15:00
+Piatok: 7:00-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0765194,19.3093327,"Gen. Miloša Vesela
+83
+03401
+Ružomberok",Lekáreň PRI VOJENSKEJ NEMOCNICI,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-pri-vojenskej-nemocnici.html?page_id=3540,7,Ružomberok,53
+65-36440698-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36440698-A0001', 'Miesto prevádzkovania': 'ZS\nLiptovská Osada\n139\n03473\nLiptovská Osada', 'Telefón': '+421 444396391', 'Prevádzkovateľ': 'Lekáreň u Rafaela, s.r.o.\nLiptovská Osada\n139\n03473\nLiptovská Osada\nIČO: 36440698'}","Prevádzkovateľ platnosť od: 29.02.2012
+Pondelok: 7:00-15:00
+Utorok: 7:00-15:00
+Streda: 7:00-15:00
+Štvrtok: 7:00-15:00
+Piatok: 7:00-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",48.95246050,19.26321370,"ZS
+Liptovská Osada
+139
+03473
+Liptovská Osada",Lekáreň U RAFAELA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-u-rafaela.html?page_id=3509,7,Ružomberok,53
+65-31904220-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-31904220-A0001', 'Miesto prevádzkovania': 'Hviezdoslavova\n870\n03495\nLikavka', 'Telefón': '+421 444321614', 'Web': 'http://www.dl.sk', 'Prevádzkovateľ': 'PharmDr. Ivica Blahútová\nIČO: 31904220'}","Prevádzkovateľ platnosť od: 29.02.2012
+Pondelok: 7:30-15:30
+Utorok: 7:30-15:30
+Streda: 7:30-15:30
+Štvrtok: 7:30-15:30
+Piatok: 7:30-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.08890610,19.31044650,"Hviezdoslavova
+870
+03495
+Likavka",Lekáreň TÍLIA 3,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-tilia-3.html?page_id=3502,7,Ružomberok,53
+65-36147885-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36147885-A0001', 'Miesto prevádzkovania': 'Dielnice\n867/1\n03484\nLiptovské Sliače', 'Telefón': '+421 444372168', 'Prevádzkovateľ': 'PharmDr. Zdenek Bugáň\nIČO: 36147885'}","Prevádzkovateľ platnosť od: 18.10.2016
+Pondelok: 7:00-14:00
+Utorok: 7:00-14:00
+Streda: 7:00-14:00
+Štvrtok: 7:00-14:00
+Piatok: 7:00-14:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0607486,19.3847040,"Dielnice
+867/1
+03484
+Liptovské Sliače",Lekáreň SALAMANDRA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-salamandra.html?page_id=3471,7,Ružomberok,53
+65-36436658-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36436658-A0001', 'Miesto prevádzkovania': 'Mostová\n26\n03401\nRužomberok', 'Telefón': '+421 444324100', 'Prevádzkovateľ': 'Lekáreň OCULUS s.r.o.\nMostová\n26\n03401\nRužomberok\nIČO: 36436658'}","Dočasná zmena od 192022 do 3092022Lekaren je otvorena od 730hod do 1530 hod pozrite pohotovostné lekárne v okrese Ružomberok platnosť od: 29.02.2012
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.08296510,19.30139600,"Mostová
+26
+03401
+Ružomberok",Lekáreň OCULUS,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-oculus.html?page_id=3398,7,Ružomberok,53
+65-44328583-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44328583-A0001', 'Miesto prevádzkovania': 'Bystrická cesta\n4800\n03401\nRužomberok', 'Telefón': '+421 901961072', 'Prevádzkovateľ': 'PILL-STORE s.r.o.\nMoldavská cesta\n8/A/8/A\n04011\nKošice - mestská časť Juh\nIČO: 44328583'}","Prevádzkovateľ platnosť od: 29.02.2012
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00",49.0711758,19.3141299,"Bystrická cesta
+4800
+03401
+Ružomberok",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/ruzomberok/lekaren-dr.-max-5.html?page_id=3364,7,Ružomberok,53
+65-51481260-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-51481260-A0001', 'Miesto prevádzkovania': '9.mája\n438/15\n03901\nTurčianske Teplice', 'Email': 'drmax336@drmax.sk', 'Prevádzkovateľ': 'Dr.Max 156 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 51481260'}","Prevádzkovateľ platnosť od: 07.02.2019
+Pondelok: 7:00-14:30
+Utorok: 7:00-14:30
+Streda: 7:00-14:30
+Štvrtok: 7:00-14:30
+Piatok: 7:00-14:30
+Sobota: zatvorené
+Nedeľa: zatvorené",48.8582522,18.8623685,"9.mája
+438/15
+03901
+Turčianske Teplice",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/turcianske-teplice/lekaren-dr.-max.html?page_id=130288,7,Turčianske,68
+65-51091984-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-51091984-A0001', 'Miesto prevádzkovania': '472\n03846\nHorná Štubňa', 'Telefón': '043/552 62 19', 'Mobil': '0908223599', 'Email': 'lekarenhornastubna@gmail.com', 'Prevádzkovateľ': 'DAMIDO, s.r.o\nHorná Štubňa\n472\n03846\nHorná Štubňa\nIČO: 51091984'}","Prevádzkovateľ platnosť od: 01.09.2018
+Pondelok: 8:00-14:00
+Utorok: 8:00-14:00
+Streda: 8:00-14:00
+Štvrtok: 8:00-14:00
+Piatok: 8:00-14:00
+Sobota: zatvorené
+Nedeľa: zatvorené",48.82352650,18.88422600,"472
+03846
+Horná Štubňa",Lekáreň NA NÁMESTÍ,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/turcianske-teplice/lekaren-na-namesti.html?page_id=128560,7,Turčianske,68
+65-47774517-A0002,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-47774517-A0002', 'Miesto prevádzkovania': 'Mládeže\n358\n03821\nMošovce', 'Telefón': '+421 434944564', 'Prevádzkovateľ': 'Lekáreń Košúty s.r.o.\nHodžova\n1\n03601\nMartin\nIČO: 47774517'}","Prevádzkovateľ platnosť od: 01.12.2021
+Pondelok: 7:30-14:30
+Utorok: 7:30-13:30
+Streda: 7:30-14:30
+Štvrtok: 7:30-10:30
+Piatok: 7:30-14:30
+Sobota: zatvorené
+Nedeľa: zatvorené",48.9076996,18.8885951,"Mládeže
+358
+03821
+Mošovce",Pobočka verejnej lekárne Mošovce,https://www.e-vuc.sk/buxus/generate_page.php?page_id=87076,7,Turčianske,68
+65-36776203-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36776203-A0001', 'Miesto prevádzkovania': 'SNP\n544/140\n03901\nTurčianske Teplice', 'Telefón': '+421 434922222', 'Prevádzkovateľ': 'Turčianska lekáreň, s.r.o.\nSNP\n544\n03901\nTurčianske Teplice\nIČO: 36776203'}","Prevádzkovateľ platnosť od: 29.02.2012
+Pondelok: 7:45-16:15
+Utorok: 7:45-16:15
+Streda: 7:45-16:15
+Štvrtok: 7:45-16:15
+Piatok: 7:45-16:15
+Sobota: 9:00-12:00
+Nedeľa: zatvorené",48.8634702,18.8598837,"SNP
+544/140
+03901
+Turčianske Teplice",TURČIANSKA LEKÁREŇ,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/turcianske-teplice/turcianska-lekaren.html?page_id=3500,7,Turčianske,68
+65-45612773-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-45612773-A0001', 'Miesto prevádzkovania': '9. mája\n2028/19\n03901\nTurčianske Teplice', 'Telefón': '+421 434000000', 'Prevádzkovateľ': 'Teplická lekáreň, s.r.o.\nSNP\n140/544\n03901\nTurčianske Teplice\nIČO: 45612773'}","Prevádzkovateľ platnosť od: 20.12.2018
+Pondelok: 7:00-15:00
+Utorok: 7:00-15:00
+Streda: 7:00-15:00
+Štvrtok: 7:00-15:00
+Piatok: 7:00-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené
+Nedeľa: od 11.03. do 13.03.2020 bude lekáreň otvorená od 07.00 - 12.00 hod.",48.8754961,18.8551664,"9. mája
+2028/19
+03901
+Turčianske Teplice",TEPLICKÁ LEKÁREŇ,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/turcianske-teplice/teplicka-lekaren.html?page_id=3495,7,Turčianske,68
+65-36437573-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36437573-A0001', 'Miesto prevádzkovania': 'Slovenské Pravno\n139\n03822\nSlovenské Pravno', 'Telefón': '+421 434901727', 'Prevádzkovateľ': 'MS.IZIS s.r.o.\nMalý Čepčín\n101\n03845\nMalý Čepčín\nIČO: 36437573'}","Prevádzkovateľ platnosť od: 29.02.2012
+Pondelok: 7:30-13:00
+Utorok: 7:30-13:00
+Streda: 7:30-13:00
+Štvrtok: 7:30-13:00
+Piatok: 7:30-13:00
+Sobota: zatvorené
+Nedeľa: zatvorené",48.9088848,18.7593077,"Slovenské Pravno
+139
+03822
+Slovenské Pravno",Lekáreň IZIS,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/turcianske-teplice/lekaren-izis.html?page_id=3381,7,Turčianske,68
+65-50960172-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-50960172-A0001', 'Miesto prevádzkovania': 'OD Kaufland\nNová\n37\n02744\nTvrdošín', 'Mobil': '0901961321', 'Email': 'drmax321@drmax.sk', 'Prevádzkovateľ': 'Dr.Max 130 s.r.o.\nMoldavská cesta\n8A\n04011\nKošice - mestská časť Juh\nIČO: 50960172'}","Prevádzkovateľ platnosť od: 05.08.2022
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00",49.3223167412952,19.542431011816326,"OD Kaufland
+Nová
+37
+02744
+Tvrdošín",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/tvrdosin/lekaren-dr.-max-2.html?page_id=143574,7,Tvrdošín,69
+65-53125886-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-53125886-A0001', 'Miesto prevádzkovania': 'M.R.Štefánika\n425\n02801\nTrstená', 'Email': 'lekaren.anjel@pharm.sk', 'Telefón': '043/4224700', 'Prevádzkovateľ': 'MEDEKAL, s. r. o.\nVojtecha Tvrdého\n17\n01001\nŽilina\nIČO: 53125886'}","Prevádzkovateľ platnosť od: 01.10.2021
+Pondelok: 8:00-16:30
+Utorok: 8:00-16:30
+Streda: 8:00-16:30
+Štvrtok: 8:00-16:30
+Piatok: 8:00-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené
+Nedeľa: Prestávka na obed od 12.00 - 12.30 hod.",49.3594845,19.6098244,"M.R.Štefánika
+425
+02801
+Trstená",Lekáreň ANJEL,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/tvrdosin/lekaren-anjel.html?page_id=135890,7,Tvrdošín,69
+65-52740447-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-52740447-A0001', 'Miesto prevádzkovania': 'Nákupné centrum Retail park Trstená\nŽelezničiarov\n1959/46\n02801\nTrstená', 'Mobil': '0902551336', 'Email': 'kalman@pharm.sk\nlekaren.rpt@pharm.sk', 'Prevádzkovateľ': 'Lekáreň RPT, s.r.o.\nVojtecha Tvrdého\n791/17\n01001\nŽilina\nIČO: 52740447'}","Prevádzkovateľ platnosť od: 25.08.2022
+Pondelok: 9:00-17:00
+Utorok: 9:00-17:00
+Streda: 9:00-17:00
+Štvrtok: 9:00-17:00
+Piatok: 9:00-17:00
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.3606449,19.6167394,"Nákupné centrum Retail park Trstená
+Železničiarov
+1959/46
+02801
+Trstená",Lekáreň Retail park Trstená,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/tvrdosin/lekaren-retail-park-trstena.html?page_id=132666,7,Tvrdošín,69
+65-50961349-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-50961349-A0001', 'Miesto prevádzkovania': 'Hviezdoslavova\n112/11\n02744\nTvrdošín', 'Mobil': '0901961327', 'Email': 'drmax327@drmax.sk', 'Prevádzkovateľ': 'Dr.Max 136 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 50961349'}","Prevádzkovateľ platnosť od: 28.11.2019
+Pondelok: 8:00-18:00
+Utorok: 8:00-18:00
+Streda: 8:00-18:00
+Štvrtok: 8:00-18:00
+Piatok: 8:00-18:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3329427,19.5553054,"Hviezdoslavova
+112/11
+02744
+Tvrdošín",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/tvrdosin/lekaren-dr.-max.html?page_id=132450,7,Tvrdošín,69
+65-52486940-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-52486940-A0001', 'Miesto prevádzkovania': 'Nová Doba\n480\n02743\nNižná', 'Telefón': '0435381349', 'Email': 'lekarenbeata@gmail.com', 'Prevádzkovateľ': 'Lekáreň Beata, s.r.o.\nNová Doba\n480\n02743\nNižná\nIČO: 52486940'}","Prevádzkovateľ platnosť od: 01.12.2019
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3080726,19.5252009,"Nová Doba
+480
+02743
+Nižná",Lekáreň BEATA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/tvrdosin/lekaren-beata.html?page_id=132370,7,Tvrdošín,69
+65-31683711-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-31683711-A0001', 'Miesto prevádzkovania': 'Bernolákova\n219\n02801\nTrstená', 'Telefón': '+421 901961664', 'Prevádzkovateľ': 'Lekáreň DOM ZDRAVIA s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 31683711'}","Prevádzkovateľ platnosť od: 01.04.2021
+Pondelok: 7:00-16:00
+Utorok: 7:00-16:00
+Streda: 7:00-16:00
+Štvrtok: 7:00-16:00
+Piatok: 7:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3596641,19.6098128,"Bernolákova
+219
+02801
+Trstená",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/tvrdosin/lekaren-dr.-max-1.html?page_id=123752,7,Tvrdošín,69
+65-00634891-A0049,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-00634891-A0049', 'Miesto prevádzkovania': 'NsP Trstená\nMieru\n549/16\n02801\nTrstená', 'Telefón': '+421 435307343', 'Prevádzkovateľ': 'Hornooravská nemocnica s poliklinikou Trstená\nMieru\n549/16\n02801\nTrstená\nIČO: 00634891\nwww.nsptrstena.sk'}","Prevádzkovateľ platnosť od: 26.11.2015
+Pondelok: 7:00-16:30
+Utorok: 7:00-16:30
+Streda: 7:00-16:30
+Štvrtok: 7:00-16:30
+Piatok: 7:00-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3580167,19.6014858,"NsP Trstená
+Mieru
+549/16
+02801
+Trstená",Lekáreň Hornooravskej nemocnice,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/tvrdosin/lekaren-hornooravskej-nemocnice.html?page_id=66126,7,Tvrdošín,69
+65-45557926-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-45557926-A0001', 'Miesto prevádzkovania': 'Medvedzie\n272\n02744\nTvrdošín', 'Telefón': '0433709301', 'Prevádzkovateľ': 'SLOVGASTRO s.r.o.\nM. R. Štefánika\n12\n02801\nTrstená\nIČO: 45557926'}","Prevádzkovateľ platnosť od: 01.12.2019
+Pondelok: 7:00-17:00
+Utorok: 7:00-17:00
+Streda: 7:00-17:00
+Štvrtok: 7:00-17:00
+Piatok: 7:00-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3276302,19.5465662,"Medvedzie
+272
+02744
+Tvrdošín",Lekáreň MEDVEDZIE,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/tvrdosin/lekaren-medvedzie.html?page_id=55927,7,Tvrdošín,69
+65-36430463-A0001,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-36430463-A0001', 'Miesto prevádzkovania': 'Suchá Hora\n241\n02713\nSuchá Hora', 'Telefón': '+421 435397834', 'Prevádzkovateľ': 'Zelená lekáreň, s.r.o.\nČerveného kríža\n130/29\n02901\nNámestovo\nIČO: 36430463'}","Prevádzkovateľ platnosť od: 01.03.2012
+Pondelok: 8:00-14:00
+Utorok: 8:00-14:00
+Streda: 8:00-14:00
+Štvrtok: 8:00-14:00
+Piatok: 8:00-14:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.3658664,19.7903609,"Suchá Hora
+241
+02713
+Suchá Hora",Lekáreň Pobočka  DROSERA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/tvrdosin/lekaren-pobocka-drosera.html?page_id=51091,7,Tvrdošín,69
+65-36776262-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36776262-A0001', 'Miesto prevádzkovania': 'Mieru\n1315\n02801\nTrstená', 'Telefón': '+421 435324084', 'Prevádzkovateľ': 'Pharmcentrum, s.r.o.\nPetzvalova\n3372/33\n01015\nŽilina\nIČO: 36776262'}","Prevádzkovateľ platnosť od: 26.08.2022
+Pondelok: 7:00-15:00
+Utorok: 7:00-15:00
+Streda: 7:00-15:00
+Štvrtok: 7:00-15:00
+Piatok: 7:00-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.35784160,19.59835430,"Mieru
+1315
+02801
+Trstená",Lekáreň PRI NEMOCNICI,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/tvrdosin/lekaren-pri-nemocnici.html?page_id=3456,7,Tvrdošín,69
+65-36804851-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36804851-A0001', 'Miesto prevádzkovania': 'Trojičné nám.\n178/1\n02744\nTvrdošín\nZ kruhového objazdu zídete na smer Námestovo a potom druhá odbočka vľavo. Lekáreň je na rohu ulice. Ružová budova oproti parku. Možnosť parkovania v ulici, alebo na parkovisku za lekárňou.', 'Telefón': '+421 435322341', 'Mobil': '+421 948127464', 'Email': 'lekaren@lekareninspe.sk', 'Web': 'http://www.lekareninspe.sk', 'Prevádzkovateľ': 'INSPE, s.r.o.\nTrojičné námestie\n178/1\n02744\nTvrdošín\nIČO: 36804851', 'Internetový výdaj': 'áno'}","Internetový výdaj platnosť od: 03.03.2015
+Pondelok: 7:00-17:00
+Utorok: 7:00-17:00
+Streda: 7:00-17:00
+Štvrtok: 7:00-17:00
+Piatok: 7:00-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.33512,19.55325,"Trojičné nám.
+178/1
+02744
+Tvrdošín
+Z kruhového objazdu zídete na smer Námestovo a potom druhá odbočka vľavo. Lekáreň je na rohu ulice. Ružová budova oproti parku. Možnosť parkovania v ulici, alebo na parkovisku za lekárňou.",Lekáreň INSPE,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/tvrdosin/lekaren-inspe.html?page_id=3379,7,Tvrdošín,69
+65-36362077-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36362077-A0001', 'Miesto prevádzkovania': 'Bernolákova\n21/15\n02801\nTrstená', 'Telefón': '+421 435392338', 'Prevádzkovateľ': 'Lekáreň KARMEL, s.r.o.\nBernolákova\n21/15\n02801\nTrstená\nIČO: 36362077'}","Prevádzkovateľ platnosť od: 05.12.2016
+Pondelok: 7:00-17:00
+Utorok: 7:00-17:00
+Streda: 7:00-17:00
+Štvrtok: 7:00-17:00
+Piatok: 7:00-17:00
+Sobota: 8:00-12:00
+Nedeľa: zatvorené
+Nedeľa: platnosť od: 01.06.2020
+Pondelok: 6:30-17:00
+Utorok: 6:30-17:00
+Streda: 6:30-17:00
+Štvrtok: 6:30-17:00
+Piatok: 6:30-17:00
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.35953110,19.60714460,"Bernolákova
+21/15
+02801
+Trstená",Lekáreň KARMEL,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/tvrdosin/lekaren-karmel.html?page_id=3387,7,Tvrdošín,69
+65-46064583-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-46064583-A0001', 'Miesto prevádzkovania': 'Nižné brehy\n1\n02732\nZuberec', 'Telefón': '+421 435395158', 'Prevádzkovateľ': 'Lekáreň ARNIKA MEDI s.r.o.\nAndreja Pavču\n274/13\n02732\nHabovka\nIČO: 46064583'}","Prevádzkovateľ platnosť od: 01.03.2012
+Pondelok: 7:00-15:00
+Utorok: 7:00-15:00
+Streda: 7:00-15:00
+Štvrtok: 7:00-15:00
+Piatok: 7:00-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.27006820,19.60754160,"Nižné brehy
+1
+02732
+Zuberec",Lekáreň ARNIKA MEDI s.r.o.,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/tvrdosin/lekaren-arnika-medi.html?page_id=3327,7,Tvrdošín,69
+65-54480621-A0001,"{'Druh': 'Výdajňa ortopedicko-protetických zdravotníckych pomôcok', 'Identifikátor': '65-54480621-A0001', 'Miesto prevádzkovania': 'M. R. Štefánika\n837/35\n01001\nŽilina', 'Mobil': '0951220575', 'Email': 'info@spinteq.sk', 'Prevádzkovateľ': 'SpinTeQ, s. r. o.\nTimravy\n1098/5\n03601\nMartin\nIČO: 54480621'}","Prevádzkovateľ platnosť od: 16.06.2022
+Pondelok: 8:00-16:30
+Utorok: 8:00-16:30
+Streda: 8:00-16:30
+Štvrtok: 8:00-16:30
+Piatok: 8:00-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2230400,18.7482369,"M. R. Štefánika
+837/35
+01001
+Žilina",Výdajňa ortopedicko-protetických zdravotníckych pomôcok Spin TeQ,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/vydajna-ortopedicko-protetickych-zdravotnickych-pomocok-spin-teq.html?page_id=143318,7,Žilina,78
+65-52386431-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-52386431-A0001', 'Miesto prevádzkovania': 'M. R. Štefánika\n842/47\n01001\nŽilina', 'Mobil': '0905268229', 'Email': 'bugan@medivasa.sk', 'Prevádzkovateľ': 'Medivi, s. r. o.\nNemocnica s poliklinikou, V. Spanyola\n8187\n01001\nŽilina\nIČO: 52386431'}","Prevádzkovateľ platnosť od: 11.04.2022
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2224310,18.7492366,"M. R. Štefánika
+842/47
+01001
+Žilina",Lekáreň Medivi,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-medivi.html?page_id=142714,7,Žilina,78
+65-52040755-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-52040755-A0001', 'Miesto prevádzkovania': 'Veľká okružná\n59A\n01001\nŽilina', 'Mobil': '0901961349', 'Email': 'drmax349@drmax.sk', 'Prevádzkovateľ': 'Dr.Max 164 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 52040755'}","Prevádzkovateľ platnosť od: 25.02.2021
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00",49.2194334,18.7381955,"Veľká okružná
+59A
+01001
+Žilina",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-dr.-max-9.html?page_id=140046,7,Žilina,78
+65-52621944-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-52621944-A0001', 'Miesto prevádzkovania': 'Poštová\n1\n01008\nŽilina', 'Mobil': '0951302623', 'Email': 'lekarenpostova@liekobox.sk', 'Prevádzkovateľ': 'Liekobox, s. r. o.\nNeslušská cesta\n2713\n02401\nKysucké Nové Mesto\nIČO: 52621944'}","Zatvorená od 192022 do 3092022Lekáreň Poštová bude v termíne 19309 z dôvodu dovolenky zatvorená pozrite pohotovostné lekárne v okrese Žilina platnosť od: 30.07.2020
+Pondelok: 8:30-17:00
+Utorok: 8:30-17:00
+Streda: 8:30-17:00
+Štvrtok: 8:30-17:00
+Piatok: 8:30-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2137263,18.7558566,"Poštová
+1
+01008
+Žilina",Lekáreň Poštová,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-postova.html?page_id=135341,7,Žilina,78
+65-51218267-A0003,"{'Druh': 'Výdajňa zdravotníckych pomôcok', 'Identifikátor': '65-51218267-A0003', 'Miesto prevádzkovania': 'Jána Milca\n11\n01001\nŽilina', 'Telefón': '+421911242042', 'Email': 'monerezilina@gmail.com', 'Prevádzkovateľ': 'MONERE, s.r.o.\nVojtecha Spanyola\n2124/20\n01001\nŽilina\nIČO: 51218267'}","Prevádzkovateľ platnosť od: 01.02.2018
+Pondelok: 8:00-16:00
+Utorok: 8:00-16:00
+Streda: 8:00-16:00
+Štvrtok: 8:00-16:00
+Piatok: 8:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2249196,18.7453260,"Jána Milca
+11
+01001
+Žilina",Výdajňa zdravotníckych pomôcok MONERE s.r.o.,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/vydajna-zdravotnickych-pomocok-monere.html?page_id=135079,7,Žilina,78
+65-53020782-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-53020782-A0001', 'Miesto prevádzkovania': 'A. Rudnaya\n3806\n01001\nŽilina', 'Mobil': '0905443863', 'Email': 'lekaren.kalamed@pharm.sk', 'Prevádzkovateľ': 'KALAMED, s. r. o.\nA. Rudnaya\n3806\n01001\nŽilina\nIČO: 53020782'}","Prevádzkovateľ platnosť od: 19.01.2022
+Pondelok: 11:00-14:00
+Utorok: 11:00-14:00
+Streda: 11:00-14:00
+Štvrtok: 11:00-14:00
+Piatok: 11:00-14:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2022810,18.7401360,"A. Rudnaya
+3806
+01001
+Žilina",Lekáreň KALAMED,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-kalamed.html?page_id=134958,7,Žilina,78
+65-47781068-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47781068-A0001', 'Miesto prevádzkovania': '1. mája\n1016/4\n01001\nŽilina', 'Mobil': '0901961211', 'Email': 'drmax211@drmax.sk', 'Prevádzkovateľ': 'Dr.Max 80 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Západ\nIČO: 47781068'}","Prevádzkovateľ platnosť od: 20.03.2020
+Pondelok: 7:30-19:30
+Utorok: 7:30-19:30
+Streda: 7:30-19:30
+Štvrtok: 7:30-19:30
+Piatok: 7:30-19:30
+Sobota: 7:30-19:30
+Nedeľa: 8:00-19:30",49.2209222,18.7464249,"1. mája
+1016/4
+01001
+Žilina",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-dr.-max.html?page_id=134684,7,Žilina,78
+65-52095428-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-52095428-A0001', 'Miesto prevádzkovania': 'Námestie SNP\n28/28\n01522\nRajec', 'Email': 'lekaren@lekarenrajec.sk', 'Prevádzkovateľ': 'PharmR s.r.o.,\nPionierska\n982/6\n01701\nPovažská Bystrica\nIČO: 52095428'}","Prevádzkovateľ platnosť od: 07.01.2020
+Pondelok: 8:00-16:00
+Utorok: 8:00-16:00
+Streda: 8:00-16:00
+Štvrtok: 8:00-16:00
+Piatok: 8:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.0890944,18.6349587,"Námestie SNP
+28/28
+01522
+Rajec",Lekáreň pri Radnici,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-pri-radnici.html?page_id=132892,7,Žilina,78
+65-51948079-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-51948079-A0001', 'Miesto prevádzkovania': 'HM Tesco Hliny\nObvodová\n8640\n01007\nŽilina', 'Email': 'benu92@benulekaren.sk', 'Mobil': '0911169073', 'Prevádzkovateľ': 'BENU SK 92, s.r.o.\nPribylinská\n7736/2/A\n83104\nBratislava - mestská časť Rača\nIČO: 51948079'}","Prevádzkovateľ platnosť od: 01.05.2019
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00",49.2024383,18.7347180,"HM Tesco Hliny
+Obvodová
+8640
+01007
+Žilina",Lekáreň BENU,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-benu-1.html?page_id=130883,7,Žilina,78
+65-51663139-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-51663139-A0001', 'Miesto prevádzkovania': 'Antona Bernoláka\n3722/54\n01001\nŽilina', 'Mobil': '905504103', 'Email': 'lekarenbulvar@zoznam.sk', 'Prevádzkovateľ': 'Lekáreň na Bulvári, s.r.o.\nAntona Bernoláka\n3722/54\n01001\nŽilina\nIČO: 51663139'}","Prevádzkovateľ platnosť od: 02.11.2018
+Pondelok: 8:30-17:00
+Utorok: 8:30-17:00
+Streda: 8:30-17:00
+Štvrtok: 8:30-17:00
+Piatok: 8:30-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2162282,18.7408720,"Antona Bernoláka
+3722/54
+01001
+Žilina","Lekáreň na Bulvári, s.r.o.",https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-na-bulvari.html?page_id=129647,7,Žilina,78
+65-51081032-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-51081032-A0001', 'Miesto prevádzkovania': 'Vojtecha Spanyola\n8928/29\n01001\nŽilina', 'Email': 'lekarensvjoachim@inetbox.sk', 'Telefón': '0414510071', 'Prevádzkovateľ': 'Manyway, s. r .o.\n855\n02314\nSkalité\nIČO: 51081032'}","Prevádzkovateľ platnosť od: 15.10.2018
+Pondelok: 7:30-16:30
+Utorok: 7:30-16:30
+Streda: 7:30-16:30
+Štvrtok: 7:30-16:30
+Piatok: 7:30-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2183105,18.7438486,"Vojtecha Spanyola
+8928/29
+01001
+Žilina",Lekáreň sv. Joachim a sv. Anny,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-sv.-joachim-a-sv.-anny.html?page_id=129509,7,Žilina,78
+65-51440881-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-51440881-A0001', 'Miesto prevádzkovania': 'ObZS Hliny VI\nAlexandra Rudnaya\n3606/100\n01001\nŽilina', 'Email': 'lekaren@lekarenborik.sk', 'Mobil': '0911878898', 'Prevádzkovateľ': 'Lekáreň Bôrik, s.r.o.\nAlexandra Rudnaya\n3606/100\n01001\nŽilina\nIČO: 51440881'}","Zatvorená od 892022 do 2992022dovolenka pozrite pohotovostné lekárne v okrese Žilina platnosť od: 02.05.2018
+Pondelok: 7:00-16:00
+Utorok: 7:00-16:00
+Streda: 7:00-16:00
+Štvrtok: 7:00-16:00
+Piatok: 7:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené
+Nedeľa: od 16.03. do 20.03.2020 bude lekáreň otvorená do 14.00 hod.",49.2029699,18.7394736,"ObZS Hliny VI
+Alexandra Rudnaya
+3606/100
+01001
+Žilina",Lekáreň Bôrik,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-borik.html?page_id=126804,7,Žilina,78
+65-47725281-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47725281-A0001', 'Miesto prevádzkovania': 'Vojtecha Spanyola\n8685\n01001\nŽilina', 'Email': 'medea.zilina@gmail.com', 'Mobil': '0917205506', 'Prevádzkovateľ': 'GRIPAD SK, s.r.o.\nJanka Kráľa\n5\n97401\nBanská Bystrica\nIČO: 47725281'}","Prevádzkovateľ platnosť od: 07.02.2018
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2180477,18.7436494,"Vojtecha Spanyola
+8685
+01001
+Žilina",Lekáreň Medea,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-medea.html?page_id=126283,7,Žilina,78
+65-50552252-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-50552252-A0001', 'Miesto prevádzkovania': 'Antona Bernoláka\n2135/2\n01001\nŽilina', 'Email': 'drmax271@drmax.sk', 'Mobil': '+421 901961271', 'Prevádzkovateľ': 'Dr. Max 111 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 50552252'}","Prevádzkovateľ platnosť od: 02.09.2019
+Pondelok: 8:00-18:00
+Utorok: 8:00-18:00
+Streda: 8:00-18:00
+Štvrtok: 8:00-18:00
+Piatok: 8:00-18:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.219256,18.741130,"Antona Bernoláka
+2135/2
+01001
+Žilina",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-dr.-max-1.html?page_id=124580,7,Žilina,78
+65-50764276-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-50764276-A0001', 'Miesto prevádzkovania': 'A. F. Kollára\n229\n01306\nTerchová', 'Prevádzkovateľ': 'JARLU spol. s r.o.\nSv. Martina\n1360/67\n01306\nTerchová\nIČO: 50764276'}","Prevádzkovateľ platnosť od: 01.05.2017
+Pondelok: 8:30-17:00
+Utorok: 8:30-17:00
+Streda: 8:30-17:00
+Štvrtok: 8:30-17:00
+Piatok: 8:30-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2627137,19.0330591,"A. F. Kollára
+229
+01306
+Terchová",Lekáreň Salvator,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-salvator.html?page_id=123338,7,Žilina,78
+65-36676624-A0002,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-36676624-A0002', 'Miesto prevádzkovania': '779\n01305\nBelá', 'Telefón': '+421 417649641', 'Prevádzkovateľ': 'Lekáreň SYNKA, s.r.o.\nSv. Martina\n1360/67\n01306\nTerchová\nIČO: 36676624'}","Prevádzkovateľ platnosť od: 09.11.2016
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.240166,18.942459,"779
+01305
+Belá",Pobočka verejnej lekárne SYNKA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/pobocka-verejnej-lekarne-synka.html?page_id=105703,7,Žilina,78
+65-17335825-A0103,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-17335825-A0103', 'Miesto prevádzkovania': 'Vojtecha Spanyola\n43\n01207\nŽilina', 'Telefón': '+421 7246930', 'Email': 'farmacia@fnspza.sk', 'Prevádzkovateľ': 'Fakultná nemocnica s poliklinikou Žilina\nVojtecha Spanyola\n1740/43\n01207\nŽilina\nIČO: 17335825\nwww.fnspza.sk'}","Prevádzkovateľ platnosť od: 26.11.2015
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2187404,18.7457299,"Vojtecha Spanyola
+43
+01207
+Žilina",Lekáreň FARMÁCIA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-farmacia.html?page_id=89639,7,Žilina,78
+65-47347961-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47347961-A0001', 'Miesto prevádzkovania': 'BILLA Vlčince\nObežná\n8777\n01008\nŽilina', 'Telefón': '+421 413214428', 'Email': 'zilina@apoteka.sk', 'Prevádzkovateľ': 'SLOVAP6, s. r. o.\nHorná Strieborná\n6808/18\n97401\nBanská Bystrica\nIČO: 47347961'}","Prevádzkovateľ platnosť od: 01.09.2019
+Pondelok: 8:00-19:00
+Utorok: 8:00-19:00
+Streda: 8:00-19:00
+Štvrtok: 8:00-19:00
+Piatok: 8:00-19:00
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.2144883,18.7691377,"BILLA Vlčince
+Obežná
+8777
+01008
+Žilina",Lekáreň apoteka,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-apoteka.html?page_id=76706,7,Žilina,78
+65-46275088-A0001,"{'Druh': 'Výdajňa audio-protetických zdravotníckych pomôcok', 'Identifikátor': '65-46275088-A0001', 'Miesto prevádzkovania': 'Kálov\n17\n01001\nŽilina', 'Prevádzkovateľ': 'AUDIOCENTRUM SK, s.r.o.\nKuzmányho\n25\n90201\nPezinok\nIČO: 46275088'}","Prevádzkovateľ platnosť od: 29.06.2015
+Pondelok: 8:00-12:00
+Utorok: 8:00-12:00
+Streda: 8:00-12:00
+Štvrtok: 8:00-12:00
+Piatok: 8:00-12:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2268651,18.7404112,"Kálov
+17
+01001
+Žilina",Výdajňa audio-protetických zdravotníckych pomôcok KAROLINA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/vydajna-audio-protetickych-zdravotnickych-pomocok-karolina.html?page_id=76593,7,Žilina,78
+65-47630477-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47630477-A0001', 'Miesto prevádzkovania': 'Dobšinského\n8\n01008\nŽilina', 'Telefón': '+421 415623331', 'Email': 'althealekaren@zoznam.sk', 'Prevádzkovateľ': 'MG PHARM, s.r.o.\nNa Malý diel\n2195/44\n01001\nŽilina\nIČO: 47630477'}","Prevádzkovateľ platnosť od: 07.07.2020
+Pondelok: 8:30-17:00
+Utorok: 8:30-17:00
+Streda: 8:30-17:00
+Štvrtok: 8:30-17:00
+Piatok: 8:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2102620,18.7634058,"Dobšinského
+8
+01008
+Žilina",Lekáreň ALTHEA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-althea.html?page_id=75984,7,Žilina,78
+65-46841156-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-46841156-A0001', 'Miesto prevádzkovania': 'M. R. Štefánika\n822/11\n01001\nŽilina', 'Mobil': '+421 918 490510', 'Prevádzkovateľ': 'Lekáreň u Štefánika, s.r.o.\nM. R. Štefánika\n822/11\n01001\nŽilina\nIČO: 46841156'}","Prevádzkovateľ platnosť od: 01.01.2018
+Pondelok: 7:30-15:30
+Utorok: 7:30-15:30
+Streda: 7:30-15:30
+Štvrtok: 7:30-15:30
+Piatok: 7:30-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.22427488,18.74455203,"M. R. Štefánika
+822/11
+01001
+Žilina",Lekáreň U Štefánika,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-u-stefanika.html?page_id=74555,7,Žilina,78
+65-45599963-A0001,"{'Druh': 'Výdajňa zdravotníckych pomôcok', 'Identifikátor': '65-45599963-A0001', 'Miesto prevádzkovania': 'Štrková\n8\n01196\nŽilina', 'Prevádzkovateľ': 'ZDRAVÉ STRÁNKY s.r.o.\nŠtrková\n8\n01196\nŽilina\nIČO: 45599963'}","Zatvorená od 892022 do 3092022dôvod neudáva pozrite pohotovostné lekárne v okrese Žilina platnosť od: 30.03.2015
+Pondelok: 8:00-12:00
+Utorok: 8:00-12:00
+Streda: 8:00-12:00
+Štvrtok: 8:00-12:00
+Piatok: zatvorené
+Sobota: zatvorené
+Nedeľa: zatvorené",49.1944751,18.7268277,"Štrková
+8
+01196
+Žilina",Zdravotnícke pomôcky,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/zdravotnicke-pomocky.html?page_id=67070,7,Žilina,78
+65-47686006-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47686006-A0001', 'Miesto prevádzkovania': 'OC MIRAGE\nNámestie Andreja Hlinku\n7B\n01001\nŽilina', 'Email': 'drmax184@drmax.sk', 'Prevádzkovateľ': 'Dr.Max 58 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 47686006'}","Prevádzkovateľ platnosť od: 08.04.2015
+Pondelok: 7:30-19:30
+Utorok: 7:30-19:30
+Streda: 7:30-19:30
+Štvrtok: 7:30-19:30
+Piatok: 7:30-19:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2243355,18.7415489,"OC MIRAGE
+Námestie Andreja Hlinku
+7B
+01001
+Žilina",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-dr.-max-2.html?page_id=66448,7,Žilina,78
+65-47686201-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47686201-A0001', 'Miesto prevádzkovania': 'Vojtecha Spanyola\n41/A\n01001\nŽilina', 'Telefón': '+421 0901961464', 'Email': 'drmax-za2@drmax.sk', 'Web': 'http://www.drmax.sk', 'Prevádzkovateľ': 'Dr.Max 61 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 47686201'}","Prevádzkovateľ platnosť od: 22.08.2014
+Pondelok: 7:00-16:00
+Utorok: 7:00-16:00
+Streda: 7:00-16:00
+Štvrtok: 7:00-16:00
+Piatok: 7:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2174779,18.7447615,"Vojtecha Spanyola
+41/A
+01001
+Žilina",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-dr.-max-3.html?page_id=65826,7,Žilina,78
+65-47753463-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47753463-A0001', 'Miesto prevádzkovania': 'Fatranská\n80\n01301\nTeplička nad Váhom', 'Telefón': '+421 414344102', 'Prevádzkovateľ': 'Lekáreň Teplička, s.r.o.\nRosina\n43\n01322\nRosina\nIČO: 47753463'}","Prevádzkovateľ platnosť od: 01.01.2022
+Pondelok: 7:30-12:00  ||13:00-16:0012,00-13,00 -obed a dezinfekcia lekárne
+Utorok: 7:30-12:00  ||13:00-16:0012,00-13,00 - obed a dezinfekcia lekarne
+Streda: 7:30-12:00  ||13:00-16:0012,00-13,00 - obed a dezinfekcia lekárne
+Štvrtok: 7:30-12:00  ||13:00-16:0012,00-13,00 - obed a dezinfekcia lekárne
+Piatok: 7:30-12:00  ||13:00-16:0012,00-13,00 - obed a dezinfekcia lekaárne
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2235182,18.7987405,"Fatranská
+80
+01301
+Teplička nad Váhom",Lekáreň TEPLIČKA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-teplicka.html?page_id=65135,7,Žilina,78
+65-47507781-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47507781-A0001', 'Miesto prevádzkovania': 'OC Dubeň\nVysokoškolákov\n52\n01008\nŽilina', 'Email': 'benu13@benulekaren.sk', 'Prevádzkovateľ': 'BENU SK 13, s.r.o.\nPribylinská\n2/A\n83104\nBratislava - mestská časť Rača\nIČO: 47507781'}","Prevádzkovateľ platnosť od: 01.04.2014
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00
+Nedeľa: Dňa 26.08.2017 zatvorené do 14.00 hod. z dôvodu inventúry",49.2116048,18.7516147,"OC Dubeň
+Vysokoškolákov
+52
+01008
+Žilina",Lekáreň BENU,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-benu.html?page_id=64471,7,Žilina,78
+65-46043641-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-46043641-A0001', 'Miesto prevádzkovania': 'Romualda Zaymusa\n8727/12\n01001\nŽilina', 'Email': 'drmax-za6@drmax.sk', 'Prevádzkovateľ': 'Dr.Max 14 s.r.o.\nMoldavská cesta\n8/8/A\n04011\nKošice - mestská časť Juh\nIČO: 46043641'}","Prevádzkovateľ platnosť od: 01.09.2017
+Pondelok: 8:00-16:30
+Utorok: 8:00-16:30
+Streda: 8:00-16:30
+Štvrtok: 8:00-16:30
+Piatok: 8:00-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2214319,18.7393801,"Romualda Zaymusa
+8727/12
+01001
+Žilina",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-dr.-max-4.html?page_id=59673,7,Žilina,78
+65-47351560-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-47351560-A0001', 'Miesto prevádzkovania': 'OC MAX\nPrielohy\n907/9\n01007\nŽilina', 'Telefón': '+421 901 961602', 'Email': 'drmax-za4@drmax.sk', 'Prevádzkovateľ': 'Dr.Max 602 s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Juh\nIČO: 47351560'}","Prevádzkovateľ platnosť od: 04.11.2013
+Pondelok: 9:00-21:00
+Utorok: 9:00-21:00
+Streda: 9:00-21:00
+Štvrtok: 9:00-21:00
+Piatok: 9:00-21:00
+Sobota: 9:00-21:00
+Nedeľa: 9:00-21:00",49.1955311,18.7449150,"OC MAX
+Prielohy
+907/9
+01007
+Žilina",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-dr.-max-5.html?page_id=58819,7,Žilina,78
+65-31631584-A0001,"{'Druh': 'Výdajňa ortopedicko-protetických zdravotníckych pomôcok', 'Identifikátor': '65-31631584-A0001', 'Miesto prevádzkovania': 'Jánošíkova\n15/C\n01001\nŽilina', 'Prevádzkovateľ': 'TRULIK MEDICAL TECHNOLOGY, s.r.o.\nJedľová\n26\n01004\nŽilina\nIČO: 31631584'}","Prevádzkovateľ platnosť od: 04.11.2013
+Pondelok: 9:00-16:00
+Utorok: 9:00-16:00
+Streda: 9:00-16:00
+Štvrtok: 9:00-16:00
+Piatok: zatvorené
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2275565,18.7316829,"Jánošíkova
+15/C
+01001
+Žilina",TMT-výdajňa ortopedicko-protetických zdravotníckych pomôcok,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/tmt-vydajna-ortopedicko-protetickych-zdravotnickych-pomocok.html?page_id=58818,7,Žilina,78
+65-46586954-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-46586954-A0001', 'Miesto prevádzkovania': 'Bottova\n35/1\n01001\nŽilina', 'Telefón': '+421 415166199', 'Mobil': '+421 903 722678', 'Email': 'europharmacy@europharmacy.sk', 'Prevádzkovateľ': 'EUROPHARMACY, s.r.o.\nBottova\n35/1\n01001\nŽilina\nIČO: 46586954'}","Prevádzkovateľ platnosť od: 19.09.2012
+Pondelok: 7:00-18:00
+Utorok: 7:00-18:00
+Streda: 7:00-18:00
+Štvrtok: 7:00-18:00
+Piatok: 7:00-18:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.22318370,18.74040860,"Bottova
+35/1
+01001
+Žilina",EUROLEKÁREŇ,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/eurolekaren.html?page_id=55555,7,Žilina,78
+65-36391298-A0001,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-36391298-A0001', 'Miesto prevádzkovania': 'Dlhé Pole\n40\n01332\nDlhé Pole', 'Prevádzkovateľ': 'Lekáreń Samaritán, s.r.o.\nDrieňová\n7\n01004\nŽilina\nIČO: 36391298'}","Prevádzkovateľ platnosť od: 23.03.2012
+Pondelok: 8:00-13:00
+Utorok: 8:00-13:00
+Streda: 8:00-13:00
+Štvrtok: 8:00-13:00
+Piatok: 8:00-13:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.29663440,18.62749350,"Dlhé Pole
+40
+01332
+Dlhé Pole",Lekáreň Pobočka verejnej lekárne SAMARITÁN,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-pobocka-verejnej-lekarne-samaritan.html?page_id=51122,7,Žilina,78
+65-45519218-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-45519218-A0001', 'Miesto prevádzkovania': 'Vojtecha Spanyola\n8633/43P\n01001\nŽilina', 'Telefón': '+421 7232113', 'Email': 'lekaren.claudius.galenus@gmail.com', 'Prevádzkovateľ': 'LKA invest, s.r.o.\nRepubliky\n1007/31\n01001\nŽilina\nIČO: 45519218'}","Prevádzkovateľ platnosť od: 02.03.2012
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2187404,18.7457299,"Vojtecha Spanyola
+8633/43P
+01001
+Žilina",Lekáreň CLAUDIUS GALENUS,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-claudius-galenus.html?page_id=45761,7,Žilina,78
+65-31322859-A0001,"{'Druh': 'Výdajňa zdravotníckych pomôcok', 'Identifikátor': '65-31322859-A0001', 'Miesto prevádzkovania': 'Vojtecha Spanyola\n63\n01001\nŽilina', 'Telefón': '+421 417242015', 'Prevádzkovateľ': 'PROTETIKA, a.s.\nBojnická\n10\n82365\nBratislava - mestská časť Rača\nIČO: 31322859'}","Prevádzkovateľ platnosť od: 15.04.2022
+Pondelok: 8:30-17:00
+Utorok: 7:30-16:00
+Streda: 8:30-17:00
+Štvrtok: 7:30-16:00
+Piatok: 8:30-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené
+Nedeľa: prestávka na obed od 12.30 - 13.00 hod.",49.2164576,18.7445017,"Vojtecha Spanyola
+63
+01001
+Žilina",Výdajňa zdravotníckych pomôcok,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/vydajna-zdravotnickych-pomocok.html?page_id=3557,7,Žilina,78
+65-36685372-A0001,"{'Druh': 'Výdajňa ortopedicko-protetických zdravotníckych pomôcok', 'Identifikátor': '65-36685372-A0001', 'Miesto prevádzkovania': 'Bratislavská\n9\n01001\nŽilina', 'Telefón': '+421 415626283', 'Prevádzkovateľ': 'PRO-TECH SK, s.r.o.\nBratislavská\n9\n01001\nŽilina\nIČO: 36685372'}","Prevádzkovateľ platnosť od: 22.03.2017
+Pondelok: 8:00-12:00  ||12:30-15:30
+Utorok: 8:00-12:00  ||12:30-15:30
+Streda: 8:00-12:00  ||12:30-15:30
+Štvrtok: 8:00-12:00  ||12:30-15:30
+Piatok: 8:00-12:00  ||12:30-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2285688,18.7330588,"Bratislavská
+9
+01001
+Žilina","Výdajňa ortopedicko-protetických zdravotníckych pomôcok PRO-TECH SK, s.r.o.",https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/vydajna-ortopedicko-protetickych-zdravotnickych-pomocok-pro-tech-sk.html?page_id=3551,7,Žilina,78
+65-36391654-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36391654-A0001', 'Miesto prevádzkovania': 'Námestie Sv. Floriána\n1002\n01303\nVarín', 'Telefón': '+421 415692290', 'Email': 'zdravievital@slovanet.sk', 'Prevádzkovateľ': 'ZDRAVIE VITAL, s.r.o.\nOndreja Meszarosa\n729/6\n01303\nVarín\nIČO: 36391654'}","Prevádzkovateľ platnosť od: 01.03.2012
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.1999810,18.8690271,"Námestie Sv. Floriána
+1002
+01303
+Varín",Lekáreň ZDRAVIE,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-zdravie.html?page_id=3519,7,Žilina,78
+65-36428868-A0001,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-36428868-A0001', 'Miesto prevádzkovania': 'SNP\n01305\nBelá', 'Telefón': '+421 915838020', 'Prevádzkovateľ': 'ZaPharm, s.r.o.\nBudatínska\n18\n85106\nBratislava - mestská časť Petržalka\nIČO: 36428868'}","Prevádzkovateľ platnosť od: 23.10.2012
+Pondelok: 7:00-15:00
+Utorok: 7:00-15:00
+Streda: 7:00-15:00
+Štvrtok: 7:00-15:00
+Piatok: 7:00-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.23285020,18.94699320,"SNP
+01305
+Belá",Lekáreň U LIEČIVÉHO PRAMEŇA pobočka,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-u-lieciveho-pramena-pobocka.html?page_id=3507,7,Žilina,78
+65-36428868-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36428868-A0002', 'Miesto prevádzkovania': 'Baničova\n3392\n01001\nŽilina', 'Mobil': '+421 903 523228', 'Prevádzkovateľ': 'ZaPharm, s.r.o.\nBudatínska\n18\n85106\nBratislava - mestská časť Petržalka\nIČO: 36428868'}","Prevádzkovateľ platnosť od: 01.06.2020
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2141668,18.7097055,"Baničova
+3392
+01001
+Žilina",Lekáreň U LIEČIVÉHO PRAMEŇA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-u-lieciveho-pramena.html?page_id=3506,7,Žilina,78
+65-44141378-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44141378-A0001', 'Miesto prevádzkovania': 'Smreková\n39\n01007\nŽilina', 'Telefón': '+421 415681177', 'Prevádzkovateľ': 'LEKRIA, s.r.o.\nSmreková\n39\n01007\nŽilina\nIČO: 44141378'}","Prevádzkovateľ platnosť od: 23.06.2020
+Pondelok: 7:30-12:00  ||12:30-16:00
+Utorok: 7:30-12:00  ||12:30-16:00
+Streda: 7:30-12:00  ||12:30-16:00
+Štvrtok: 7:30-12:00  ||12:30-16:00
+Piatok: 7:30-12:00  ||12:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.1985273,18.7362677,"Smreková
+39
+01007
+Žilina",Lekáreň U DOBRÉHO PASTIERA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-u-dobreho-pastiera.html?page_id=3505,7,Žilina,78
+65-36676624-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36676624-A0001', 'Miesto prevádzkovania': 'Sv. Martina\n1360/67\n01306\nTerchová', 'Telefón': '+421 415695256', 'Prevádzkovateľ': 'Lekáreň SYNKA, s.r.o.\nSv. Martina\n1360/67\n01306\nTerchová\nIČO: 36676624'}","Prevádzkovateľ platnosť od: 01.06.2017
+Pondelok: 7:30-15:30
+Utorok: 7:30-15:30
+Streda: 7:30-15:30
+Štvrtok: 7:30-15:30
+Piatok: 7:30-15:30
+Sobota: 8:30-11:30
+Nedeľa: zatvorené",49.257256,19.036878,"Sv. Martina
+1360/67
+01306
+Terchová",Lekáreň SYNKA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-synka.html?page_id=3491,7,Žilina,78
+65-31627030-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-31627030-A0001', 'Miesto prevádzkovania': 'Kysucká cesta\n3\n01001\nŽilina', 'Telefón': '+421 905713590', 'Prevádzkovateľ': 'SlovenaPharm s.r.o.\nBudatínska\n18\n83154\nBratislava-Petržalka\nIČO: 31627030'}","Prevádzkovateľ platnosť od: 02.03.2012
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2310432,18.7389867,"Kysucká cesta
+3
+01001
+Žilina",Lekáreň SLOVENA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-slovena.html?page_id=3481,7,Žilina,78
+65-44028237-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44028237-A0001', 'Miesto prevádzkovania': 'OC MIRAGE\nA. Hlinku\n7/B\n01001\nŽilina', 'Prevádzkovateľ': 'Mkpharm,spol. s.r.o\nČapajevova\n23\n08001\nPrešov\nIČO: 44028237'}","Prevádzkovateľ platnosť od: 24.05.2016
+Pondelok: 9:00-20:30
+Utorok: 9:00-20:30
+Streda: 9:00-20:30
+Štvrtok: 9:00-20:30
+Piatok: 9:00-20:30
+Sobota: 9:00-20:30
+Nedeľa: 9:00-20:30",49.2276026,18.7898112,"OC MIRAGE
+A. Hlinku
+7/B
+01001
+Žilina",Lekáreň SCHNEIDER,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-schneider.html?page_id=3474,7,Žilina,78
+65-36433225-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36433225-A0001', 'Miesto prevádzkovania': 'Alexandra Rudnaya\n3619\n01001\nŽilina', 'Telefón': '0907800355', 'Email': 'lekarensalve34@gmail.com', 'Prevádzkovateľ': 'LEKÁREŇ SALVE, s.r.o.\nA. Rudnaya\n3619/3619\n01001\nŽilina\nIČO: 36433225'}","Prevádzkovateľ platnosť od: 06.09.2021
+Pondelok: 7:00-16:30
+Utorok: 7:00-16:30
+Streda: 7:00-16:30
+Štvrtok: 7:00-16:30
+Piatok: 7:00-16:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.20732640,18.74041120,"Alexandra Rudnaya
+3619
+01001
+Žilina",Lekáreň Kolečko 2,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-kolecko-2.html?page_id=3473,7,Žilina,78
+65-36431826-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36431826-A0001', 'Miesto prevádzkovania': 'Hálkova\n26\n01001\nŽilina', 'Telefón': '+421 417232177', 'Email': 'lekarenrondel@gmail.com', 'Prevádzkovateľ': 'RONDEL-TOMSON, s.r.o.\nHálkova\n26\n01001\nŽilina\nIČO: 36431826'}","Prevádzkovateľ platnosť od: 01.06.2022
+Pondelok: 7:30-11:30  ||12:00-16:00
+Utorok: 7:30-11:30  ||12:00-16:00
+Streda: 7:30-11:30  ||12:00-16:00
+Štvrtok: 7:30-11:30  ||12:00-16:00
+Piatok: 7:30-11:30  ||12:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.21955020,18.73324450,"Hálkova
+26
+01001
+Žilina",Lekáreň RONDEL,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-rondel.html?page_id=3468,7,Žilina,78
+65-36695408-A0001,"{'Druh': 'Pobočka verejnej lekárne', 'Identifikátor': '65-36695408-A0001', 'Miesto prevádzkovania': 'Dolná Rosinská\n814\n01322\nRosina', 'Telefón': '+421 415004000', 'Prevádzkovateľ': 'Lekáreň Pri starej poliklinike, s.r.o.\nHollého\n618/46\n01001\nŽilina\nIČO: 36695408'}","Prevádzkovateľ platnosť od: 01.03.2012
+Pondelok: 8:00-15:00
+Utorok: 8:00-15:00
+Streda: 8:00-15:00
+Štvrtok: 8:00-15:00
+Piatok: 8:00-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.1823630,18.7685818,"Dolná Rosinská
+814
+01322
+Rosina",Lekáreň PRI STAREJ PK pobočka,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-pri-starej-pk-pobocka.html?page_id=3460,7,Žilina,78
+65-36695408-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36695408-A0002', 'Miesto prevádzkovania': 'Bratislavská\n6\n01001\nŽilina', 'Telefón': '+421 415620339', 'Email': 'lekarenp@gmail.com', 'Prevádzkovateľ': 'Lekáreň Pri starej poliklinike, s.r.o.\nHollého\n618/46\n01001\nŽilina\nIČO: 36695408'}","Prevádzkovateľ platnosť od: 01.03.2021
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2279091,18.7332748,"Bratislavská
+6
+01001
+Žilina",Lekáreň PRI STAREJ PK,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-pri-starej-pk.html?page_id=3459,7,Žilina,78
+65-36400220-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36400220-A0001', 'Miesto prevádzkovania': 'Vojtecha Spanyola\n39\n01001\nŽilina', 'Telefón': '+421 417247879', 'Web': 'http://www.omegalekaren.sk', 'Prevádzkovateľ': 'LEKÁREŇ PRI NEMOCNICI-Žilina, s.r.o.\nVojtecha Spanyola\n39\n01001\nŽilina\nIČO: 36400220', 'Internetový výdaj': 'áno'}","Internetový výdaj platnosť od: 01.03.2012
+Pondelok: 7:00-16:00
+Utorok: 7:00-16:00
+Streda: 7:00-16:00
+Štvrtok: 7:00-16:00
+Piatok: 7:00-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2173975,18.7442733,"Vojtecha Spanyola
+39
+01001
+Žilina",Lekáreň PRI NEMOCNICI,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-pri-nemocnici.html?page_id=3457,7,Žilina,78
+65-31596070-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-31596070-A0001', 'Miesto prevádzkovania': 'Hollého\n150\n01501\nRajec', 'Telefón': '+421 415422717', 'Email': 'lekarenrajec@gmail.com', 'Prevádzkovateľ': 'LEKÁREŇ PRI POLIKLINIKE, s.r.o.\nHollého\n150\n01501\nRajec\nIČO: 31596070'}","Prevádzkovateľ platnosť od: 01.03.2012
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.09019500,18.63414650,"Hollého
+150
+01501
+Rajec",Lekáreň POLIKLINIKA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-poliklinika.html?page_id=3452,7,Žilina,78
+65-31630758-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-31630758-A0001', 'Miesto prevádzkovania': 'Bratislavská\n1\n01001\nŽilina', 'Telefón': '+421 415071537', 'Prevádzkovateľ': 'PARACELSUS, s.r.o.\nBratislavská\n1\n01001\nŽilina\nIČO: 31630758'}","Prevádzkovateľ platnosť od: 01.03.2012
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.22753300,18.73299630,"Bratislavská
+1
+01001
+Žilina",Lekáreň PARACELSUS,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-paracelsus.html?page_id=3440,7,Žilina,78
+52-17335825-A0001,"{'Druh': 'Nemocničná lekáreň s výdajom verejnosti', 'Identifikátor': '52-17335825-A0001', 'Miesto prevádzkovania': 'Vojtecha Spanyola\n43\n01207\nŽilina', 'Telefón': '+421 417241353', 'Prevádzkovateľ': 'Fakultná nemocnica s poliklinikou Žilina\nVojtecha Spanyola\n1740/43\n01207\nŽilina\nIČO: 17335825\nwww.fnspza.sk'}","Prevádzkovateľ platnosť od: 12.03.2020
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2187404,18.7457299,"Vojtecha Spanyola
+43
+01207
+Žilina",Nemocničná lekáreň s výdajom verejnosti,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/nemocnicna-lekaren-s-vydajom-verejnosti.html?page_id=3436,7,Žilina,78
+65-36372234-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36372234-A0001', 'Miesto prevádzkovania': 'Sládkovičova\n686\n01501\nRajec', 'Telefón': '+421 415422127', 'Prevádzkovateľ': 'LEKÁREŇ NA NÁMESTÍ, s.r.o.\nSládkovičova\n686\n01501\nRajec\nIČO: 36372234'}","Prevádzkovateľ platnosť od: 08.03.2021
+Pondelok: 8:00-16:00
+Utorok: 8:00-16:00
+Streda: 8:00-16:00
+Štvrtok: 8:00-16:00
+Piatok: 8:00-16:00
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.0877530,18.6359065,"Sládkovičova
+686
+01501
+Rajec",Lekáreň NA NÁMESTÍ,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-na-namesti.html?page_id=3423,7,Žilina,78
+65-36696781-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36696781-A0001', 'Miesto prevádzkovania': 'Rajecká cesta\n14\n01313\nRajecké Teplice', 'Telefón': '+421 415493662', 'Email': 'info@lekarenmaria.sk', 'Web': 'http://www.lekarenmaria.sk', 'Prevádzkovateľ': 'Lekáreň MÁRIA, s.r.o.\nRajecká cesta\n14\n01313\nRajecké Teplice\nIČO: 36696781'}","Prevádzkovateľ platnosť od: 01.05.2021
+Pondelok: 7:30-17:00
+Utorok: 7:30-17:00
+Streda: 7:30-17:00
+Štvrtok: 7:30-17:00
+Piatok: 7:30-17:00
+Sobota: 7:30-12:00
+Nedeľa: zatvorené
+Nedeľa: Nedeľazatvorené.",49.127589,18.682058,"Rajecká cesta
+14
+01313
+Rajecké Teplice",Lekáreň MÁRIA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-maria.html?page_id=3420,7,Žilina,78
+65-36430501-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36430501-A0001', 'Miesto prevádzkovania': 'Jána Milca\n741/27\n01001\nŽilina', 'Telefón': '+421 417630711', 'Prevádzkovateľ': 'HAKRA, s.r.o.\nJána Hollého\n3\n08001\nPrešov\nIČO: 36430501'}","Prevádzkovateľ platnosť od: 01.03.2012
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.22376652,18.74829878,"Jána Milca
+741/27
+01001
+Žilina",Lekáreň MELISA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-melisa.html?page_id=3415,7,Žilina,78
+65-36771945-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36771945-A0001', 'Miesto prevádzkovania': 'Vojtecha Spanyola\n8187\n01001\nŽilina', 'Telefón': '041 4510410', 'Prevádzkovateľ': 'MEDISALUS, s.r.o.\nVojtecha Spanyola\n8187\n01001\nŽilina\nIČO: 36771945'}","Prevádzkovateľ platnosť od: 02.03.2012
+Pondelok: 7:00-15:15
+Utorok: 7:00-15:15
+Streda: 7:00-15:15
+Štvrtok: 7:00-15:15
+Piatok: 7:00-15:15
+Sobota: zatvorené
+Nedeľa: zatvorené",49.21833020,18.74342330,"Vojtecha Spanyola
+8187
+01001
+Žilina",Lekáreň MEDISALUS,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-medisalus.html?page_id=3414,7,Žilina,78
+65-36350214-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36350214-A0001', 'Miesto prevádzkovania': 'Jána Milca\n33\n01001\nŽilina', 'Telefón': '+421 415042115', 'Prevádzkovateľ': 'MEDCENTRUM MEDIKA, s.r.o.\nHliny\n5\n01701\nPovažská Bystrica\nIČO: 36350214'}","Prevádzkovateľ platnosť od: 17.03.2016
+Pondelok: 7:00-15:00
+Utorok: 7:00-15:00
+Streda: 7:00-15:00
+Štvrtok: 7:00-15:00
+Piatok: 7:00-15:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2235415,18.7489506,"Jána Milca
+33
+01001
+Žilina",Lekáreň MEDCENTRUM MEDIKA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-medcentrum-medika.html?page_id=3411,7,Žilina,78
+65-45517321-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-45517321-A0001', 'Miesto prevádzkovania': 'Hlinská\n8850/12A\n01001\nŽilina', 'Telefón': '+421 417234690, +421 417003665', 'Web': 'mandragoraza@pharmnet.sk', 'Prevádzkovateľ': 'Lekáreň Mandragora ZA, s.r.o.\nHlinská\n8850/12A\n01001\nŽilina\nIČO: 45517321'}","Prevádzkovateľ platnosť od: 01.06.2020
+Pondelok: 8:00-17:00
+Utorok: 8:00-17:00
+Streda: 8:00-17:00
+Štvrtok: 8:00-17:00
+Piatok: 8:00-17:00
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.21038370,18.73583800,"Hlinská
+8850/12A
+01001
+Žilina",Lekáreň MANDRAGORA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-mandragora.html?page_id=3408,7,Žilina,78
+65-36438243-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36438243-A0001', 'Miesto prevádzkovania': 'Vysokoškolákov\n31\n01008\nŽilina', 'Telefón': '+421 41 5627020', 'Prevádzkovateľ': 'Lekáreň Žilpo s.r.o.\nVysokoškolákov\n31\n01008\nŽilina\nIČO: 36438243'}","Prevádzkovateľ platnosť od: 01.03.2012
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2111133,18.7580592,"Vysokoškolákov
+31
+01008
+Žilina",Lekáreň ŽILPO s.r.o.,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-zilpo.html?page_id=3407,7,Žilina,78
+65-36391298-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36391298-A0002', 'Miesto prevádzkovania': 'Jána Milca\n10\n01001\nŽilina', 'Prevádzkovateľ': 'Lekáreń Samaritán, s.r.o.\nDrieňová\n7\n01004\nŽilina\nIČO: 36391298'}","Prevádzkovateľ platnosť od: 02.03.2012
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2249846,18.7449352,"Jána Milca
+10
+01001
+Žilina",Lekáreň SAMARITÁN,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-samaritan.html?page_id=3405,7,Žilina,78
+65-44907117-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-44907117-A0002', 'Miesto prevádzkovania': 'Martinčekova\n116\n01303\nVarín', 'Telefón': '+421 417003725', 'Prevádzkovateľ': 'AKNEL Pharm, s.r.o.\nMartinčekova\n116\n01303\nVarín\nIČO: 44907117'}","Prevádzkovateľ platnosť od: 01.07.2019
+Pondelok: 8:15-16:00
+Utorok: 8:15-16:00
+Streda: 8:15-16:00
+Štvrtok: 8:15-16:00
+Piatok: 8:15-16:00
+Sobota: 8:00-12:00
+Nedeľa: zatvorené",49.2018616,18.8698556,"Martinčekova
+116
+01303
+Varín",Lekáreň LENKA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-lenka.html?page_id=3402,7,Žilina,78
+65-36433683-A0002,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36433683-A0002', 'Miesto prevádzkovania': 'Cementárenská\n101\n01311\nLietavská Lúčka', 'Telefón': '+421 415688431', 'Email': 'lekarenll@seznam.cz', 'Web': 'http://www.lekarenll.sk', 'Prevádzkovateľ': 'LEK.LIETAVSKÁ LÚČKA, s.r.o.\nCementárenská\n101\n01311\nLietavská Lúčka\nIČO: 36433683'}","Prevádzkovateľ platnosť od: 01.03.2012
+Pondelok: 7:00-15:30
+Utorok: 7:00-15:30
+Streda: 7:00-15:30
+Štvrtok: 7:00-15:30
+Piatok: 7:00-15:30
+Sobota: zatvorené
+Nedeľa: zatvorené",49.1741609,18.7219169,"Cementárenská
+101
+01311
+Lietavská Lúčka",Lekáreň LIETAVSKA LÚČKA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-lietavska-lucka.html?page_id=3396,7,Žilina,78
+65-36436933-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36436933-A0001', 'Miesto prevádzkovania': 'Hálkova\n3\n01001\nŽilina', 'Telefón': '+421 417029102', 'Email': 'lekaren@lekarenkolecko.sk', 'Web': 'http://www.lekarenkolecko.sk', 'Prevádzkovateľ': 'Lekáreň Kolečko, s.r.o.\nHálkova\n3\n01001\nŽilina\nIČO: 36436933'}","Prevádzkovateľ platnosť od: 02.03.2012
+Pondelok: 7:00-17:00
+Utorok: 7:00-17:00
+Streda: 7:00-17:00
+Štvrtok: 7:00-17:00
+Piatok: 7:00-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.22120440,18.73752620,"Hálkova
+3
+01001
+Žilina",Lekáreň KOLEČKO,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-kolecko.html?page_id=3388,7,Žilina,78
+65-36435660-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36435660-A0001', 'Miesto prevádzkovania': 'Dolný Val\n135/39\n01001\nŽilina', 'Telefón': '+421 415620898', 'Email': 'ferulasro@gmail.com', 'Prevádzkovateľ': 'FERULA, s.r.o.\nVeľká Okružná\n2632/50\n01001\nŽilina\nIČO: 36435660'}","Prevádzkovateľ platnosť od: 20.07.2021
+Pondelok: 7:30-16:00
+Utorok: 7:30-16:00
+Streda: 7:30-16:00
+Štvrtok: 7:30-16:00
+Piatok: 7:30-16:00
+Sobota: zatvorené
+Nedeľa: zatvorené",49.2230139,18.7377683,"Dolný Val
+135/39
+01001
+Žilina",Lekáreň FERULA,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-ferula.html?page_id=3375,7,Žilina,78
+65-36365939-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36365939-A0001', 'Miesto prevádzkovania': 'HM TESCO\nKošická\n3\n01001\nŽilina', 'Email': 'zilina@ekolekaren.sk', 'Prevádzkovateľ': 'EKOLEKAREN ZL, s.r.o.\nNová Rožňavská\n135\n83104\nBratislava - mestská časť Nové Mesto\nIČO: 36365939'}","Prevádzkovateľ platnosť od: 02.03.2012
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00",49.2215257,18.7586205,"HM TESCO
+Košická
+3
+01001
+Žilina",EKOLEKÁREŇ,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/ekolekaren.html?page_id=3369,7,Žilina,78
+65-36778176-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36778176-A0001', 'Miesto prevádzkovania': 'Vysokoškolákov\n37\n01001\nŽilina', 'Email': 'drmax-za1@drmax.sk', 'Prevádzkovateľ': 'DRUGMARKET s.r.o.\nMoldavská cesta\n8/A/8/A\n04001\nKošice - mestská časť Západ\nIČO: 36778176'}","Prevádzkovateľ platnosť od: 02.03.2012
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00",49.2116559,18.7566160,"Vysokoškolákov
+37
+01001
+Žilina",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-dr.-max-6.html?page_id=3366,7,Žilina,78
+65-36731609-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36731609-A0001', 'Miesto prevádzkovania': 'Národná\n11\n01001\nŽilina', 'Email': 'drmax-za3@drmax.sk', 'Prevádzkovateľ': 'LEKÁREŇ - NÁRODNÁ ŽILINA, s.r.o.\nMoldavská cesta\n8/A\n04011\nKošice - mestská časť Západ\nIČO: 36731609'}","Prevádzkovateľ platnosť od: 20.04.2020
+Pondelok: 7:30-17:00
+Utorok: 7:30-17:00
+Streda: 7:30-17:00
+Štvrtok: 7:30-17:00
+Piatok: 7:30-17:00
+Sobota: zatvorené
+Nedeľa: zatvorené
+Nedeľa: úprava pracovného času kvôli momentálnej situacii",49.2258316,18.7436383,"Národná
+11
+01001
+Žilina",Lekáreň Dr. Max,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-dr.-max-7.html?page_id=3365,7,Žilina,78
+65-36775771-A0001,"{'Druh': 'Verejná lekáreň', 'Identifikátor': '65-36775771-A0001', 'Miesto prevádzkovania': 'OC AUPARK\nVeľká Okružná\n59A\n01001\nŽilina', 'Email': 'auparkza@schneider-lekaren.sk', 'Prevádzkovateľ': 'RASA, s.r.o., Žilina\nČapajevova\n23\n08001\nPrešov\nIČO: 36775771'}","Prevádzkovateľ platnosť od: 20.05.2020
+Pondelok: 8:00-20:00
+Utorok: 8:00-20:00
+Streda: 8:00-20:00
+Štvrtok: 8:00-20:00
+Piatok: 8:00-20:00
+Sobota: 8:00-20:00
+Nedeľa: 8:00-20:00",49.2194334,18.7381955,"OC AUPARK
+Veľká Okružná
+59A
+01001
+Žilina",Lekáreň AUPARK,https://www.e-vuc.sk/zsk/zdravotnictvo/lekarne-a-vydajne-zdravotnickych-pomocok/zilina/lekaren-aupark.html?page_id=3333,7,Žilina,78

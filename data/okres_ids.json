@@ -1,0 +1,318 @@
+[
+    {
+        "id": 0,
+        "name": "Banska Štiavnica"
+    },
+    {
+        "id": 1,
+        "name": "Banská Bystrica"
+    },
+    {
+        "id": 2,
+        "name": "Bardejov"
+    },
+    {
+        "id": 3,
+        "name": "Bratislava 1"
+    },
+    {
+        "id": 4,
+        "name": "Bratislava 2"
+    },
+    {
+        "id": 5,
+        "name": "Bratislava 3"
+    },
+    {
+        "id": 6,
+        "name": "Bratislava 4"
+    },
+    {
+        "id": 7,
+        "name": "Bratislava 5"
+    },
+    {
+        "id": 8,
+        "name": "Brezno"
+    },
+    {
+        "id": 9,
+        "name": "Bytča"
+    },
+    {
+        "id": 10,
+        "name": "Bánovce nad Bebravou"
+    },
+    {
+        "id": 11,
+        "name": "Detva"
+    },
+    {
+        "id": 12,
+        "name": "Dolný Kubín"
+    },
+    {
+        "id": 13,
+        "name": "Dunajská Streda"
+    },
+    {
+        "id": 14,
+        "name": "Galanta"
+    },
+    {
+        "id": 15,
+        "name": "Gelnica"
+    },
+    {
+        "id": 16,
+        "name": "Hlohovec"
+    },
+    {
+        "id": 17,
+        "name": "Humenné"
+    },
+    {
+        "id": 18,
+        "name": "Ilava"
+    },
+    {
+        "id": 19,
+        "name": "Kežmarok"
+    },
+    {
+        "id": 20,
+        "name": "Komárno"
+    },
+    {
+        "id": 21,
+        "name": "Košice - okolie"
+    },
+    {
+        "id": 22,
+        "name": "Košice 1"
+    },
+    {
+        "id": 23,
+        "name": "Košice 2"
+    },
+    {
+        "id": 24,
+        "name": "Košice 3"
+    },
+    {
+        "id": 25,
+        "name": "Košice 4"
+    },
+    {
+        "id": 26,
+        "name": "Krupina"
+    },
+    {
+        "id": 27,
+        "name": "Kysucké Nové Mesto"
+    },
+    {
+        "id": 28,
+        "name": "Levice"
+    },
+    {
+        "id": 29,
+        "name": "Levoča"
+    },
+    {
+        "id": 30,
+        "name": "Liptovský Mikuláš"
+    },
+    {
+        "id": 31,
+        "name": "Lučenec"
+    },
+    {
+        "id": 32,
+        "name": "Malacky"
+    },
+    {
+        "id": 33,
+        "name": "Martin"
+    },
+    {
+        "id": 34,
+        "name": "Medzilaborce"
+    },
+    {
+        "id": 35,
+        "name": "Michalovce"
+    },
+    {
+        "id": 36,
+        "name": "Myjava"
+    },
+    {
+        "id": 37,
+        "name": "Nitra"
+    },
+    {
+        "id": 38,
+        "name": "Nové Mesto nad Váhom"
+    },
+    {
+        "id": 39,
+        "name": "Nové zámky"
+    },
+    {
+        "id": 40,
+        "name": "Námestovo"
+    },
+    {
+        "id": 41,
+        "name": "Partizánske"
+    },
+    {
+        "id": 42,
+        "name": "Pezinok"
+    },
+    {
+        "id": 43,
+        "name": "Pieštany"
+    },
+    {
+        "id": 44,
+        "name": "Poltár"
+    },
+    {
+        "id": 45,
+        "name": "Poprad"
+    },
+    {
+        "id": 46,
+        "name": "Považská Bystrica"
+    },
+    {
+        "id": 47,
+        "name": "Prešov"
+    },
+    {
+        "id": 48,
+        "name": "Prievidza"
+    },
+    {
+        "id": 49,
+        "name": "Púchov"
+    },
+    {
+        "id": 50,
+        "name": "Revúca"
+    },
+    {
+        "id": 51,
+        "name": "Rimavska Sobota"
+    },
+    {
+        "id": 52,
+        "name": "Rožňava"
+    },
+    {
+        "id": 53,
+        "name": "Ružomberok"
+    },
+    {
+        "id": 54,
+        "name": "Sabinov"
+    },
+    {
+        "id": 55,
+        "name": "Senec"
+    },
+    {
+        "id": 56,
+        "name": "Senica"
+    },
+    {
+        "id": 57,
+        "name": "Skalica"
+    },
+    {
+        "id": 58,
+        "name": "Snina"
+    },
+    {
+        "id": 59,
+        "name": "Sobrance"
+    },
+    {
+        "id": 60,
+        "name": "Spišská Nová Ves"
+    },
+    {
+        "id": 61,
+        "name": "Stará Ľubovňa"
+    },
+    {
+        "id": 62,
+        "name": "Stropkov"
+    },
+    {
+        "id": 63,
+        "name": "Svidník"
+    },
+    {
+        "id": 64,
+        "name": "Topoľčany"
+    },
+    {
+        "id": 65,
+        "name": "Trebišov"
+    },
+    {
+        "id": 66,
+        "name": "Trenčín"
+    },
+    {
+        "id": 67,
+        "name": "Trnava"
+    },
+    {
+        "id": 68,
+        "name": "Turčianske Teplice"
+    },
+    {
+        "id": 69,
+        "name": "Tvrdošín"
+    },
+    {
+        "id": 70,
+        "name": "Veľký Krtíš"
+    },
+    {
+        "id": 71,
+        "name": "Vranov nad Topľou"
+    },
+    {
+        "id": 72,
+        "name": "Zlaté Moravce"
+    },
+    {
+        "id": 73,
+        "name": "Zvolen"
+    },
+    {
+        "id": 74,
+        "name": "Čadca"
+    },
+    {
+        "id": 75,
+        "name": "Šaľa"
+    },
+    {
+        "id": 76,
+        "name": "Žarnovica"
+    },
+    {
+        "id": 77,
+        "name": "Žiar nad Hronom"
+    },
+    {
+        "id": 78,
+        "name": "Žilina"
+    }
+]

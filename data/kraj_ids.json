@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "name": "Banskobystricky"
+    },
+    {
+        "id": 1,
+        "name": "Bratislavsky Kraj"
+    },
+    {
+        "id": 2,
+        "name": "Košický"
+    },
+    {
+        "id": 3,
+        "name": "Nitriansky"
+    },
+    {
+        "id": 4,
+        "name": "Prešovský"
+    },
+    {
+        "id": 5,
+        "name": "Trenčiansky"
+    },
+    {
+        "id": 6,
+        "name": "Trnavský"
+    },
+    {
+        "id": 7,
+        "name": "Žilinský"
+    }
+]
