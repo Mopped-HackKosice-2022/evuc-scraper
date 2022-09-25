@@ -1,100 +1,93 @@
-title,doctor_url,specialization,kraj,nepritomnost,doctor_id
-"Poliklinika ČK plus  Sv Jakuba 33 08501 Bardejov, Bardejov, (ALIAN, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/bardejov/poliklinika-ck-plus-sv-jakuba-33-08501-bardejov-bardejov-alian.html?page_id=97177, Klinická imunológia a alergológia,Prešovský samosprávny kraj,"Neprítomnosti:
-od 30.08.2022
-do 26.09.2022
-																		, zdravotná sestra bude prítomná",67-36490008-A0002
-"Ambulancia klinickej imunológie a alergológie, Bardejov, (ALIAN, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/bardejov/ambulancia-klinickej-imunologie-a-alergologie-bardejov-alian.html?page_id=97179, Klinická imunológia a alergológia,Prešovský samosprávny kraj,"Neprítomnosti:
-od 30.08.2022
-do 26.09.2022
-																		, zdravotná sestra bude prítomná",67-36490008-A0014
+title,doctor_url,specialization,kraj,nepritomnost,doctor_id,zastupenie
 "Ambulancia zubného lekárstva, Bardejov, (STOMADENT s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/bardejov/ambulancia-zubneho-lekarstva-bardejov-stomadent.html?page_id=100188, Zubné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
 od 22.08.2022
-do 21.10.2022",67-36501778-A0001
+do 21.10.2022",67-36501778-A0001,"IgoDent, s.r.o.
+
+miesto prevádzky: Nám. L. Berku 3, 08501 Bardejov"
 "Ambulancia zubného lekárstva, Humenné, (DOJORI, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/humenne/ambulancia-zubneho-lekarstva-humenne-dojori.html?page_id=97566," Zubné lekárstvo, Dentoalveolárna chirurgia, Implantológia",Prešovský samosprávny kraj,"Neprítomnosti:
 od 14.09.2022
-do 06.10.2022",67-36512753-A0001
-"Ambulancia zubného lekárstva, Humenné, (MUDr. Marián Mati)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/humenne/ambulancia-zubneho-lekarstva-humenne-mudr.-marian-mati.html?page_id=92672," Zubné lekárstvo, Dentoalveolárna chirurgia",Prešovský samosprávny kraj,"Neprítomnosti:
-od 19.09.2022
-do 18.09.2023
-																		, ambulancia zrušená",51-35538414-A0002
-"Všeobecná ambulancia pre dospelých, Humenné, (MED-AID, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/humenne/vseobecna-ambulancia-pre-dospelych-humenne-med-aid-1.html?page_id=98405, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
-od 20.09.2022
-do 23.11.2022
-																		, MUDr. Eva Urbánová  od  16.9.2022.   do   24.11.2022.   zo štúdijných dôvodov neordinuje.
-Sestra na ambulancii pracuje.   Zastupujúci lekár:  MUDr.František Šarišský",67-36500585-A0001
-"Ortopedická ambulancia, Humenné, (ORSTOMED, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/humenne/ortopedicka-ambulancia-humenne-orstomed-1.html?page_id=99617, Ortopédia,Prešovský samosprávny kraj,"Neprítomnosti:
-od 23.09.2022
-do 24.09.2022",67-36612651-A0001
-"Všeobecná ambulancia pre deti a dorast, Ľubica, (elimedic, s. r. o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/kezmarok/vseobecna-ambulancia-pre-deti-a-dorast-lubica-elimedic-s.-r.-o..html?page_id=98372, Všeobecná starostlivosť o deti a dorast,Prešovský samosprávny kraj,"Neprítomnosti:
-od 30.08.2022
-do 31.12.2022",67-46401806-A0001
-"Hematologická a transfúziologická ambulancia, Kežmarok, (Unilabs Slovensko, s. r. o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/kezmarok/hematologicka-a-transfuziologicka-ambulancia-kezmarok-unilabs-slovensko-s.-r.-o..html?page_id=100929, Hematológia a transfuziológia,Prešovský samosprávny kraj,"Neprítomnosti:
-od 20.09.2022
-do 27.09.2022",51-31647758-A0004
+do 06.10.2022",67-36512753-A0001,"VT - DENT, s.r.o.
+
+miesto prevádzky: 1.mája 2045, 06601 Humenné"
 "Všeobecná ambulancia pre dospelých, Slovenská Ves, (Maďar Med, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/kezmarok/vseobecna-ambulancia-pre-dospelych-slovenska-ves-madar-med.html?page_id=120255, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
 od 22.09.2022
-do 25.09.2022",67-47519991-A0001
-"Mobilné odberové miesto Martina Lányiho - Budova Bažant >>>4,90€<<<, Kežmarok, (SlovakTransLine, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/mobilne-odberove-miesta/kezmarok/mobilne-odberove-miesto-martina-lanyiho-budova-bazant-490eur-kezmarok-slovaktransline.html?page_id=139364, Mobilné odberové miesto,Prešovský samosprávny kraj,"Neprítomnosti:
-od 03.05.2022
-do 15.10.2022",45-44436858-A0001
-"Mobilné odberové miesto, Levoča, (SlovakTransLine, s.r.o.) ZONA caffe, Levoča, (SlovakTransLine, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/mobilne-odberove-miesta/levoca/mobilne-odberove-miesto-levoca-slovaktransline-zona-caffe-levoca-slovaktransline.html?page_id=142408, Mobilné odberové miesto,Prešovský samosprávny kraj,"Neprítomnosti:
-od 03.05.2022
-do 15.10.2022",45-44436858-A0004
+do 25.09.2022",67-47519991-A0001,"PractiCARE, s.r.o.
+
+miesto prevádzky: 261, 05955 Ždiar"
 "Ambulancia zubného lekárstva, Spišský Štvrtok, (PODENT)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/levoca/ambulancia-zubneho-lekarstva-spissky-stvrtok-podent.html?page_id=99791, Zubné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
 od 17.01.2022
 do 30.09.2022
-																		, Zastupuje MDDr. Jozef onduško v Hrabušiciach. Je možné sa objednať na čísle 053/44 902 12",67-36651338-A0001
+																		, Zastupuje MDDr. Jozef onduško v Hrabušiciach. Je možné sa objednať na čísle 053/44 902 12",67-36651338-A0001,"URBANDENT s.r.o.
+
+miesto prevádzky: Hlavná 171/46, 05315 Hrabušice
+ 053/ 44 902 12"
 "COR-azone,s.r.o. - kardiologická  ambulancia , Poprad, (Cor-azone)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/poprad/cor-azone-kardiologicka-ambulancia-poprad-cor-azone.html?page_id=97407, Kardiológia,Prešovský samosprávny kraj,"Neprítomnosti:
 od 19.09.2022
-do 25.09.2022",67-45328561-A0001
+do 25.09.2022",67-45328561-A0001,"REKA Kežmarok, s.r.o.
+
+miesto prevádzky: Dr. Daniela Fischera 2331/6A, 06001 Kežmarok
+22.-23.9.2022
+
+UrgentnýpríjemNemocnica Poprad a.s.
+
+19.9.-21.9.2022"
 "Všeobecná ambulancia pre dospelých, Vysoké Tatry, (TATRA INVEST COMPANY, spol. s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/poprad/vseobecna-ambulancia-pre-dospelych-vysoke-tatry-tatra-invest-company-spol..html?page_id=100249, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
 od 16.09.2022
-do 29.09.2022",67-36444774-A0001
+do 29.09.2022",67-36444774-A0001,"AlergoImuno centrum s.r.o.
+
+miesto prevádzky: Zdravotné stredisko, Tatranská Lomnica552, 06201 Vysoké Tatry"
 "Ortopedická ambulancia, Poprad, (ORTHOS-K, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/poprad/ortopedicka-ambulancia-poprad-orthos-k.html?page_id=104303, Ortopédia,Prešovský samosprávny kraj,"Neprítomnosti:
 od 20.09.2022
-do 31.10.2022",67-44055111-A0001
+do 31.10.2022",67-44055111-A0001,"MUDr. Andrej Paľa - ortopedická ambulancia, s.r.o.
+
+miesto prevádzky: Mnoheľova 2, 05801 Poprad
+
+
+MUDr. Mária Paráková
+
+miesto prevádzky: Banícka 800/27, 05801 Poprad
+
+
+AVICENA ORT
+
+miesto prevádzky: Okružná 761/25, 05801 Poprad"
 "Ortopedická ambulancia, Vysoké Tatry, (ORTHOS-K, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/poprad/ortopedicka-ambulancia-vysoke-tatry-orthos-k.html?page_id=104304, Ortopédia,Prešovský samosprávny kraj,"Neprítomnosti:
 od 20.09.2022
-do 31.10.2022",67-44055111-A0002
-"Mobilné odberové miesto, Vysoké Tatry, (Národný ústav detskej tuberkulózy a respiračných chorôb, n. o. Dolný Smokovec)",https://www.e-vuc.sk/psk/zdravotnictvo/mobilne-odberove-miesta/poprad/mobilne-odberove-miesto-vysoke-tatry-narodny-ustav-detskej-tuberkulozy-a-respiracnych-chorob-n.-o.-dolny-smokovec.html?page_id=135950, Mobilné odberové miesto,Prešovský samosprávny kraj,"Neprítomnosti:
-od 19.09.2022
-do 25.09.2022
-																		, MOM je v termíne od 19. - 25.9.2022 z technických príčin zatvorené.",45-37886479-A0001
-"Mobilné odberové miesto, Vysoké Tatry, (Národný ústav tuberkulózy, pľúcnych chorôb a hrudníkovej chirurgie Vyšné Hágy)",https://www.e-vuc.sk/psk/zdravotnictvo/mobilne-odberove-miesta/poprad/mobilne-odberove-miesto-vysoke-tatry-narodny-ustav-tuberkulozy-plucnych-chorob-a-hrudnikovej-chirurgie-vysne-hagy.html?page_id=135951, Mobilné odberové miesto,Prešovský samosprávny kraj,"Neprítomnosti:
-od 01.09.2022
-do 31.12.2023
-																		, činnosť MOM je pozastavená až do odvolania",45-00227811-A0001
+do 31.10.2022",67-44055111-A0002,"MUDr. Andrej Paľa - ortopedická ambulancia, s.r.o.
+
+miesto prevádzky: Mnoheľova 2, 05801 Poprad
+
+
+MUDr. Mária Paráková
+
+miesto prevádzky: Banícka 800/27, 05801 Poprad
+
+
+AVICENA ORT
+
+miesto prevádzky: Okružná 761/25, 05801 Poprad"
 "Mobilné odberové miesto, Štrba, (DOM SENIOROV Tatranská Štrba, n.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/mobilne-odberove-miesta/poprad/mobilne-odberove-miesto-strba-dom-seniorov-tatranska-strba-n.o..html?page_id=136263, Mobilné odberové miesto,Prešovský samosprávny kraj,"Neprítomnosti:
 od 12.03.2022
-do 30.11.2022",45-45743991-A0002
-"Mobilné odberové miesto, Poprad, (Rescue Servis s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/mobilne-odberove-miesta/poprad/mobilne-odberove-miesto-poprad-rescue-servis.html?page_id=138594,!,Prešovský samosprávny kraj,"Neprítomnosti:
-od 01.03.2022
-do 30.09.2022
-																		, Pozastavenie fungovania MOM.", Mobilné odberové miesto
-"Mobilné odberové miesto, Poprad, (Neovízia s. r. o.)",https://www.e-vuc.sk/psk/zdravotnictvo/mobilne-odberove-miesta/poprad/mobilne-odberove-miesto-poprad-neovizia-s.-r.-o..html?page_id=139429, Mobilné odberové miesto,Prešovský samosprávny kraj,"Neprítomnosti:
-od 01.02.2022
-do 28.02.2030
-																		, ZRUSENIE MOM",45-45346569-A0001
+do 30.11.2022",45-45743991-A0002,"DOM SENIOROV Tatranská Štrba, n.o.
+
+miesto prevádzky: Horská 76/28, 05941 Štrba"
 "Dermatovenerologická ambulancia, Prešov, (DERMA-CARE s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/presov/dermatovenerologicka-ambulancia-presov-derma-care.html?page_id=97511, Dermatovenerológia,Prešovský samosprávny kraj,"Neprítomnosti:
 od 23.09.2022
-do 23.10.2022",67-43856993-A0001
-"Otorinolaryngologická ambulancia, Prešov, (Farmex, spol. s r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/presov/otorinolaryngologicka-ambulancia-presov-farmex-spol.-s-r.o..html?page_id=97774, Otorinolaryngológia,Prešovský samosprávny kraj,"Neprítomnosti:
-od 21.09.2022
-do 28.09.2022",67-31711677-A0002
-"Oftalmologická ambulancia, Prešov, (LACRIMA s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/presov/oftalmologicka-ambulancia-presov-lacrima.html?page_id=98242, Oftalmológia,Prešovský samosprávny kraj,"Neprítomnosti:
-od 19.09.2022
-do 24.09.2022",67-36790630-A0001
-"Všeobecná ambulancia pre dospelých, Prešov, (MAR MEDIK, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/presov/vseobecna-ambulancia-pre-dospelych-presov-mar-medik.html?page_id=98361, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
-od 19.09.2022
-do 24.09.2022",67-46340041-A0001
+do 23.10.2022",67-43856993-A0001,"MUDr. Andrea Pasečiaková
+
+miesto prevádzky: budova ŽSR, Masarykova 11266/31, 08001 Prešov"
 "Gynekologická ambulancia, Prešov, (ORPEGA, s.r.o.,)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/presov/gynekologicka-ambulancia-presov-orpega-1.html?page_id=99613, Gynekológia a pôrodníctvo,Prešovský samosprávny kraj,"Neprítomnosti:
 od 19.09.2022
 do 26.09.2022
-																		, len akútne prípady",67-36486817-A0002
+																		, len akútne prípady",67-36486817-A0002,"GYNPRO, s. r. o.
+
+miesto prevádzky: Masarykova 11266/31, 08001 Prešov"
 "Gynekologická ambulancia, Prešov, (ORPEGA, s.r.o.,)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/presov/gynekologicka-ambulancia-presov-orpega.html?page_id=99614, Gynekologická urológia,Prešovský samosprávny kraj,"Neprítomnosti:
 od 19.09.2022
 do 26.09.2022
-																		, len akútne prípady",67-36486817-A0003
+																		, len akútne prípady",67-36486817-A0003,"GYNPRO, s. r. o.
+
+miesto prevádzky: Masarykova 11266/31, 08001 Prešov"
 "Ambulancia vnútorného lekárstva, Prešov, (TRIMEDIN s. r. o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/presov/ambulancia-vnutorneho-lekarstva-presov-trimedin-s.-r.-o..html?page_id=100300, Vnútorné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
 od 12.09.2022
 do 21.10.2022
@@ -107,39 +100,55 @@ Tel:051 77 11 972
 MUDr. Bachratý Augustín, Hlavná 2972/60, Prešov od 10.10.2022 do 14.10.2022
 Tel.051 770 353
 MUDr. Čenčárik Juraj, Prostejovská 125, Prešov od 17.10.2022 do 21.10.2022
-Tel. 0517 77 21 498",67-36496090-A0001
+Tel. 0517 77 21 498",67-36496090-A0001,"LEAMED, s r.o.,
+
+miesto prevádzky: Matice slovenskej 2A, 08001 Prešov
+
+
+MEDISPOL, s.r.o.
+
+miesto prevádzky: Konštantínova 17, 08001 Prešov
+
+
+Interba, s.r.o.
+
+miesto prevádzky: Hlavná 60, 08001 Prešov
+
+
+INTERMEDIS, s.r.o.
+
+miesto prevádzky: Prostějovská 125, 08001 Prešov"
 "Ambulancia úrazovej chirurgie, MUDr Roman Timko, Prešov, (wesper, a.s.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/presov/ambulancia-urazovej-chirurgie-mudr-roman-timko-presov-wesper-a.s..html?page_id=100456, úrazová chirurgia,Prešovský samosprávny kraj,"Neprítomnosti:
 od 16.09.2022
 do 30.09.2022
-																		, PN lekára",67-44653174-A0025
+																		, PN lekára",67-44653174-A0025,"wesper, a.s.
+
+miesto prevádzky: Poliklinika ProCare Prešov, Jurkovičova 7186/19, 08001 Prešov"
 "Dermatovenerologická ambulancia, MUDr. Klára Martinásková, Prešov, (wesper, a.s.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/presov/dermatovenerologicka-ambulancia-mudr.-klara-martinaskova-presov-wesper-a.s..html?page_id=100458, Dermatovenerológia,Prešovský samosprávny kraj,"Neprítomnosti:
 od 14.09.2022
 do 28.09.2022
-																		, PN",67-44653174-A0029
-"Oftalmologická ambulancia, MUDr. Uličný Pavel, Prešov, (wesper, a.s.), Prešov, (wesper, a.s.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/presov/oftalmologicka-ambulancia-mudr.-ulicny-pavel-presov-wesper-a.s.-presov-wesper-a.s..html?page_id=100465, Oftalmológia,Prešovský samosprávny kraj,"Neprítomnosti:
-od 16.09.2022
-do 30.09.2022
-																		, PN - DR. Kohlerová",67-44653174-A0027
+																		, PN",67-44653174-A0029,"wesper, a.s.
+
+miesto prevádzky: Jurkovičova 7186/19, 08001 Prešov"
 "Dermatovenerologická ambulancia, Prešov, (COSMEDERM Q. s.r.o.,)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/presov/dermatovenerologicka-ambulancia-presov-cosmederm-q..html?page_id=121503, Dermatovenerológia,Prešovský samosprávny kraj,"Neprítomnosti:
 od 11.08.2022
-do 29.09.2022",67-36499561-A0002
-"MOM-Palmax, s.r.o., Prešov, (PALMAX, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/mobilne-odberove-miesta/presov/mom-palmax-presov-palmax.html?page_id=138856, Mobilné odberové miesto,Prešovský samosprávny kraj,"Neprítomnosti:
-od 21.09.2022
-do 05.09.2025",46-50577042-A0001
+do 29.09.2022",67-36499561-A0002,"DERKOL, s.r.o.
+
+miesto prevádzky: Kováčska 15, 08001 Prešov
+
+
+DERMAFIT, s.r.o.
+
+miesto prevádzky: Prostějovská 33, 08001 Prešov"
 "Všeobecná ambulancia pre dospelých, Prešov, (MUCOMED s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/presov/vseobecna-ambulancia-pre-dospelych-presov-mucomed-1.html?page_id=140242, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
 od 31.08.2022
 do 30.09.2022
 																		, zdravotná sestra prítomná na ambulancii
 
 od 31.08.2022
-do 30.09.2022",51-47850230-A0002
-"Hematologická a transfúziologická ambulancia, Prešov, (Unilabs Slovensko, s. r. o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/presov/hematologicka-a-transfuziologicka-ambulancia-presov-unilabs-slovensko-s.-r.-o..html?page_id=140800, Hematológia a transfuziológia,Prešovský samosprávny kraj,"Neprítomnosti:
-od 01.08.2022
-do 30.09.2022
-																		, MUDr. Ľubica Mertenová dlhodobá PN",51-31647758-A0108
-"Mobilné odberové miesto, Prešov, (PALMAX, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/mobilne-odberove-miesta/presov/mobilne-odberove-miesto-presov-palmax.html?page_id=141093, Mobilné odberové miesto,Prešovský samosprávny kraj,"Neprítomnosti:
-od 21.09.2022
-do 01.09.2025",46-50577042-A0002
+do 30.09.2022",51-47850230-A0002,"MUCOMED s.r.o.
+
+miesto prevádzky: Národná trieda 214/27, 04001 Košice-Sever"
 "Dermatovenerologická ambulancia, Lipany, (COSMEDERM Q. s.r.o.,)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/sabinov/dermatovenerologicka-ambulancia-lipany-cosmederm-q..html?page_id=121504, Dermatovenerológia,Prešovský samosprávny kraj,"Neprítomnosti:
 od 11.08.2022
 do 30.09.2022
@@ -149,83 +158,89 @@ do 31.12.2022
 
 od 14.01.2022
 do 31.12.2022
-																		, Pre chorobu ambulancia v Lipanoch dlhodobo neordinuje, zastupuje ambulancia v Prešove,  Sabinovská 78. Za porozumenie ďakujeme.",67-36499561-A0003
+																		, Pre chorobu ambulancia v Lipanoch dlhodobo neordinuje, zastupuje ambulancia v Prešove,  Sabinovská 78. Za porozumenie ďakujeme.",67-36499561-A0003,"DERKOL, s.r.o.
+
+miesto prevádzky: Kováčska 15, 08001 Prešov
+
+
+DERMAFIT, s.r.o.
+
+miesto prevádzky: Prostějovská 33, 08001 Prešov"
 "Ambulancia zubného lekárstva, Snina, (MUDr. Boris Skulina)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/snina/ambulancia-zubneho-lekarstva-snina-mudr.-boris-skulina.html?page_id=98843, Zubné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
 od 07.09.2022
-do 30.09.2022",67-31304770-A0001
-"Všeobecná ambulancia pre dospelých, Snina, (SILHOM, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/snina/vseobecna-ambulancia-pre-dospelych-snina-silhom-2.html?page_id=100079, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
-od 22.09.2022
-do 24.09.2022",67-36488844-A0001
-"Všeobecná ambulancia pre dospelých, Snina, (SILHOM, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/snina/vseobecna-ambulancia-pre-dospelych-snina-silhom.html?page_id=100081, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
-od 22.09.2022
-do 24.09.2022",67-36488844-A0003
-"Všeobecná ambulancia pre dospelých, Ubľa, (MUDr. Alina Piteľ)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/snina/vseobecna-ambulancia-pre-dospelych-ubla-mudr.-alina-pitel.html?page_id=142070, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
-od 17.01.2022
-do 31.12.2022
-																		, zástup priamo v amb. zabezpečuje Stakmed sro, MUDr. Boris Piteľ, v utorok celý deň, štvrtok od 10:30, zvyšné dni prosím kontaktujte amb. VL v Stakčíne 057/ 76 92 700.
-sestrička je na amb. prítomná",67-54232163-A0001
+do 30.09.2022",67-31304770-A0001,"MDDr. Janka Fedorová
+
+miesto prevádzky: Sládkovičova 300/3, 06901 Snina"
 "Všeobecná ambulancia pre dospelých, Stakčín, (Stakmed s. r. o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/snina/vseobecna-ambulancia-pre-dospelych-stakcin-stakmed-s.-r.-o..html?page_id=142074, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
 od 17.01.2022
 do 31.12.2024
 																		,  utorok celý deň a štvrtok od 10:00 - zastupujem v amb. v Ubli, súrne prípady  - volať do Uble: 057 767 3128
-sestrička je na amb. v Stakčíne prítomná",67-52663175-A0001
+sestrička je na amb. v Stakčíne prítomná",67-52663175-A0001,"PRO SAN-MR s.r.o.
+
+miesto prevádzky: Sládkovičova 300/4, 06901 Snina"
+"Všeobecná ambulancia pre dospelých, Ubľa, (MUDr. Alina Piteľ)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/snina/vseobecna-ambulancia-pre-dospelych-ubla-mudr.-alina-pitel.html?page_id=142070, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
+od 17.01.2022
+do 31.12.2022
+																		, zástup priamo v amb. zabezpečuje Stakmed sro, MUDr. Boris Piteľ, v utorok celý deň, štvrtok od 10:30, zvyšné dni prosím kontaktujte amb. VL v Stakčíne 057/ 76 92 700.
+sestrička je na amb. prítomná",67-54232163-A0001,"Stakmed s. r. o.
+
+miesto prevádzky: Slov.Národ.Povstania 574/6, 06761 Stakčín"
 "Všeobecná ambulancia pre dospelých, Nová Ľubovňa, (DAPTI, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/stara-lubovna/vseobecna-ambulancia-pre-dospelych-nova-lubovna-dapti.html?page_id=97436, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
 od 22.09.2022
-do 25.09.2022",67-36514012-A0001
-"Všeobecná ambulancia pre dospelých, Stará Ľubovňa, (JAV - Medic s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/stara-lubovna/vseobecna-ambulancia-pre-dospelych-stara-lubovna-jav-medic.html?page_id=98102, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
-od 16.09.2022
-do 15.10.2022",67-45674205-A0001
-"Ortopedická ambulancia, Stará Ľubovňa, (ORTOFOL s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/stara-lubovna/ortopedicka-ambulancia-stara-lubovna-ortofol.html?page_id=135767, Ortopédia,Prešovský samosprávny kraj,"Neprítomnosti:
-od 24.09.2022
-do 24.09.2022",67-53137418-A0001
+do 25.09.2022",67-36514012-A0001,"DAPTI, s.r.o.
+
+miesto prevádzky: Obchodná 1110/3, 06401 Stará Ľubovňa"
 "Všeobecná ambulancia pre dospelých, Stropkov, (AUDAX D5 s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/stropkov/vseobecna-ambulancia-pre-dospelych-stropkov-audax-d5.html?page_id=97138, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
 od 21.09.2022
-do 26.09.2022",67-46317431-A0001
-"Ambulancia diabetológie a porúch látkovej premeny a výživy, Stropkov, (DIASPAN, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/stropkov/ambulancia-diabetologie-a-poruch-latkovej-premeny-a-vyzivy-stropkov-diaspan.html?page_id=97555," Diabetológia, poruchy látkovej premeny a výživy",Prešovský samosprávny kraj,"Neprítomnosti:
-od 23.09.2022
-do 24.09.2022",67-36698962-A0001
+do 26.09.2022",67-46317431-A0001,"ABASIST, s.r.o.
+
+miesto prevádzky: MUDr.Pribulu 798/10, 08901 Svidník"
 "Gynekologická ambulancia, Stropkov, (TOPGYN, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/stropkov/gynekologicka-ambulancia-stropkov-topgyn.html?page_id=100288," Gynekológia a pôrodníctvo, Ultrazvuk v gynekológii a pôrodníctve",Prešovský samosprávny kraj,"Neprítomnosti:
 od 23.09.2022
 do 27.09.2022
 
 od 23.09.2022
-do 27.09.2022",67-36823449-A0002
-"Všeobecná ambulancia pre dospelých, Stropkov, (VEBI, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/stropkov/vseobecna-ambulancia-pre-dospelych-stropkov-vebi.html?page_id=100346, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
-od 23.09.2022
-do 24.09.2022",67-36659631-A0001
-"Mobilné odberové miesto, Stropkov, (AdNa, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/mobilne-odberove-miesta/stropkov/mobilne-odberove-miesto-stropkov-adna-1.html?page_id=141890, Mobilné odberové miesto,Prešovský samosprávny kraj,"Neprítomnosti:
-od 05.09.2022
-do 31.10.2022",49-51408783-A0002
+do 27.09.2022",67-36823449-A0002,"ANZUMED, spol. s r.o.
+
+miesto prevádzky: MUDr.Pribulu 412/14, 08901 Svidník"
 "Gynekologická ambulancia, Svidník, (TOPGYN, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/svidnik/gynekologicka-ambulancia-svidnik-topgyn.html?page_id=100287," Gynekológia a pôrodníctvo, Ultrazvuk v gynekológii a pôrodníctve",Prešovský samosprávny kraj,"Neprítomnosti:
 od 23.09.2022
-do 27.09.2022",67-36823449-A0001
+do 27.09.2022",67-36823449-A0001,"ANZUMED, spol. s r.o.
+
+miesto prevádzky: MUDr.Pribulu 412/14, 08901 Svidník"
 "Otorinolaryngologická ambulancia, Svidník, (ZENMED)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/svidnik/otorinolaryngologicka-ambulancia-svidnik-zenmed.html?page_id=100525, Otorinolaryngológia,Prešovský samosprávny kraj,"Neprítomnosti:
 od 21.09.2022
 do 28.09.2022
-																		, ak stavy sa budu hlásiť na ORL ambul. Dr. Kucerová",67-36513075-A0001
+																		, ak stavy sa budu hlásiť na ORL ambul. Dr. Kucerová",67-36513075-A0001,"NOSBA spol.
+
+miesto prevádzky: Hviezdoslavova 19/18A, 09101 Stropkov"
 "Všeobecná ambulancia pre dospelých, Vranov nad Topľou, (TANEA, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/vranov-nad-toplou/vseobecna-ambulancia-pre-dospelych-vranov-nad-toplou-tanea.html?page_id=100232, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
 od 02.09.2022
 do 30.09.2022
 																		, Zdravotba sestra je na ambulancii počas ordinacbych hodín
-8,,00 _ 13,00 hod.",67-47930314-A0001
+8,,00 _ 13,00 hod.",67-47930314-A0001,"MUDr. Adriana Heligmanová
+
+miesto prevádzky: M. R. Štefánika 870/210, 09301 Vranov nad Topľou"
 "Všeobecná ambulancia pre dospelých, MUDr Havirová Mária, Hanušovce nad Topľou, (VVLK, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/vranov-nad-toplou/vseobecna-ambulancia-pre-dospelych-mudr-havirova-maria-hanusovce-nad-toplou-vvlk.html?page_id=100437, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
 od 19.09.2022
 do 30.09.2022
-																		, Zastupuje MUDr. Dulina Valentín - dohodnuté zastupovanie",67-45265542-A0001
+																		, Zastupuje MUDr. Dulina Valentín - dohodnuté zastupovanie",67-45265542-A0001,"Promedicum, s.r.o.
+
+miesto prevádzky: Komenského 33, 09431 Hanušovce nad Topľou"
 "Oftalmologická ambulancia, Vranov nad Topľou, (MUDr. Ľudmila Tirpáková)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/vranov-nad-toplou/oftalmologicka-ambulancia-vranov-nad-toplou-mudr.-ludmila-tirpakova.html?page_id=104318, Oftalmológia,Prešovský samosprávny kraj,"Neprítomnosti:
 od 22.08.2022
-do 30.09.2022",67-35530669-A0001
+do 30.09.2022",67-35530669-A0001,"OPHTAL-ASTERMED s.r.o.
+
+miesto prevádzky: Sládkovičova 300/3, 06901 Snina"
 "Všeobecná ambulancia pre dospelých, MUDr Mária Havírová, Vyšný Žipov, (VVLK, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/vranov-nad-toplou/vseobecna-ambulancia-pre-dospelych-mudr-maria-havirova-vysny-zipov-vvlk.html?page_id=126889, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
 od 19.09.2022
 do 30.09.2022
-																		, Zastupuje MUDr. Dulina Valentín - dohodnuté zastupovanie",67-45265542-A0003
+																		, Zastupuje MUDr. Dulina Valentín - dohodnuté zastupovanie",67-45265542-A0003,"Promedicum, s.r.o.
+
+miesto prevádzky: Komenského 33, 09431 Hanušovce nad Topľou"
 "Všeobecná ambulancia pre dospelých, MUDr Mária Jaššová, Bystré, (VVLK, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/vranov-nad-toplou/vseobecna-ambulancia-pre-dospelych-mudr-maria-jassova-bystre-vvlk.html?page_id=126888, Všeobecné lekárstvo,Prešovský samosprávny kraj,"Neprítomnosti:
 od 19.09.2022
 do 30.09.2022
-																		, Zastupuje MUDr. Dulina Valentín - dohodnuté zastupovanie",67-45265542-A0002
-"AG MOM Vranov Čemerné Krčma, Vranov nad Topľou, (DZS - M.K.TRANS, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/mobilne-odberove-miesta/vranov-nad-toplou/ag-mom-vranov-cemerne-krcma-vranov-nad-toplou-dzs-m.k.trans.html?page_id=138754, Mobilné odberové miesto,Prešovský samosprávny kraj,"Neprítomnosti:
-od 03.05.2022
-do 15.10.2022",48-36588181-A0001
-"Mobilné odberové miesto, Vranov nad Topľou, (AdNa, s.r.o.)",https://www.e-vuc.sk/psk/zdravotnictvo/mobilne-odberove-miesta/vranov-nad-toplou/mobilne-odberove-miesto-vranov-nad-toplou-adna.html?page_id=138929, Mobilné odberové miesto,Prešovský samosprávny kraj,"Neprítomnosti:
-od 05.09.2022
-do 31.10.2022",48-51408783-A0001
+																		, Zastupuje MUDr. Dulina Valentín - dohodnuté zastupovanie",67-45265542-A0002,"Promedicum, s.r.o.
+
+miesto prevádzky: Komenského 33, 09431 Hanušovce nad Topľou"

@@ -1,16 +1,29 @@
-title,doctor_url,specialization,kraj,nepritomnost,doctor_id
+title,doctor_url,specialization,kraj,nepritomnost,doctor_id,zastupenie
 "Oftalmologická ambulancia, Komárno, (Oftal.com s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/komarno/oftalmologicka-ambulancia-komarno-oftal.com.html?page_id=89016, Oftalmológia,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 18.09.2022
-do 25.09.2022",64-44682301-A0001
+do 25.09.2022",64-44682301-A0001,"PREMED - OKO s.r.o.
+
+miesto prevádzky: Svätoondrejská ul. 4668/11, 94505 Komárno"
 "Ambulancia klinickej imunológie a alergológie, Bátorove Kosihy, (SIMIDA, s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/komarno/ambulancia-klinickej-imunologie-a-alergologie-batorove-kosihy-simida.html?page_id=89219, Klinická imunológia a alergológia,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 13.09.2022
-do 30.09.2022",64-46523260-A0002
+do 30.09.2022",64-46523260-A0002,"MedKol, s.r.o.
+
+miesto prevádzky: J. Kráľa 8760/3, 94002 Nové Zámky
+
+
+DANIMED, spol. s r.o.
+
+miesto prevádzky: Nám. hrdinov 11/15, 93401 Levice"
 "Otorinolaryngologická ambulancia, Komárno, (HOMO - MED s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/komarno/otorinolaryngologicka-ambulancia-komarno-homo-med.html?page_id=143084, Otorinolaryngológia,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 02.09.2022
-do 30.09.2022",64-53587740-A0001
+do 30.09.2022",64-53587740-A0001,"MEDCHIR, s.r.o.
+
+miesto prevádzky: Krížna 3994/8, 94603 Kolárovo"
 "Ambulancia zubného lekárstva, Želiezovce, (MUDr. Szűcsová Hilda, s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/levice/ambulancia-zubneho-lekarstva-zeliezovce-mudr.-szucsova-hilda-1.html?page_id=88794, Zubné lekárstvo,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 02.01.2020
-do 10.01.2023",64-35932716-A0001
+do 10.01.2023",64-35932716-A0001,"MDDr. Ladislav Szűcs, s.r.o.
+
+miesto prevádzky: SNP 89/3, 93701 Želiezovce"
 "Všeobecná ambulancia pre dospelých, Ipeľský Sokolec, (JAMEDIK, s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/levice/vseobecna-ambulancia-pre-dospelych-ipelsky-sokolec-jamedik.html?page_id=87898, Všeobecné lekárstvo,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 23.09.2022
 do 25.09.2022
@@ -18,84 +31,141 @@ do 25.09.2022
 
 od 23.09.2022
 do 25.09.2022
-																		, 22.09.2022 ordinujeme  do 12.00",64-45719781-A0001
+																		, 22.09.2022 ordinujeme  do 12.00",64-45719781-A0001,"MUDr. Orság, s.r.o.
+
+miesto prevádzky: Komenského 1833/36B, 93701 Želiezovce"
 "Ambulancia zubného lekárstva, Želiezovce, (MUDr. Szűcsová Hilda, s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/levice/ambulancia-zubneho-lekarstva-zeliezovce-mudr.-szucsova-hilda.html?page_id=89933, Zubné lekárstvo,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 02.01.2020
-do 10.01.2023",64-35932716-A0002
+do 10.01.2023",64-35932716-A0002,"MDDr. Ladislav Szűcs, s.r.o.
+
+miesto prevádzky: SNP 89/3, 93701 Želiezovce"
 "Otorinolaryngologická ambulancia, MUDr.Eleonóra Miklášová, Nitra, (Medi-ORL, s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/nitra/otorinolaryngologicka-ambulancia-mudr.eleonora-miklasova-nitra-medi-orl.html?page_id=88056, Otorinolaryngológia,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 23.09.2022
 do 03.10.2022
-																		, Zastupovanie:23.09.-30.09.2022:MUDr.Balcová,ORL ambulancia PK Zlaté Moravce,03.10.2022 - FN Nitra",64-36562157-A0001
+																		, Zastupovanie:23.09.-30.09.2022:MUDr.Balcová,ORL ambulancia PK Zlaté Moravce,03.10.2022 - FN Nitra",64-36562157-A0001,"Bons offices, s.r.o.
+
+miesto prevádzky: Bernolákova 2042/24, 95301 Zlaté Moravce
+23.09.-30.09.2022 do 12:00-AKÚTNE stavy"
 "Psychiatrická ambulancia, Nitra, (ADDICT spol. s r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/nitra/psychiatricka-ambulancia-nitra-addict-spol.-s-r.o..html?page_id=87180," Psychiatria, Medicína drogových závislostí",Nitriansky samosprávny kraj,"Neprítomnosti:
 od 20.09.2022
 do 30.09.2022
-																		, účasť na AT konferencia + príprava na ňu",64-36562521-A0001
+																		, účasť na AT konferencia + príprava na ňu",64-36562521-A0001,"MEDI - PSYCH, s.r.o.
+
+miesto prevádzky: Fatranská 873/12, 94901 Nitra
+20.-22.9,26.-29.9.2022
+
+
+ANIMI PAX, s.r.o.
+
+miesto prevádzky: Čajkovského 843/46, 94911 Nitra
+23. a 30.9.2022"
 "Ambulancia klinickej imunológie a alergológie, Vráble, (SIMIDA, s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/nitra/ambulancia-klinickej-imunologie-a-alergologie-vrable-simida.html?page_id=89220, Klinická imunológia a alergológia,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 13.09.2022
-do 30.09.2022",64-46523260-A0001
+do 30.09.2022",64-46523260-A0001,"MedKol, s.r.o.
+
+miesto prevádzky: J. Kráľa 8760/3, 94002 Nové Zámky
+
+
+DANIMED, spol. s r.o.
+
+miesto prevádzky: Nám. hrdinov 11/15, 93401 Levice"
 "Reumatologická ambulancia, Nitra, (REVITA - MediCentrum, s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/nitra/reumatologicka-ambulancia-nitra-revita-medicentrum.html?page_id=89181, Reumatológia,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 19.09.2022
-do 30.09.2022",64-36567540-A0001
-"Všeobecná ambulancia pre dospelých, Báb, (DOKY Nitra, s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/nitra/vseobecna-ambulancia-pre-dospelych-bab-doky-nitra.html?page_id=124501, Všeobecné lekárstvo,Nitriansky samosprávny kraj,"Neprítomnosti:
-od 19.09.2022
-do 24.09.2022
-																		, Sestrička je  v ambulancii",64-50143565-A0001
-"Všeobecná ambulancia pre dospelých, Lehota, (DOKY Nitra, s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/nitra/vseobecna-ambulancia-pre-dospelych-lehota-doky-nitra.html?page_id=124502, Všeobecné lekárstvo,Nitriansky samosprávny kraj,"Neprítomnosti:
-od 19.09.2022
-do 24.09.2022
-																		, Sestrička je v ambulancii, lekár covid 19",64-50143565-A0002
+do 30.09.2022",64-36567540-A0001,"MEDIPAL, s.r.o.
+
+miesto prevádzky: Šafárikova ul. 2210/1, 93401 Levice
+
+FN Nitra - reumatologická ambulancia
+
+akútne, život ohrozujúce stavy"
 "Všeobecná ambulancia pre dospelých, MUDr. Katarína Bielichová, Nitra, (MUDr. Katarína Bielichová)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/nitra/vseobecna-ambulancia-pre-dospelych-mudr.-katarina-bielichova-nitra-mudr.-katarina-bielichova.html?page_id=131648, Všeobecné lekárstvo,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 25.03.2020
-do 25.05.2023",64-52579999-A0001
+do 25.05.2023",64-52579999-A0001,MUDr. Emília Bielichová
 "Všeobecná ambulancia pre dospelých, Nitra, (LESAMED s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/nitra/vseobecna-ambulancia-pre-dospelych-nitra-lesamed.html?page_id=142270, Všeobecné lekárstvo,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 23.09.2022
-do 25.09.2022",64-54162190-A0001
+do 25.09.2022",64-54162190-A0001,"VALETUDO s.r.o.
+
+miesto prevádzky: Jelenecká 41/139, 95101 Nitrianske Hrnčiarovce"
 "Ambulancia fyziatrie, balneológie a liečebnej rehabilitácie, Ivanka pri Nitre, (MUDr. Jaroslava Držiková)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/nitra/ambulancia-fyziatrie-balneologie-a-liecebnej-rehabilitacie-ivanka-pri-nitre-mudr.-jaroslava-drzikova.html?page_id=143351," Fyziatria, balneológia a liečebná rehabilitácia",Nitriansky samosprávny kraj,"Neprítomnosti:
 od 21.09.2022
-do 29.09.2022",64-54558964-A0002
+do 29.09.2022",64-54558964-A0002,"DLV - REHA s.r.o.
+
+miesto prevádzky: Nemocničná 1, 92701 Šaľa
+
+
+DLV - REHA s.r.o.
+
+miesto prevádzky: Zdravotné stredisko,462/80, 95131 Močenok"
 "SVaLZ, fyziatria, balneológia a liečebná rehabilitácia, Ivanka pri Nitre, (MUDr. Jaroslava Držiková)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/nitra/svalz-fyziatria-balneologia-a-liecebna-rehabilitacia-ivanka-pri-nitre-mudr.-jaroslava-drzikova.html?page_id=143352," Fyziatria, balneológia a liečebná rehabilitácia",Nitriansky samosprávny kraj,"Neprítomnosti:
 od 21.09.2022
-do 29.09.2022",64-54558964-A0001
+do 29.09.2022",64-54558964-A0001,"DLV - REHA s.r.o.
+
+miesto prevádzky: Nemocničná 1, 92701 Šaľa
+
+
+DLV - REHA s.r.o.
+
+miesto prevádzky: Zdravotné stredisko,462/80, 95131 Močenok"
 "Všeobecná ambulancia pre deti a dorast, Michal nad Žitavou, (MUDr. Mária Hajdenová)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/nove-zamky/vseobecna-ambulancia-pre-deti-a-dorast-michal-nad-zitavou-mudr.-maria-hajdenova.html?page_id=88427, Všeobecná starostlivosť o deti a dorast,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 28.08.2022
-do 30.09.2022",64-34060260-A0002
+do 30.09.2022",64-34060260-A0002,"MUDr. Jana Oršulová, s.r.o.
+
+miesto prevádzky: ObZS, Zdravotnícka 500/8, 94148 Podhájska
+
+
+Mestská poliklinika
+
+miesto prevádzky: Detské oddelenie MsPK, Nábrežie 16, 94218 Šurany"
 "Všeobecná ambulancia pre deti a dorast, Maňa, (MUDr. Mária Hajdenová)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/nove-zamky/vseobecna-ambulancia-pre-deti-a-dorast-mana-mudr.-maria-hajdenova.html?page_id=88428, Všeobecná starostlivosť o deti a dorast,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 28.08.2022
-do 30.09.2022",64-34060260-A0001
+do 30.09.2022",64-34060260-A0001,"MUDr. Jana Oršulová, s.r.o.
+
+miesto prevádzky: ObZS, Zdravotnícka 500/8, 94148 Podhájska
+
+
+Mestská poliklinika
+
+miesto prevádzky: Detské oddelenie MsPK, Nábrežie 16, 94218 Šurany"
 "Všeobecná ambulancia pre dospelých, Nové Zámky, (MUDr. Adriana Jóbová, s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/nove-zamky/vseobecna-ambulancia-pre-dospelych-nove-zamky-mudr.-adriana-jobova.html?page_id=88284, Všeobecné lekárstvo,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 19.09.2022
-do 26.09.2022",64-35969971-A0001
+do 26.09.2022",64-35969971-A0001,"NOVOLEK s.r.o.
+
+miesto prevádzky: G. Czuczora 551/11, 94002 Nové Zámky
+zástup v dňoch 19.9.-21.9.22
+
+
+MUDr. Machová MEDA, s.r.o.
+
+miesto prevádzky: G. Czuczora 114/1, 94002 Nové Zámky
+zástup dňa 22.9.22
+
+
+MUDr. Zuzana Hlavičková, s. r. o.
+
+miesto prevádzky: Komárňanská 8967/24, 94002 Nové Zámky
+zástup dňa 23.9.22
+
+
+HOMEOZDRAV, s.r.o.
+
+miesto prevádzky: Hlavná 556/4, 94111 Palárikovo
+zástup dňa 26.9.22"
 "Ambulancia zubného lekárstva, Nové Zámky, (MUDr. Barkóczi Andrej, s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/nove-zamky/ambulancia-zubneho-lekarstva-nove-zamky-mudr.-barkoczi-andrej.html?page_id=88311, Zubné lekárstvo,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 19.09.2022
-do 30.09.2022",64-36717053-A0001
-"Všeobecná ambulancia pre deti a dorast, MUDr.Ivica Šurániová, Šurany, (Mestská poliklinika)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/nove-zamky/vseobecna-ambulancia-pre-deti-a-dorast-mudr.ivica-suraniova-surany-mestska-poliklinika.html?page_id=88219, Všeobecná starostlivosť o deti a dorast,Nitriansky samosprávny kraj,"Neprítomnosti:
-od 09.09.2022
-do 26.09.2022
-																		, Zastupujú len v akútnych prípadoch:
+do 30.09.2022",64-36717053-A0001,"JOMIMED s.r.o.
 
-detské lekárky v Mestskej poliklinike, Šurany, Nábrežie 16.",64-35606347-A0027
+miesto prevádzky: P. Várdayho 10086/11, 94002 Nové Zámky"
 "Všeobecná ambulancia pre dospelých, Štúrovo, (AVK MEDIC, s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/nove-zamky/vseobecna-ambulancia-pre-dospelych-sturovo-avk-medic.html?page_id=87268, Všeobecné lekárstvo,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 12.09.2022
 do 25.09.2022
-																		, Od 12.09.2022 do 25.9.2022 čerpáme dovolenku. V súrnych prípadoch zastupuje MUDr. Peter Janák v Kameníne, č.t. 036 7596112",64-46873279-A0001
+																		, Od 12.09.2022 do 25.9.2022 čerpáme dovolenku. V súrnych prípadoch zastupuje MUDr. Peter Janák v Kameníne, č.t. 036 7596112",64-46873279-A0001,"OPTOMEDIC s.r.o.
+
+miesto prevádzky: Kamenín 641, 94357 Kamenín"
 "Infektologická ambulancia, Topoľčany, (INF.ZZH, s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/topolcany/infektologicka-ambulancia-topolcany-inf.zzh.html?page_id=87871, Infektológia,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 22.09.2022
-do 26.09.2022",64-36285145-A0001
-"MOM AG+PCR, Trhovisko, Zlaté Moravce, (Lekáreň ZLP, s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/mobilne-odberove-miesta/zlate-moravce/mom-agpcr-trhovisko-zlate-moravce-lekaren-zlp.html?page_id=141543, Mobilné odberové miesto,Nitriansky samosprávny kraj,"Neprítomnosti:
-od 30.04.2022
-do 30.09.2022",29-52233456-A0002
-"MOM AG+PCR, Trhovisko, Zlaté Moravce, (Lekáreň ZLP, s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/mobilne-odberove-miesta/zlate-moravce/mom-agpcr-trhovisko-zlate-moravce-lekaren-zlp-1.html?page_id=141862, Mobilné odberové miesto,Nitriansky samosprávny kraj,"Neprítomnosti:
-od 30.04.2022
-do 30.09.2022",29-52233456-A0003
-"Všeobecná ambulancia pre dospelých, Diakovce, (MUDr. Peter Lachký)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/sala/vseobecna-ambulancia-pre-dospelych-diakovce-mudr.-peter-lachky.html?page_id=88582, Všeobecné lekárstvo,Nitriansky samosprávny kraj,"Neprítomnosti:
-od 23.09.2022
-do 24.09.2022",64-34042717-A0001
+do 26.09.2022",64-36285145-A0001,MUDr.Mišútová Viera
 "Poliklinika, Šaľa, (Duslo, a.s.)",https://www.e-vuc.sk/nsk/zdravotnictvo/ambulantne-zdravotnicke-zariadenia/sala/poliklinika-sala-duslo-a.s.-1.html?page_id=87493, Ortopédia,Nitriansky samosprávny kraj,"Neprítomnosti:
 od 24.01.2022
-do 31.12.2022",64-35826487-A0007
-"AG MOM ŠAĽA, Šaľa, (SG business consulting, s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/mobilne-odberove-miesta/sala/ag-mom-sala-sala-sg-business-consulting.html?page_id=141546,!,Nitriansky samosprávny kraj,"Neprítomnosti:
-od 15.03.2022
-do 30.09.2022", Mobilné odberové miesto
-"AG MOM VEČA, Šaľa, (SG business consulting, s.r.o.)",https://www.e-vuc.sk/nsk/zdravotnictvo/mobilne-odberove-miesta/sala/ag-mom-veca-sala-sg-business-consulting.html?page_id=142015,!,Nitriansky samosprávny kraj,"Neprítomnosti:
-od 14.03.2022
-do 30.09.2022", Mobilné odberové miesto
+do 31.12.2022",64-35826487-A0007,"H - SAMI, spoločnosť s ručením obmedzeným
+
+miesto prevádzky: Nemocničná 1, 92701 Šaľa"

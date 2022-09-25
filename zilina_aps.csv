@@ -1,0 +1,192 @@
+doctor_id,info,open_hours,lat,lng,services,adresa,title,doctor_url,kraj_id,okres,okres_id,isDetska
+51-17335825-A0002,"{'Druh zariadenia': 'ambulancia pevnej APS pre deti a dorast', 'Identifikátor': '51-17335825-A0002', 'Odborné zameranie': 'pevná ambulantná pohotovostná služba pre deti a dorast', 'Spádové územie': 'Bytča, Kysucké Nové Mesto, Žilina', 'Miesto prevádzkovania': 'FNsP Žilina\nVojtecha Spanyola\n43\n01207\nŽilina', 'Poisťovne': 'VšZP, Dôvera, Union', 'Poskytovateľ': 'Fakultná nemocnica s poliklinikou Žilina\nVojtecha Spanyola\n1740/43\n01207\nŽilina\nIČO: 17335825\nwww.fnspza.sk', 'Telefón': '+4215110855'}","Telefón platnosť od: 01.07.2018
+Pondelok: 16:00-22:00
+Utorok: 16:00-22:00
+Streda: 16:00-22:00
+Štvrtok: 16:00-22:00
+Piatok: 16:00-22:00
+Sobota: 7:00-22:00
+Nedeľa: 7:00-22:00",49.2187404,18.7457299,"DNES 07:00 - 14:30 Fakultná nemocnica s poliklinikou Žilina
+24.9.2022   07:00 - 14:30   Fakultná nemocnica s poliklinikou Žilina
+24.9.2022   14:30 - 22:00   ADAPED, s.r.o.
+25.9.2022   07:00 - 14:30   Fakultná nemocnica s poliklinikou Žilina","FNsP Žilina
+Vojtecha Spanyola
+43
+01207
+Žilina","Ambulantná pohotovostná služba pre deti a dorast, Vojtecha Spanyola, Žilina", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/zilina/ambulantna-pohotovostna-sluzba-pre-deti-a-dorast-vojtecha-spanyola-zilina-fakultna-nemocnica-s-poliklinikou-zilina.html?page_id=127531 ,7,Bytča,9,1
+51-17335469-A0003,"{'Druh zariadenia': 'ambulancia pevnej APS pre deti a dorast', 'Identifikátor': '51-17335469-A0003', 'Odborné zameranie': 'pevná ambulantná pohotovostná služba pre deti a dorast', 'Spádové územie': 'Čadca', 'Miesto prevádzkovania': 'Kysucká nemocnica s poliklinikou Čadca\nPalárikova\n2311\n02216\nČadca', 'Poisťovne': 'VšZP, Dôvera, Union', 'Poskytovateľ': 'Kysucká nemocnica s poliklinikou Čadca\nPalárikova\n2311\n02216\nČadca\nIČO: 17335469\nwww.kysuckanemocnica.sk'}","Poskytovateľ platnosť od: 01.07.2018
+Pondelok: 16:00-22:00
+Utorok: 16:00-22:00
+Streda: 16:00-22:00
+Štvrtok: 16:00-22:00
+Piatok: 16:00-22:00
+Sobota: 7:00-22:00
+Nedeľa: 7:00-22:00",49.4389582,18.7710052,"DNES 07:00 - 22:00 Kysucká nemocnica s poliklinikou Čadca
+24.9.2022   07:00 - 22:00   Kysucká nemocnica s poliklinikou Čadca
+25.9.2022   07:00 - 22:00   Kysucká nemocnica s poliklinikou Čadca
+26.9.2022   16:00 - 22:00   Kysucká nemocnica s poliklinikou Čadca","Kysucká nemocnica s poliklinikou Čadca
+Palárikova
+2311
+02216
+Čadca","Ambulantná pohotovostná služba pre deti a dorast, Palárikova, Čadca", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/cadca/ambulantna-pohotovostna-sluzba-pre-deti-a-dorast-palarikova-cadca-kysucka-nemocnica-s-poliklinikou-cadca.html?page_id=127661 ,7,Čadca,74,1
+51-00634905-A0002,"{'Druh zariadenia': 'ambulancia pevnej APS pre deti a dorast', 'Identifikátor': '51-00634905-A0002', 'Odborné zameranie': 'pevná ambulantná pohotovostná služba pre deti a dorast', 'Spádové územie': 'Dolný Kubín', 'Miesto prevádzkovania': 'Dolnooravská nemocnica s poliklinikou MUDr. L.N.Jégého Dolný Kubín\nNemocničná\n1944/10\n02614\nDolný Kubín', 'Poisťovne': 'VšZP, Dôvera, Union', 'Poskytovateľ': 'Dolnooravská nemocnica s poliklinikou MUDr. L. N. Jégého\nNemocničná\n1944/10\n02614\nDolný Kubín\nIČO: 00634905\nwww.donsp.sk'}","Poskytovateľ platnosť od: 01.01.2020
+Pondelok: 16:00-22:00
+Utorok: 16:00-22:00
+Streda: 16:00-22:00
+Štvrtok: 16:00-22:00
+Piatok: 16:00-22:00
+Sobota: neordinuje
+Nedeľa: neordinuje
+Nedeľa: Sobota, Nedeľa a počas sviatkov - od 07:00 hod. - 22:00 hod.",49.2142137,19.3030945,"DNES 07:00 - 22:00 Dolnooravská nemocnica s poliklinikou MUDr. L. N. Jégého
+24.9.2022   07:00 - 22:00   Dolnooravská nemocnica s poliklinikou MUDr. L. N. Jégého
+25.9.2022   07:00 - 22:00   MUDr. Mária Záňová
+26.9.2022   16:00 - 22:00   Dolnooravská nemocnica s poliklinikou MUDr. L. N. Jégého","Dolnooravská nemocnica s poliklinikou MUDr. L.N.Jégého Dolný Kubín
+Nemocničná
+1944/10
+02614
+Dolný Kubín","Ambulantná pohotovostná služba pre deti a dorast, Nemocničná, Dolný Kubín", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/dolny-kubin/ambulantna-pohotovostna-sluzba-pre-deti-a-dorast-nemocnicna-dolny-kubin-dolnooravska-nemocnica-s-poliklinikou-mudr.-l.-n.-jegeho.html?page_id=127657 ,7,Dolný,12,1
+51-17335825-A0002,"{'Druh zariadenia': 'ambulancia pevnej APS pre deti a dorast', 'Identifikátor': '51-17335825-A0002', 'Odborné zameranie': 'pevná ambulantná pohotovostná služba pre deti a dorast', 'Spádové územie': 'Bytča, Kysucké Nové Mesto, Žilina', 'Miesto prevádzkovania': 'FNsP Žilina\nVojtecha Spanyola\n43\n01207\nŽilina', 'Poisťovne': 'VšZP, Dôvera, Union', 'Poskytovateľ': 'Fakultná nemocnica s poliklinikou Žilina\nVojtecha Spanyola\n1740/43\n01207\nŽilina\nIČO: 17335825\nwww.fnspza.sk', 'Telefón': '+4215110855'}","Telefón platnosť od: 01.07.2018
+Pondelok: 16:00-22:00
+Utorok: 16:00-22:00
+Streda: 16:00-22:00
+Štvrtok: 16:00-22:00
+Piatok: 16:00-22:00
+Sobota: 7:00-22:00
+Nedeľa: 7:00-22:00",49.2187404,18.7457299,"DNES 07:00 - 14:30 Fakultná nemocnica s poliklinikou Žilina
+24.9.2022   07:00 - 14:30   Fakultná nemocnica s poliklinikou Žilina
+24.9.2022   14:30 - 22:00   ADAPED, s.r.o.
+25.9.2022   07:00 - 14:30   Fakultná nemocnica s poliklinikou Žilina","FNsP Žilina
+Vojtecha Spanyola
+43
+01207
+Žilina","Ambulantná pohotovostná služba pre deti a dorast, Vojtecha Spanyola, Žilina", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/zilina/ambulantna-pohotovostna-sluzba-pre-deti-a-dorast-vojtecha-spanyola-zilina-fakultna-nemocnica-s-poliklinikou-zilina.html?page_id=127531 ,7,Kysucké,27,1
+51-17336163-A0002,"{'Druh zariadenia': 'ambulancia pevnej APS pre deti a dorast', 'Identifikátor': '51-17336163-A0002', 'Odborné zameranie': 'pevná ambulantná pohotovostná služba pre deti a dorast', 'Spádové územie': 'Liptovský Mikuláš', 'Miesto prevádzkovania': 'Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš\nPalúčanská\n25\n03101\nLiptovský Mikuláš', 'Poisťovne': 'VšZP, Dôvera, Union', 'Poskytovateľ': 'Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš\nPalúčanská\n214/25\n03101\nLiptovský Mikuláš\nIČO: 17336163\nwww.nsplm.sk'}","Poskytovateľ platnosť od: 01.07.2018
+Pondelok: 16:00-22:00
+Utorok: 16:00-22:00
+Streda: 16:00-22:00
+Štvrtok: 16:00-22:00
+Piatok: 16:00-22:00
+Sobota: 7:00-22:00
+Nedeľa: 7:00-22:00",49.0847466,19.5979604,"DNES 07:00 - 22:00 Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš
+sestra: Ščasná
+24.9.2022   07:00 - 22:00   Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš
+25.9.2022   07:00 - 22:00   Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš
+26.9.2022   16:00 - 22:00   Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš","Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš
+Palúčanská
+25
+03101
+Liptovský Mikuláš","Ambulantná pohotovostná služba pre deti a dorast, Palúčanská, Liptovský Mikuláš", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/liptovsky-mikulas/ambulantna-pohotovostna-sluzba-pre-deti-a-dorast-palucanska-liptovsky-mikulas-liptovska-nemocnica-s-poliklinikou-mudr.-ivana-stodolu-liptovsky-mikulas.html?page_id=127664 ,7,Liptovský,30,1
+51-47553804-A0001,"{'Druh zariadenia': 'ambulancia pevnej APS pre deti a dorast', 'Identifikátor': '51-47553804-A0001', 'Odborné zameranie': 'pevná ambulantná pohotovostná služba pre deti a dorast', 'Spádové územie': 'Turčianske Teplice, Martin', 'Miesto prevádzkovania': 'P. Mudroňa\n495/27\n03601\nMartin', 'Poisťovne': 'VšZP, Dôvera, Union', 'Poskytovateľ': 'MUDr. Vanda Pedanová, s.r.o.\nUzlovská\n2\n03608\nMartin\nIČO: 47553804'}","Poskytovateľ platnosť od: 27.09.2018
+Pondelok: 16:00-22:00
+Utorok: 16:00-22:00
+Streda: 16:00-22:00
+Štvrtok: 16:00-22:00
+Piatok: 16:00-22:00
+Sobota: 7:00-22:00
+Nedeľa: 7:00-22:00",49.0657258,18.9200501,"DNES 07:00 - 22:00 MUDr. Vanda Pedanová, s.r.o.
+24.9.2022   07:00 - 22:00   MUDr. Vanda Pedanová, s.r.o.
+25.9.2022   07:00 - 22:00   MUDr. Vanda Pedanová, s.r.o.
+26.9.2022   16:00 - 22:00   MUDr. Vanda Pedanová, s.r.o.","P. Mudroňa
+495/27
+03601
+Martin","Ambulantná pohotovostná služba pre deti a dorast, P. Mudroňa, Martin", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/martin/ambulantna-pohotovostna-sluzba-pre-deti-a-dorast-p.-mudrona-martin-mudr.-vanda-pedanova.html?page_id=129366 ,7,Martin,33,1
+51-00365327-A0002,"{'Druh zariadenia': 'ambulancia pevnej APS pre deti a dorast', 'Identifikátor': '51-00365327-A0002', 'Odborné zameranie': 'pevná ambulantná pohotovostná služba pre deti a dorast', 'Spádové územie': 'Turčianske Teplice, Martin', 'Miesto prevádzkovania': 'Univerzitná nemocnica Martin\nKollárova\n2\n03659\nMartin', 'Poisťovne': '', 'Poskytovateľ': 'Univerzitná nemocnica Martin\nKollárova\n4248/2\n03659\nMartin\nIČO: 00365327\nwww.unm.sk'}","Poskytovateľ platnosť od: 01.07.2018
+Pondelok: 16:00-22:00
+Utorok: 16:00-22:00
+Streda: 16:00-22:00
+Štvrtok: 16:00-22:00
+Piatok: 16:00-22:00
+Sobota: 7:00-22:00
+Nedeľa: 7:00-22:00",49.0604008,18.9194998,,"Univerzitná nemocnica Martin
+Kollárova
+2
+03659
+Martin","Ambulantná pohotovostná služba pre deti a dorast, Kollárova, Martin", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/martin/ambulantna-pohotovostna-sluzba-pre-deti-a-dorast-kollarova-martin-univerzitna-nemocnica-martin.html?page_id=127668 ,7,Martin,33,1
+51-00634875-A0001,"{'Druh zariadenia': 'ambulancia pevnej APS pre deti a dorast', 'Identifikátor': '51-00634875-A0001', 'Odborné zameranie': 'pevná ambulantná pohotovostná služba pre deti a dorast', 'Spádové územie': 'Námestovo', 'Miesto prevádzkovania': '1. poschodí - B trakt, č. dverí 172\nČerveného kríža\n62/30\n02901\nNámestovo', 'Poisťovne': 'VšZP, Dôvera, Union', 'Poskytovateľ': 'Oravská poliklinika Námestovo\nČerveného kríža\n62/30\n02901\nNámestovo\nIČO: 00634875\nwww.opnam.sk', 'Telefón': '+421 43 5503 210'}","Telefón platnosť od: 01.07.2018
+Pondelok: 16:00-22:00
+Utorok: 16:00-22:00
+Streda: 16:00-22:00
+Štvrtok: 16:00-22:00
+Piatok: 16:00-22:00
+Sobota: 7:00-22:00
+Nedeľa: 7:00-22:00",49.4058244,19.4760923,"DNES 07:00 - 22:00 Oravská poliklinika Námestovo
+24.9.2022   07:00 - 22:00   Oravská poliklinika Námestovo
+25.9.2022   07:00 - 22:00   Oravská poliklinika Námestovo
+26.9.2022   16:00 - 22:00   Oravská poliklinika Námestovo","1. poschodí - B trakt, č. dverí 172
+Červeného kríža
+62/30
+02901
+Námestovo","Ambulantná pohotovostná služba pre deti a dorast, Červeného kríža, Námestovo", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/namestovo/ambulantna-pohotovostna-sluzba-pre-deti-a-dorast-cerveneho-kriza-namestovo-oravska-poliklinika-namestovo.html?page_id=127542 ,7,Námestovo,40,1
+51-36752797-A0001,"{'Druh zariadenia': 'ambulancia pevnej APS pre deti a dorast', 'Identifikátor': '51-36752797-A0001', 'Odborné zameranie': 'pevná ambulantná pohotovostná služba pre deti a dorast', 'Spádové územie': 'Ružomberok', 'Miesto prevádzkovania': '1. poschodie\nHurbanova\n5\n03401\nRužomberok', 'Poisťovne': 'VšZP, Dôvera, Union', 'Poskytovateľ': 'Nosko Health Prevention, s. r. o.\nKamenná\n1757/2\n03484\nLiptovské Sliače\nIČO: 36752797', 'Telefón': '044 4321300 (16:00-22:00 pracovné dni, 7:00-22:00 víkendy a sviatky)'}","Telefón platnosť od: 01.07.2018
+Telefón Ambulantná pohotovostná služba pre deti a dorast, Hurbanova 5, Ružomberok, (Nosko Health Prevention, s.r.o.)
+Pondelok: 16:00-22:00
+Utorok: 16:00-22:00
+Streda: 16:00-22:00
+Štvrtok: 16:00-22:00
+Piatok: 16:00-22:00
+Sobota: 7:00-22:00
+Nedeľa: 7:00-22:00
+Nedeľa: Od 22:00 do 7:00 pacientov ošetruje detská klinika ÚVN Ružomberok, Považská 1380/2, číslo telefónu: 044/4382355",49.0814735,19.3068768,"DNES 07:00 - 22:00 Nosko Health Prevention, s. r. o.
+24.9.2022   07:00 - 22:00   Nosko Health Prevention, s. r. o.
+25.9.2022   07:00 - 22:00   Nosko Health Prevention, s. r. o.
+26.9.2022   16:00 - 22:00   Nosko Health Prevention, s. r. o.","1. poschodie
+Hurbanova
+5
+03401
+Ružomberok","Ambulantná pohotovostná služba pre deti a dorast, Hurbanova, Ružomberok", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/ruzomberok/ambulantna-pohotovostna-sluzba-pre-deti-a-dorast-hurbanova-ruzomberok-nosko-health-prevention-s.-r.-o..html?page_id=127540 ,7,Ružomberok,53,1
+51-47553804-A0001,"{'Druh zariadenia': 'ambulancia pevnej APS pre deti a dorast', 'Identifikátor': '51-47553804-A0001', 'Odborné zameranie': 'pevná ambulantná pohotovostná služba pre deti a dorast', 'Spádové územie': 'Turčianske Teplice, Martin', 'Miesto prevádzkovania': 'P. Mudroňa\n495/27\n03601\nMartin', 'Poisťovne': 'VšZP, Dôvera, Union', 'Poskytovateľ': 'MUDr. Vanda Pedanová, s.r.o.\nUzlovská\n2\n03608\nMartin\nIČO: 47553804'}","Poskytovateľ platnosť od: 27.09.2018
+Pondelok: 16:00-22:00
+Utorok: 16:00-22:00
+Streda: 16:00-22:00
+Štvrtok: 16:00-22:00
+Piatok: 16:00-22:00
+Sobota: 7:00-22:00
+Nedeľa: 7:00-22:00",49.0657258,18.9200501,"DNES 07:00 - 22:00 MUDr. Vanda Pedanová, s.r.o.
+24.9.2022   07:00 - 22:00   MUDr. Vanda Pedanová, s.r.o.
+25.9.2022   07:00 - 22:00   MUDr. Vanda Pedanová, s.r.o.
+26.9.2022   16:00 - 22:00   MUDr. Vanda Pedanová, s.r.o.","P. Mudroňa
+495/27
+03601
+Martin","Ambulantná pohotovostná služba pre deti a dorast, P. Mudroňa, Martin", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/martin/ambulantna-pohotovostna-sluzba-pre-deti-a-dorast-p.-mudrona-martin-mudr.-vanda-pedanova.html?page_id=129366 ,7,Turčianske,68,1
+51-00365327-A0002,"{'Druh zariadenia': 'ambulancia pevnej APS pre deti a dorast', 'Identifikátor': '51-00365327-A0002', 'Odborné zameranie': 'pevná ambulantná pohotovostná služba pre deti a dorast', 'Spádové územie': 'Turčianske Teplice, Martin', 'Miesto prevádzkovania': 'Univerzitná nemocnica Martin\nKollárova\n2\n03659\nMartin', 'Poisťovne': '', 'Poskytovateľ': 'Univerzitná nemocnica Martin\nKollárova\n4248/2\n03659\nMartin\nIČO: 00365327\nwww.unm.sk'}","Poskytovateľ platnosť od: 01.07.2018
+Pondelok: 16:00-22:00
+Utorok: 16:00-22:00
+Streda: 16:00-22:00
+Štvrtok: 16:00-22:00
+Piatok: 16:00-22:00
+Sobota: 7:00-22:00
+Nedeľa: 7:00-22:00",49.0604008,18.9194998,,"Univerzitná nemocnica Martin
+Kollárova
+2
+03659
+Martin","Ambulantná pohotovostná služba pre deti a dorast, Kollárova, Martin", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/martin/ambulantna-pohotovostna-sluzba-pre-deti-a-dorast-kollarova-martin-univerzitna-nemocnica-martin.html?page_id=127668 ,7,Turčianske,68,1
+51-00634891-A0001,"{'Druh zariadenia': 'ambulancia pevnej APS pre deti a dorast', 'Identifikátor': '51-00634891-A0001', 'Odborné zameranie': 'pevná ambulantná pohotovostná služba pre deti a dorast', 'Spádové územie': 'Tvrdošín', 'Miesto prevádzkovania': 'Hornooravská nemocnica s poliklinikou Trstená\nMieru\n549/16\n02801\nTrstená', 'Poisťovne': 'VšZP, Dôvera, Union', 'Poskytovateľ': 'Hornooravská nemocnica s poliklinikou Trstená\nMieru\n549/16\n02801\nTrstená\nIČO: 00634891\nwww.nsptrstena.sk'}","Poskytovateľ platnosť od: 01.07.2018
+Pondelok: 16:00-22:00
+Utorok: 16:00-22:00
+Streda: 16:00-22:00
+Štvrtok: 16:00-22:00
+Piatok: 16:00-22:00
+Sobota: 7:00-22:00
+Nedeľa: 7:00-22:00",49.3580167,19.6014858,"DNES 07:00 - 22:00 Hornooravská nemocnica s poliklinikou Trstená																sestra: Arvayová
+24.9.2022   07:00 - 22:00   Hornooravská nemocnica s poliklinikou Trstená
+25.9.2022   07:00 - 22:00   Hornooravská nemocnica s poliklinikou Trstená
+26.9.2022   16:00 - 22:00   Hornooravská nemocnica s poliklinikou Trstená","Hornooravská nemocnica s poliklinikou Trstená
+Mieru
+549/16
+02801
+Trstená","Ambulantná pohotovostná služba pre deti a dorast, Mieru, Trstená", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/tvrdosin/ambulantna-pohotovostna-sluzba-pre-deti-a-dorast-mieru-trstena-hornooravska-nemocnica-s-poliklinikou-trstena.html?page_id=127538 ,7,Tvrdošín,69,1
+51-17335825-A0002,"{'Druh zariadenia': 'ambulancia pevnej APS pre deti a dorast', 'Identifikátor': '51-17335825-A0002', 'Odborné zameranie': 'pevná ambulantná pohotovostná služba pre deti a dorast', 'Spádové územie': 'Bytča, Kysucké Nové Mesto, Žilina', 'Miesto prevádzkovania': 'FNsP Žilina\nVojtecha Spanyola\n43\n01207\nŽilina', 'Poisťovne': 'VšZP, Dôvera, Union', 'Poskytovateľ': 'Fakultná nemocnica s poliklinikou Žilina\nVojtecha Spanyola\n1740/43\n01207\nŽilina\nIČO: 17335825\nwww.fnspza.sk', 'Telefón': '+4215110855'}","Telefón platnosť od: 01.07.2018
+Pondelok: 16:00-22:00
+Utorok: 16:00-22:00
+Streda: 16:00-22:00
+Štvrtok: 16:00-22:00
+Piatok: 16:00-22:00
+Sobota: 7:00-22:00
+Nedeľa: 7:00-22:00",49.2187404,18.7457299,"DNES 07:00 - 14:30 Fakultná nemocnica s poliklinikou Žilina
+24.9.2022   07:00 - 14:30   Fakultná nemocnica s poliklinikou Žilina
+24.9.2022   14:30 - 22:00   ADAPED, s.r.o.
+25.9.2022   07:00 - 14:30   Fakultná nemocnica s poliklinikou Žilina","FNsP Žilina
+Vojtecha Spanyola
+43
+01207
+Žilina","Ambulantná pohotovostná služba pre deti a dorast, Vojtecha Spanyola, Žilina", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/zilina/ambulantna-pohotovostna-sluzba-pre-deti-a-dorast-vojtecha-spanyola-zilina-fakultna-nemocnica-s-poliklinikou-zilina.html?page_id=127531 ,7,Žilina,78,1

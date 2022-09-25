@@ -1,4 +1,4 @@
-doctor_id,info,open_hours,lat,lng,adresa,title,doctor_url,kraj_id,okres,okres_id
+doctor_id,info,open_hours,lat,lng,services,adresa,title,doctor_url,kraj_id,okres,okres_id
 51-37983181-A0001,"{'Druh zariadenia': 'ambulancia pevnej APS pre dospelých', 'Identifikátor': '51-37983181-A0001', 'Odborné zameranie': 'pevná ambulantná pohotovostná služba pre dospelých', 'Spádové územie': 'Bytča', 'Miesto prevádzkovania': 'Sidónie Sakalovej\n93/6\n01401\nBytča', 'Poisťovne': 'VšZP, Dôvera, Union', 'Poskytovateľ': 'Zdravie v ohrození n.o.\nS. Sakalovej\n161/16\n01401\nBytča\nIČO: 37983181'}","Poskytovateľ platnosť od: 27.09.2018
 Pondelok: 16:00-22:00
 Utorok: 16:00-22:00
@@ -6,7 +6,10 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.2218734,18.5589617,"Sidónie Sakalovej
+Nedeľa: 7:00-22:00",49.2218734,18.5589617,"DNES 07:00 - 22:00 Zdravie v ohrození n.o.
+24.9.2022   07:00 - 22:00   Zdravie v ohrození n.o.
+25.9.2022   07:00 - 22:00   Zdravie v ohrození n.o.
+26.9.2022   16:00 - 22:00   Zdravie v ohrození n.o.","Sidónie Sakalovej
 93/6
 01401
 Bytča","Ambulantná pohotovostná služba pre dospelých, Sidónie Sakalovej, Bytča", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/bytca/ambulantna-pohotovostna-sluzba-pre-dospelych-sidonie-sakalovej-bytca-zdravie-v-ohrozeni-n.o..html?page_id=129368 ,7,Bytča,9
@@ -17,7 +20,7 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.2197730,18.5606083,"Sidónie Sakalovej
+Nedeľa: 7:00-22:00",49.2197730,18.5606083,,"Sidónie Sakalovej
 161/16
 01401
 Bytča","Ambulantná pohotovostná služba pre dospelých, Sidónie Sakalovej, Bytča", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/bytca/ambulantna-pohotovostna-sluzba-pre-dospelych-sidonie-sakalovej-bytca-medi-care-by.html?page_id=127666 ,7,Bytča,9
@@ -28,7 +31,10 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.2187404,18.7457299,"FNsP Žilina
+Nedeľa: 7:00-22:00",49.2187404,18.7457299,"DNES 07:00 - 14:30 Fakultná nemocnica s poliklinikou Žilina
+24.9.2022   07:00 - 14:30   Fakultná nemocnica s poliklinikou Žilina
+24.9.2022   14:30 - 22:00   ADAPED, s.r.o.
+25.9.2022   07:00 - 14:30   Fakultná nemocnica s poliklinikou Žilina","FNsP Žilina
 Vojtecha Spanyola
 43
 01207
@@ -41,7 +47,10 @@ Streda: 15:30-19:00
 Štvrtok: 15:30-19:00
 Piatok: 15:30-19:00
 Sobota: 8:00-13:00
-Nedeľa: 8:00-13:00",49.4389582,18.7710052,"Palárikova
+Nedeľa: 8:00-13:00",49.4389582,18.7710052,"DNES 08:00 - 13:00 MUDr. Mária Kubicová
+24.9.2022   08:00 - 13:00   MUDr. Mária Kubicová
+25.9.2022   08:00 - 13:00   MUDr. Mária Piščeková, spol. s r. o.
+26.9.2022   15:30 - 19:00   Tetiana Morgunova","Palárikova
 2311
 02216
 Čadca","Zubno–lekárska pohotovostná služba, Palárikova, Čadca", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/cadca/zubno-lekarska-pohotovostna-sluzba-palarikova-cadca-kysucka-nemocnica-s-poliklinikou-cadca.html?page_id=139845 ,7,Čadca,74
@@ -52,7 +61,10 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.4389582,18.7710052,"Kysucká nemocnica s poliklinikou Čadca
+Nedeľa: 7:00-22:00",49.4389582,18.7710052,"DNES 07:00 - 22:00 MEDIKOR s.r.o.
+24.9.2022   07:00 - 22:00   MEDIKOR s.r.o.
+25.9.2022   07:00 - 22:00   TERAMI, s.r.o.
+26.9.2022   16:00 - 22:00   MEDIK-C, s.r.o.","Kysucká nemocnica s poliklinikou Čadca
 Palárikova
 2311
 02216
@@ -64,7 +76,10 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.4389582,18.7710052,"Kysucká nemocnica s poliklinikou Čadca
+Nedeľa: 7:00-22:00",49.4389582,18.7710052,"DNES 07:00 - 22:00 Kysucká nemocnica s poliklinikou Čadca
+24.9.2022   07:00 - 22:00   Kysucká nemocnica s poliklinikou Čadca
+25.9.2022   07:00 - 22:00   Kysucká nemocnica s poliklinikou Čadca
+26.9.2022   16:00 - 22:00   Kysucká nemocnica s poliklinikou Čadca","Kysucká nemocnica s poliklinikou Čadca
 Palárikova
 2311
 02216
@@ -77,7 +92,10 @@ Streda: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: neordinuje
 Nedeľa: neordinuje
-Nedeľa: Sobota, nedeľa, počas sviatkov - od 07:00 hod - 22:00 hod.",49.2142137,19.3030945,"Dolnooravská nemocnica s poliklinikou MUDr. L.N.Jégého Dolný Kubín
+Nedeľa: Sobota, nedeľa, počas sviatkov - od 07:00 hod - 22:00 hod.",49.2142137,19.3030945,"DNES 07:00 - 22:00 Dolnooravská nemocnica s poliklinikou MUDr. L. N. Jégého
+24.9.2022   07:00 - 22:00   Dolnooravská nemocnica s poliklinikou MUDr. L. N. Jégého
+25.9.2022   07:00 - 22:00   Dolnooravská nemocnica s poliklinikou MUDr. L. N. Jégého
+26.9.2022   16:00 - 22:00   Dolnooravská nemocnica s poliklinikou MUDr. L. N. Jégého","Dolnooravská nemocnica s poliklinikou MUDr. L.N.Jégého Dolný Kubín
 Nemocničná
 1944/10
 02614
@@ -90,7 +108,10 @@ Streda: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: neordinuje
 Nedeľa: neordinuje
-Nedeľa: Sobota, Nedeľa a počas sviatkov - od 07:00 hod. - 22:00 hod.",49.2142137,19.3030945,"Dolnooravská nemocnica s poliklinikou MUDr. L.N.Jégého Dolný Kubín
+Nedeľa: Sobota, Nedeľa a počas sviatkov - od 07:00 hod. - 22:00 hod.",49.2142137,19.3030945,"DNES 07:00 - 22:00 Dolnooravská nemocnica s poliklinikou MUDr. L. N. Jégého
+24.9.2022   07:00 - 22:00   Dolnooravská nemocnica s poliklinikou MUDr. L. N. Jégého
+25.9.2022   07:00 - 22:00   MUDr. Mária Záňová
+26.9.2022   16:00 - 22:00   Dolnooravská nemocnica s poliklinikou MUDr. L. N. Jégého","Dolnooravská nemocnica s poliklinikou MUDr. L.N.Jégého Dolný Kubín
 Nemocničná
 1944/10
 02614
@@ -102,7 +123,11 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.3000400,18.7859414,"Belanského
+Nedeľa: 7:00-22:00",49.3000400,18.7859414,"DNES 07:00 - 22:00 KURATÍVA, s.r.o.
+sestra: REMIŠOVÁ
+24.9.2022   07:00 - 22:00   KURATÍVA, s.r.o.
+25.9.2022   07:00 - 22:00   KURATÍVA, s.r.o.
+26.9.2022   16:00 - 22:00   KURATÍVA, s.r.o.","Belanského
 1346
 02401
 Kysucké Nové Mesto","Ambulantná pohotovostná služba pre dospelých, Belanského, Kysucké Nové Mesto", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/kysucke-nove-mesto/ambulantna-pohotovostna-sluzba-pre-dospelych-belanskeho-kysucke-nove-mesto-kurativa.html?page_id=127659 ,7,Kysucké,27
@@ -113,7 +138,10 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.2187404,18.7457299,"FNsP Žilina
+Nedeľa: 7:00-22:00",49.2187404,18.7457299,"DNES 07:00 - 14:30 Fakultná nemocnica s poliklinikou Žilina
+24.9.2022   07:00 - 14:30   Fakultná nemocnica s poliklinikou Žilina
+24.9.2022   14:30 - 22:00   ADAPED, s.r.o.
+25.9.2022   07:00 - 14:30   Fakultná nemocnica s poliklinikou Žilina","FNsP Žilina
 Vojtecha Spanyola
 43
 01207
@@ -125,7 +153,10 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.0847466,19.5979604,"Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš
+Nedeľa: 7:00-22:00",49.0847466,19.5979604,"DNES 07:00 - 22:00 Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš
+24.9.2022   07:00 - 22:00   Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš
+25.9.2022   07:00 - 22:00   Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš
+26.9.2022   16:00 - 22:00   Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš","Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš
 Palúčanská
 25
 03123
@@ -137,7 +168,11 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.0847466,19.5979604,"Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš
+Nedeľa: 7:00-22:00",49.0847466,19.5979604,"DNES 07:00 - 22:00 Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš
+sestra: Ščasná
+24.9.2022   07:00 - 22:00   Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš
+25.9.2022   07:00 - 22:00   Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš
+26.9.2022   16:00 - 22:00   Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš","Liptovská nemocnica s poliklinikou MUDr. Ivana Stodolu Liptovský Mikuláš
 Palúčanská
 25
 03101
@@ -149,7 +184,10 @@ Streda: 15:30-19:00
 Štvrtok: 15:30-19:00
 Piatok: 15:30-19:00
 Sobota: 8:00-12:00
-Nedeľa: 8:00-12:00",49.0838057,19.6168844,"Školská
+Nedeľa: 8:00-12:00",49.0838057,19.6168844,"DNES 08:00 - 12:00 MUDr. Ronald Petrík
+24.9.2022   08:00 - 12:00   MUDr. Ronald Petrík
+25.9.2022   08:00 - 12:00   TatraDent, s.r.o.
+26.9.2022   15:30 - 19:00   MUDr. Jaroslava Hlavačková, s.r.o.","Školská
 1138/3
 03101
 Liptovský Mikuláš","Zubno–lekárska pohotovostná služba, Školská, Liptovský Mikuláš", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/liptovsky-mikulas/zubno-lekarska-pohotovostna-sluzba-skolska-liptovsky-mikulas-luckydent.html?page_id=127425 ,7,Liptovský,30
@@ -160,7 +198,10 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.0657258,18.9200501,"P. Mudroňa
+Nedeľa: 7:00-22:00",49.0657258,18.9200501,"DNES 07:00 - 22:00 MUDr. Vanda Pedanová, s.r.o.
+24.9.2022   07:00 - 22:00   MUDr. Vanda Pedanová, s.r.o.
+25.9.2022   07:00 - 22:00   MUDr. Vanda Pedanová, s.r.o.
+26.9.2022   16:00 - 22:00   MUDr. Vanda Pedanová, s.r.o.","P. Mudroňa
 495/27
 03601
 Martin","Ambulantná pohotovostná služba pre deti a dorast, P. Mudroňa, Martin", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/martin/ambulantna-pohotovostna-sluzba-pre-deti-a-dorast-p.-mudrona-martin-mudr.-vanda-pedanova.html?page_id=129366 ,7,Martin,33
@@ -171,7 +212,10 @@ Streda: 15:30-19:00
 Štvrtok: 15:30-19:00
 Piatok: 15:30-19:00
 Sobota: 8:00-12:00
-Nedeľa: 8:00-12:00",49.0691754,18.9191838,"Poliklinika I.
+Nedeľa: 8:00-12:00",49.0691754,18.9191838,"DNES 08:00 - 12:00 DELIZA, s.r.o.
+24.9.2022   08:00 - 12:00   DELIZA, s.r.o.
+25.9.2022   08:00 - 12:00   MUDr. Radomíra Maturová
+26.9.2022   15:30 - 19:00   M2 Dent, s.r.o.","Poliklinika I.
 Škultétyho
 470/7
 03601
@@ -183,7 +227,7 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.0604008,18.9194998,"Univerzitná nemocnica Martin
+Nedeľa: 7:00-22:00",49.0604008,18.9194998,,"Univerzitná nemocnica Martin
 Kollárova
 2
 03659
@@ -195,7 +239,10 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.0673852,18.9204098,"Pavla Mudroňa
+Nedeľa: 7:00-22:00",49.0673852,18.9204098,"DNES 07:00 - 22:00 ZDRAVIE Martin, s.r.o.
+24.9.2022   07:00 - 22:00   ZDRAVIE Martin, s.r.o.
+25.9.2022   07:00 - 22:00   ZDRAVIE Martin, s.r.o.
+26.9.2022   16:00 - 22:00   ZDRAVIE Martin, s.r.o.","Pavla Mudroňa
 11
 03601
 Martin","Ambulantná pohotovostná služba pre dospelých, Pavla Mudroňa, Martin", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/martin/ambulantna-pohotovostna-sluzba-pre-dospelych-pavla-mudrona-martin-zdravie-martin.html?page_id=127544 ,7,Martin,33
@@ -206,7 +253,10 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.4058244,19.4760923,"1. poschodí - B trakt, č. dverí 170
+Nedeľa: 7:00-22:00",49.4058244,19.4760923,"DNES 07:00 - 22:00 Oravská poliklinika Námestovo
+24.9.2022   07:00 - 22:00   Oravská poliklinika Námestovo
+25.9.2022   07:00 - 22:00   Oravská poliklinika Námestovo
+26.9.2022   16:00 - 22:00   Oravská poliklinika Námestovo","1. poschodí - B trakt, č. dverí 170
 Oravská poliklinika Námestovo
 Červeného kríža
 62/30
@@ -219,7 +269,10 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.4058244,19.4760923,"1. poschodí - B trakt, č. dverí 172
+Nedeľa: 7:00-22:00",49.4058244,19.4760923,"DNES 07:00 - 22:00 Oravská poliklinika Námestovo
+24.9.2022   07:00 - 22:00   Oravská poliklinika Námestovo
+25.9.2022   07:00 - 22:00   Oravská poliklinika Námestovo
+26.9.2022   16:00 - 22:00   Oravská poliklinika Námestovo","1. poschodí - B trakt, č. dverí 172
 Červeného kríža
 62/30
 02901
@@ -232,7 +285,11 @@ Streda: neordinuje
 Piatok: neordinuje
 Sobota: 8:00-13:00
 Nedeľa: 8:00-13:00
-Nedeľa: sobota, nedeľa, sviatky",49.4058244,19.4760923,"Červeného Kríža
+Nedeľa: sobota, nedeľa, sviatky",49.4058244,19.4760923,"DNES 08:00 - 13:00 Hadent, s.r.o.
+sestra: Jatyelová Anna
+24.9.2022   08:00 - 13:00   Hadent, s.r.o.
+25.9.2022   08:00 - 13:00   KASDENT, s.r.o.
+1.10.2022   08:00 - 13:00   MDDr. Alžbeta Kvasničáková","Červeného Kríža
 62/30
 02901
 Námestovo","Zubno–lekárska pohotovostná služba, Červeného Kríža, Námestovo", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/namestovo/zubno-lekarska-pohotovostna-sluzba-cerveneho-kriza-namestovo-oravska-poliklinika-namestovo.html?page_id=127432 ,7,Námestovo,40
@@ -243,7 +300,10 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.0762465,19.3124385,"Gen. Miloša Vesela
+Nedeľa: 7:00-22:00",49.0762465,19.3124385,"DNES 07:00 - 22:00 Ústredná vojenská nemocnica SNP Ružomberok - FN
+24.9.2022   07:00 - 22:00   Ústredná vojenská nemocnica SNP Ružomberok - FN
+25.9.2022   07:00 - 22:00   Ústredná vojenská nemocnica SNP Ružomberok - FN
+26.9.2022   16:00 - 22:00   Ústredná vojenská nemocnica SNP Ružomberok - FN","Gen. Miloša Vesela
 88/21
 03401
 Ružomberok","Ambulantná pohotovostná služba pre dospelých, Gen. Miloša Vesela, Ružomberok", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/ruzomberok/ambulantna-pohotovostna-sluzba-pre-dospelych-gen.-milosa-vesela-ruzomberok-ustredna-vojenska-nemocnica-snp-ruzomberok-fn.html?page_id=127545 ,7,Ružomberok,53
@@ -256,7 +316,10 @@ Streda: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
 Nedeľa: 7:00-22:00
-Nedeľa: Od 22:00 do 7:00 pacientov ošetruje detská klinika ÚVN Ružomberok, Považská 1380/2, číslo telefónu: 044/4382355",49.0814735,19.3068768,"1. poschodie
+Nedeľa: Od 22:00 do 7:00 pacientov ošetruje detská klinika ÚVN Ružomberok, Považská 1380/2, číslo telefónu: 044/4382355",49.0814735,19.3068768,"DNES 07:00 - 22:00 Nosko Health Prevention, s. r. o.
+24.9.2022   07:00 - 22:00   Nosko Health Prevention, s. r. o.
+25.9.2022   07:00 - 22:00   Nosko Health Prevention, s. r. o.
+26.9.2022   16:00 - 22:00   Nosko Health Prevention, s. r. o.","1. poschodie
 Hurbanova
 5
 03401
@@ -268,7 +331,10 @@ Streda: 15:30-19:30ambulancia
 Štvrtok: 15:30-19:30ambulancia
 Piatok: 15:30-19:30ambulancia
 Sobota: 7:00-12:00ambulancia
-Nedeľa: 7:00-12:00ambulancia",49.0762465,19.3124385,"Stomatologické oddelenie ÚVN
+Nedeľa: 7:00-12:00ambulancia",49.0762465,19.3124385,"DNES 07:00 - 12:00 edent s.r.o.
+24.9.2022   07:00 - 12:00   edent s.r.o.
+25.9.2022   07:00 - 12:00   Ústredná vojenská nemocnica SNP Ružomberok - FN
+26.9.2022   15:30 - 19:30   ANN DENTAL s.r.o.","Stomatologické oddelenie ÚVN
 Gen. Miloša Vesela
 88/21
 03401
@@ -280,7 +346,10 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",48.8754737,18.8556966,"Ambulantná pohotovostná služba pre dospelých, 9. mája 438/15, Turčianske Teplice, (H.A.M. Academy, s.r.o.)
+Nedeľa: 7:00-22:00",48.8754737,18.8556966,"DNES 07:00 - 22:00 H.A.M. Academy, s.r.o.
+24.9.2022   07:00 - 22:00   H.A.M. Academy, s.r.o.
+25.9.2022   07:00 - 22:00   H.A.M. Academy, s.r.o.
+26.9.2022   16:00 - 22:00   H.A.M. Academy, s.r.o.","Ambulantná pohotovostná služba pre dospelých, 9. mája 438/15, Turčianske Teplice, (H.A.M. Academy, s.r.o.)
 1.mája
 855/15
 03901
@@ -292,7 +361,10 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.0657258,18.9200501,"P. Mudroňa
+Nedeľa: 7:00-22:00",49.0657258,18.9200501,"DNES 07:00 - 22:00 MUDr. Vanda Pedanová, s.r.o.
+24.9.2022   07:00 - 22:00   MUDr. Vanda Pedanová, s.r.o.
+25.9.2022   07:00 - 22:00   MUDr. Vanda Pedanová, s.r.o.
+26.9.2022   16:00 - 22:00   MUDr. Vanda Pedanová, s.r.o.","P. Mudroňa
 495/27
 03601
 Martin","Ambulantná pohotovostná služba pre deti a dorast, P. Mudroňa, Martin", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/martin/ambulantna-pohotovostna-sluzba-pre-deti-a-dorast-p.-mudrona-martin-mudr.-vanda-pedanova.html?page_id=129366 ,7,Turčianske,68
@@ -303,7 +375,7 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.0604008,18.9194998,"Univerzitná nemocnica Martin
+Nedeľa: 7:00-22:00",49.0604008,18.9194998,,"Univerzitná nemocnica Martin
 Kollárova
 2
 03659
@@ -315,7 +387,10 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.3580167,19.6014858,"Hornooravská nemocnica s poliklinikou Trstená
+Nedeľa: 7:00-22:00",49.3580167,19.6014858,"DNES 07:00 - 22:00 Hornooravská nemocnica s poliklinikou Trstená
+24.9.2022   07:00 - 22:00   Hornooravská nemocnica s poliklinikou Trstená
+25.9.2022   07:00 - 22:00   Hornooravská nemocnica s poliklinikou Trstená
+26.9.2022   16:00 - 22:00   Hornooravská nemocnica s poliklinikou Trstená","Hornooravská nemocnica s poliklinikou Trstená
 Mieru
 549/16
 02801
@@ -327,7 +402,10 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.3580167,19.6014858,"Hornooravská nemocnica s poliklinikou Trstená
+Nedeľa: 7:00-22:00",49.3580167,19.6014858,"DNES 07:00 - 22:00 Hornooravská nemocnica s poliklinikou Trstená																sestra: Arvayová
+24.9.2022   07:00 - 22:00   Hornooravská nemocnica s poliklinikou Trstená
+25.9.2022   07:00 - 22:00   Hornooravská nemocnica s poliklinikou Trstená
+26.9.2022   16:00 - 22:00   Hornooravská nemocnica s poliklinikou Trstená","Hornooravská nemocnica s poliklinikou Trstená
 Mieru
 549/16
 02801
@@ -339,7 +417,11 @@ Streda: neordinuje
 Štvrtok: neordinuje
 Piatok: neordinuje
 Sobota: 8:00-12:00
-Nedeľa: 8:00-12:00",49.3580167,19.6014858,"Mieru
+Nedeľa: 8:00-12:00",49.3580167,19.6014858,"DNES 08:00 - 12:00 V-DENTAL, s.r.o.
+sestra: Hovančíková
+24.9.2022   08:00 - 12:00   V-DENTAL, s.r.o.
+25.9.2022   08:00 - 12:00   DENTPA, s.r.o.
+1.10.2022   08:00 - 12:00   P a S s.r.o.","Mieru
 549/16
 02801
 Trstená","Zubno–lekárska pohotovostná služba, Mieru, Trstená", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/tvrdosin/zubno-lekarska-pohotovostna-sluzba-mieru-trstena-hornooravska-nemocnica-s-poliklinikou-trstena.html?page_id=127419 ,7,Tvrdošín,69
@@ -351,7 +433,10 @@ Streda: 8:00-21:00
 Piatok: 8:00-21:00
 Sobota: 10:00-20:00
 Nedeľa: 10:00-20:00
-Nedeľa: V čase od 20,00 - 21,00 hod., počas pracovných dní a v čase od 19,00 - 20,00 hod. počas víkendov a sviatkov, ošetrujeme pacientov v karanténnom režime.",49.2255986,18.7442569,"Jána Milca
+Nedeľa: V čase od 20,00 - 21,00 hod., počas pracovných dní a v čase od 19,00 - 20,00 hod. počas víkendov a sviatkov, ošetrujeme pacientov v karanténnom režime.",49.2255986,18.7442569,"DNES 10:00 - 20:00 SK Dental, LSPP, s.r.o. (52312615)
+24.9.2022   10:00 - 20:00   SK Dental, LSPP, s.r.o. (52312615)
+25.9.2022   10:00 - 20:00   SK Dental, LSPP, s.r.o. (52312615)
+26.9.2022   08:00 - 21:00   SK Dental, LSPP, s.r.o. (52312615)","Jána Milca
 807/1
 01001
 Žilina","Zubno–lekárska pohotovostná služba, Jána Milca, Žilina", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/zilina/zubno-lekarska-pohotovostna-sluzba-jana-milca-zilina-sk-dental-lspp.html?page_id=131097 ,7,Žilina,78
@@ -362,7 +447,10 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.2187404,18.7457299,"Vojtecha Spanyola
+Nedeľa: 7:00-22:00",49.2187404,18.7457299,"DNES 07:00 - 14:30 Fakultná nemocnica s poliklinikou Žilina
+24.9.2022   07:00 - 14:30   Fakultná nemocnica s poliklinikou Žilina
+24.9.2022   14:30 - 22:00   Fakultná nemocnica s poliklinikou Žilina
+25.9.2022   07:00 - 14:30   Fakultná nemocnica s poliklinikou Žilina","Vojtecha Spanyola
 43
 01207
 Žilina","Ambulantná pohotovostná služba pre dospelých, Vojtecha Spanyola, Žilina", https://www.e-vuc.sk/zsk/zdravotnictvo/ambulantna-pohotovostna-sluzba-v-zsk/zilina/ambulantna-pohotovostna-sluzba-pre-dospelych-vojtecha-spanyola-zilina-fakultna-nemocnica-s-poliklinikou-zilina.html?page_id=127530 ,7,Žilina,78
@@ -373,7 +461,10 @@ Streda: 16:00-22:00
 Štvrtok: 16:00-22:00
 Piatok: 16:00-22:00
 Sobota: 7:00-22:00
-Nedeľa: 7:00-22:00",49.2187404,18.7457299,"FNsP Žilina
+Nedeľa: 7:00-22:00",49.2187404,18.7457299,"DNES 07:00 - 14:30 Fakultná nemocnica s poliklinikou Žilina
+24.9.2022   07:00 - 14:30   Fakultná nemocnica s poliklinikou Žilina
+24.9.2022   14:30 - 22:00   ADAPED, s.r.o.
+25.9.2022   07:00 - 14:30   Fakultná nemocnica s poliklinikou Žilina","FNsP Žilina
 Vojtecha Spanyola
 43
 01207
